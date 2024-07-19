@@ -3,7 +3,7 @@
 
 
 - [Plano de ensino de Engenharia de Software](#plano-de-ensino-de-engenharia-de-software)
-  - [1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-308---engenharia-de-software-60h---turma-01-20241)
+  - [1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)](#1-turma-facet-snp-308---engenharia-de-software-60h---turma-01-20242)
     - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
     - [1.2. Horário: 19hs - 22hs](#12-horário-19hs---22hs)
     - [1.3. Ementa:](#13-ementa)
@@ -41,7 +41,7 @@
 
 
 ---
-## 1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.1)
+## 1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)
 
 ### 1.1. Carga Horária Total: 60
 
@@ -101,66 +101,33 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ## 4. Datas de aulas e conteúdo:<br>
 
 | Data    | Conteúdo |
-| -------- | ------- |
-| Aula 1: 29/02/2024 | Introdução. Referências bibliográficas. Conceitos de engenharia de software, análise de sistemas, analista de sistemas. [Avaliação institucional](https://avaliacao.unemat.br/login). Slides da [aula1](https://docs.google.com/presentation/d/e/2PACX-1vRQjK-scnLNFmtfomuciCAOy4DTO1v5FUWo2qfUeaiujU3ynkT7zHTIPGyIYYG_fE5lTG6Dksxio_vr/pub?start=false&loop=false&delayms=3000). |
-| Aula 2: 07/03/2024 | Processos de software, processos ágeis, SCRUM, Kanban, análise de requisitos, introdução à UML. [Slides da aula 1 (continuação)](https://docs.google.com/presentation/d/e/2PACX-1vTP_912GJaAeb6BAzEE1BC2rYLMEIC2jgIsAbuacbS_3UDemTwIIsOnI4zGuma_E3WADrEq_diX32A0/pub?start=false&loop=false&delayms=3000), [Slides da aula 2](https://docs.google.com/presentation/d/e/2PACX-1vRJylXQw67mu5xckf19ZWwMMopaeQ2elUiLHu1Iak6e6khMal4Rnb1xV2-2ZS-_tjiFATHv5DZ7Ys5b/pub?start=false&loop=false&delayms=3000). Lista de ferramentas comentadas segue abaixo nesta página. |
-| Aula 3: 14/03/2024 | Análise de requisitos. UML. [Slides da aula 3](https://docs.google.com/presentation/d/e/2PACX-1vRQ1ILkJwYsAsJ97T8fjmSqvwJTx1OQkKQxEi87OwfEMtclPZy9Rfzi2N9OvKslWwyT52Jke-ip6rAM/pub?start=false&loop=false&delayms=3000). [Revisão de OO](https://docs.google.com/presentation/d/e/2PACX-1vQW1f3_QNjrU6wWywsb02VxDTn597CDnwkvMn-ZMWGM-s2Kvu9Pe7H0gRxEkoArInv_p0esfHN9GQcD/pub?start=false&loop=false&delayms=3000). [UML](https://docs.google.com/presentation/d/e/2PACX-1vRCmAqjZbafemLmNFzMgzRcGhm9u5SFZOCaMsvmPAeaS3j6BBN4AHQUskyNnqZqbMY0PolovsssK3zu/pub?start=false&loop=false&delayms=3000). Arquivo de projeto do [WhiteStar UML](https://drive.google.com/file/d/14sl0dJMTu1k1g_Jz4_HtBK7lDyTN5uye/view?usp=sharing). |
-| Aula 4: 21/03/2024 | Linguagens de programação, Ferramentas CASE, revisão de UML, revisão para avaliação 1. [Slides da aula 4a](https://docs.google.com/presentation/d/e/2PACX-1vSHpJf2VOLyJKkbaPv7GV086TD1hISpDjHOUl38SaUU_88WAimmbBB5EqqODUzHiINZVebiCEV78P3z/pub?start=false&loop=false&delayms=3000). [Slides da aula 4b](https://docs.google.com/presentation/d/e/2PACX-1vTMJQQzNQC5c_chtYoRt5XDkT5lWFAlDCizUz8Rpp7pLGbJmbljCgyIeeKOK92duNudhzXkIkX7YS6K/pub?start=false&loop=false&delayms=3000). |
-| Aula 5: 28/03/2024 | Avaliação 1. [Script para o banco de dados Mysql](https://github.com/monteiro74/aulas_2024_1/blob/main/Engenharia_de_software/engsw.sql). |
-| Aula: 04/04/2024 | Aula reprogramada. |
-| Aula 6: 11/04/2024 | Exercício 1: Criação do banco de dados no MySQL (usando Laragon). 2. Executado o script para criar os objetos do banco e inserir alguns dados nas tabelas usando qualquer uma das ferramentas recomendadas (HeidiSQL, MySQL Front ou DBeaver). 3. Criado o projeto no scriptcase. 3.1. Scriptcase conectado com o banco de dados. 3.2. Dentro do Scriptcase foram desenvolvidos seguintes aplicativos: menu, consulta (grid), formulário, blank, gráfico e dashboard. |
-| Aula 7: 18/04/2024 | Exercício 2: Foram criadas no scriptcase as seguintes aplicações: Abas, blank, cadastros (consultas (grids) e formulários), controle, filtros, dashboard, gráficos, relatórios e módulos de segurança. Posteriormente foi feito a implantação da aplicação gerada no Apache do Laragon e configurado o ambiente de produção da aplicação final.  |
-| Aula 8: 25/04/2024 | Conceitos de processo, modelagem visual, modelagem de processos, processos sob medida. Processo SCRUM, considerações sobre programação, considerações sobre banco de dados. Arquitetura de software. Árquitetura, módulos, fluxo, camadas, componente, RAD x IDE. [Revisão/scrum/kanban](https://docs.google.com/presentation/d/e/2PACX-1vT5w9JF9wKq6F75ii4UNTJNq4ShoBmkqvkxZdNUG5Ro4jqa5-FR4GectTI0Zol7z5lTOvvVI0hHX9NO/pub?start=false&loop=false&delayms=3000). [Arquitetura de software](https://docs.google.com/presentation/d/e/2PACX-1vToucwo3JOw93TObZLwKwXYPguSn7F0Mu3pUROfcLWzCexTgP3SjX9XnnyL47rxRXMOUY24f52HrVtx/pub?start=false&loop=false&delayms=3000). [Avaliação e testes](https://docs.google.com/presentation/d/e/2PACX-1vRSa__EH9ikPpFcrJpKEeMhTLtiPJ-d-LH3MA1nN11IVGEo-Bifw6QYGuiboRzI_WwhKtN9fr2r6esm/pub?start=false&loop=false&delayms=3000). [Exercícios](https://docs.google.com/presentation/d/e/2PACX-1vSKx_PXWwBgDS4jw0IIHqjHNt7YcE9rjaNLMadsl9kZs56FmD1CalEa_5blRsYXjee1cZ7_NMLVmIOv/pub?start=false&loop=false&delayms=3000). |
-| Aula 9: 02/05/2024 |  [Arquitetura de software, componentes, webapp, wireframe, mockup, protótipo](https://docs.google.com/presentation/d/e/2PACX-1vQDohlHUIuAm8KyYZR0xUdiaf04bYH5E1sYL0wTk0jLQTfDbgtaW1b0KdWuW31HWJceXcUFVJIdKe01/pub?start=false&loop=false&delayms=3000). [Tendências na área de engenharia de software](https://docs.google.com/presentation/d/e/2PACX-1vSEu7unXMlyCvei4IJD9xgPxLs7a14EKBXW_23HSmZfXXEKmMj7Vwyz0CHy4MchT264DrEz9hfOEO4Q/pub?start=false&loop=false&delayms=3000). |
-| Aula 10: 09/05/2024 | Avaliação 2. |
-| Aula 11: 16/05/2024 | Resolução de exercício (continuação da aula 8). |
-| Aula 12: 23/05/2024 | Resolução de exercício. [Documento de projeto](https://github.com/monteiro74/aulas_2024_1/blob/main/Engenharia_de_software/Doc_projeto_NOME_Aluno_v1.docx) |
-| Aula 13: 06/06/2024 | [Softwares para documentação de software](https://docs.google.com/presentation/d/e/2PACX-1vR7CikXVwbyw2xKPOa3vYfWyYLly43TTQFMN7Gf-CsFrTerf4CS425T68vvaV2Q3xvRbTajLSMwZ069/pub?start=false&loop=false&delayms=3000). [Webview](https://docs.google.com/presentation/d/e/2PACX-1vSj3hTzQTfLef-ahfgSfVfWKL9XwKZq-1qB4OAWKV6yJ7vjCZAgYPPTUcfRWM88HXmIYGwXfsPF1iPr/pub?start=false&loop=false&delayms=3000). Documentação via páginas no GitHub. Revisão de UML + métodos ágeis. [Enquete sobre a disciplina](https://forms.gle/kE7KMNd98nvQDR636). |
-| Aula 14: 20/06/2024 | Avaliação 3. [UML](https://docs.google.com/presentation/d/e/2PACX-1vTWYlWCwgBO8BhD8xwLPJKumWe5Wy8SeZMQ-vVTsAXcDSlVxb6sxYjbcvgdRMwtY18cayCQ0FAPeFy1/pub?start=false&loop=false&delayms=3000) + [Scrum](https://docs.google.com/presentation/d/e/2PACX-1vR-O606HLeQMUb5DfhKtMWi65jjpvhjeCJrY-wxFkpVYqGb5b6YJsnOZB3G35Hh_2YtjOXO74PlXw-5/pub?start=false&loop=false&delayms=3000) + Artigos 3, 4 e 5. |
+| ------- | ------- |
+| Aula 1: |  |
+| Aula 2: |  |
+| Aula 3: |  |
+| Aula 4: |  |
+| Aula 5: |  |
+| Aula:   |  |
+| Aula 6: |  |
+| Aula 7: |   |
+| Aula 8: |  |
+| Aula 9: |   |
+| Aula 10:|  |
+| Aula 11:|  |
+| Aula 12:|  |
+| Aula 13: |  |
+| Aula 14: |  |
 
 
 ---
 ### 4.1. Exercício
 
 Exercício 1:
-Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
-Os clientes devem fazer um cadastro de si e dos animais. 
-Os clientes devem informar as condições nas quais os animais chegam. 
-Os clientes devem informar o tipo de ração que o animal come. 
-O cliente deve informar hábitos do animal. 
-Para cada animal é possível que mais de um veterinário o atenda. 
-Os animais podem chegar e serem atendidos de acordo com uma agenda do dia. 
-Cada animal atendido receberá uma ficha e um prontuário. 
-Outros dono podem querer marcar horários de atendimento futuro. 
-O atendimento gera uma receita para o animal. 
-Para este exercício faça:
-1) Liste as classes identificadas e criar um diagrama de classes.
-2) Conectar as classes com uma ligação(relações) simples.
-3) Identificar multiplicidade(cardinalidade) nas ligações entre classes.
-4) Você pode sugerir atributos e métodos para as classes.
 
-Quando um cliente chega na clínica veterinária ele é atendido por um atendente. 
-O atendente deve verificar se existe agenda disponível com um veterinário. 
-O atendente deve colocar o cliente e seu animal na fila de espera, se for o caso. 
-O atendente deve levar o cliente e o animal até o veterinário. 
-O veterinário deve realizar uma entrevista com o dono do animal. 
-O resultado da entrevista deve ir para um formulário. 
-O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
-Dependendo da situação do animal este receberá uma receita.
-Para este exercício faça:
-1) Elaborar um diagrama de atividades documentando para o cenário acima, é desejável colocar os personagens em baias.
-2) Elaborar um diagrama de casos de uso para o cenário acima, indicando possível situações de uso(funcionalidades) em um sistema.
-3) Elaborar um diagrama de sequência para documentar o atendimento descrito acima.
 
 ...mais detalhes, continua nos slides da aula 8 !!!
 
 ### 4.2. Exercício 2
-
-Exercício para o dia 23/05/2024. Vamos criar um repositório no github e alimentar a página principal (README.MD) usando markdown, para isso sugerimos as ferramentas: github desktop, visual studio code e algumas extensões citadas abaixo:
-
-Extensões para o Visual Studio Code trabalhar com **Markdown**:
-
-![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes1.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes1.PNG) ![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes2.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes2.PNG) ![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes3.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes3.PNG) ![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes4.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes4.PNG)
 
 
 ---
@@ -168,7 +135,6 @@ Extensões para o Visual Studio Code trabalhar com **Markdown**:
 
 Diagrama das tabelas do banco que vamos usar com a ferramenta IDE RAD Scriptcase nos exercícios em sala de aula:
 
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_engsw.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_engsw.png)
 
 
 ---
@@ -179,13 +145,13 @@ Documentações geradas no Doxygen e no StarUML e disponibilizadas em repositór
 Projeto 1:
 Página no github: https://github.com/monteiro74/documentacao_doxygen
 
-Site: 		  https://monteiro74.github.io/documentacao_doxygen/
+Site: https://monteiro74.github.io/documentacao_doxygen/
 
 
 Projeto 2:
 Página no github: https://github.com/monteiro74/documentacao_uml
 
-Site: 		  https://monteiro74.github.io/documentacao_uml/
+Site: https://monteiro74.github.io/documentacao_uml/
 
 
 Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
@@ -221,9 +187,9 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 ---
 ## 7. Unidade de avaliação:
 
-Avaliação 1: 28/03/2024 <br>
-Avaliação 2: 09/05/2024 <br>
-Avaliação 3: 20/06/2024 <br>
+Avaliação 1: //2024 <br>
+Avaliação 2: //2024 <br>
+Avaliação 3: //2024 <br>
 
 ---
 ## 8. Referências:
