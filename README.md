@@ -8,9 +8,9 @@ Material de aula do professor Monteiro
 
 # Disciplinas, ministradas em 2024/2.
 
-1. [Engenharia de Software](https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md)
-2. [Gerência de projeto de software](https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_software/plano_de_aula_gps.md)
-3. [Modelagem e projeto de banco de dados](https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md)
+1. [Engenharia de Software](https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md), Sala O8 - Fase 4
+2. [Gerência de projeto de software](https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_software/plano_de_aula_gps.md), Sala C11 - Fase 8
+3. [Modelagem e projeto de banco de dados](https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md), Sala O8 - Fase 4
 
 
 ---
