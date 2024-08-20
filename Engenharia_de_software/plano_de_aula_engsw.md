@@ -97,23 +97,23 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ---
 ## 4. Datas de aulas e conteúdo:<br>
 
-| Data    | Conteúdo |
-| ------- | ------- |
-| Aula 1: (20/08/2024)  | Introdução. Referências bibliográficas. Conceitos de engenharia de software  |
-| Aula 2: (27/08/2024)  | Introdução à processos de software e UML. |
-| Aula 3: (03/09/2024)  | Linguagens de programação, Ferramentas CASE, revisão de UML. |
-| Aula 4: (10/09/2024)  |  |
-| Aula 5: (17/09/2024)  |  |
-| Aula 6: (24/09/2024)  |  |
-| Aula 7: (01/10/2024)  |  |
-| Aula 8: (08/10/2024)  |  |
-| Aula 9: (15/09/2024)  |  |
-| Aula 10: (22/09/2024) |  |
-| Aula 11: (29/09/2024) |  |
-| Aula 12: (05/11/2024) |  |
-| Aula 13: (12/10/2024) |  |
-| Aula 14: (19/10/2024) |  |
-| Aula 15: (26/10/2024) |  |
+| Data    | Carga horária | Conteúdo |
+| ------- | ------------- |------- |
+| Aula 1: (20/08/2024)  | 3 | Introdução. Referências bibliográficas. Conceitos de engenharia de software  |
+| Aula 2: (27/08/2024)  | 3 | Introdução à processos de software e UML. |
+| Aula 3: (03/09/2024)  | 3 | Linguagens de programação, Ferramentas CASE, revisão de UML. |
+| Aula 4: (10/09/2024)  | 3 | |
+| Aula 5: (17/09/2024)  | 3 | |
+| Aula 6: (24/09/2024)  | 3 | |
+| Aula 7: (01/10/2024)  | 3 | |
+| Aula 8: (08/10/2024)  | 3 | |
+| Aula 9: (15/09/2024)  | 3 | |
+| Aula 10: (22/09/2024) | 3 | |
+| Aula 11: (29/09/2024) | 3 | |
+| Aula 12: (05/11/2024) | 3 | |
+| Aula 13: (12/10/2024) | 3 | |
+| Aula 14: (19/10/2024) | 3 | |
+| Aula 15: (26/10/2024) | 3 | |
 
 
 ---
