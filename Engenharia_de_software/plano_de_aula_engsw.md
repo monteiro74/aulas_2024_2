@@ -1,7 +1,6 @@
 # Plano de ensino de Engenharia de Software
 
 
-
 - [Plano de ensino de Engenharia de Software](#plano-de-ensino-de-engenharia-de-software)
   - [1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)](#1-turma-facet-snp-308---engenharia-de-software-60h---turma-01-20242)
     - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
@@ -13,28 +12,25 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-    - [4.1. Exercício 1](#41-exercício-1)
-    - [4.2. Exercício 2](#42-exercício-2)
-    - [4.3. Exercício 3 Diagrama entidade relacionamento](#43-exercício-3-diagrama-entidade-relacionamento)
-    - [4.4. Exemplos de documentações](#44-exemplos-de-documentações)
-  - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
-  - [6. Artigos:](#6-artigos)
-  - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
-  - [8. Referências:](#8-referências)
-  - [9. Demais Disciplinas:](#9-demais-disciplinas)
-  - [10. Lista de ferramentas:](#10-lista-de-ferramentas)
-  - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
-  - [12. Cursos gratuítos:](#12-cursos-gratuítos)
-  - [13. Como estudar](#13-como-estudar)
-  - [14. Resolução de exercícios:](#14-resolução-de-exercícios)
-    - [14.1. Descrição do exercício:](#141-descrição-do-exercício)
-    - [14.2. Diagrama ER](#142-diagrama-er)
-    - [14.3. Class diagram](#143-class-diagram)
-    - [14.4.  Sequence diagram](#144--sequence-diagram)
-    - [14.5.  Flow Chart](#145--flow-chart)
-    - [14.6.  Use Case Diagram](#146--use-case-diagram)
-    - [14.7.  Deployment diagram](#147--deployment-diagram)
-
+    - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
+  - [5. Exercícios](#5-exercícios)
+  - [6. Exemplos de documentações](#6-exemplos-de-documentações)
+  - [7. Links para download de ferramentas para diagramação com UML:](#7-links-para-download-de-ferramentas-para-diagramação-com-uml)
+  - [8. Artigos:](#8-artigos)
+  - [9. Referências:](#9-referências)
+  - [10. Demais Disciplinas:](#10-demais-disciplinas)
+  - [11. Lista de ferramentas:](#11-lista-de-ferramentas)
+  - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
+  - [13. Cursos gratuítos:](#13-cursos-gratuítos)
+  - [14. Como estudar](#14-como-estudar)
+  - [15. Resolução de exercícios:](#15-resolução-de-exercícios)
+    - [15.1. Descrição do exercício:](#151-descrição-do-exercício)
+    - [15.2. Diagrama ER](#152-diagrama-er)
+    - [15.3. Class diagram](#153-class-diagram)
+    - [15.4.  Sequence diagram](#154--sequence-diagram)
+    - [15.5.  Flow Chart](#155--flow-chart)
+    - [15.6.  Use Case Diagram](#156--use-case-diagram)
+    - [15.7.  Deployment diagram](#157--deployment-diagram)
 
 
 ---
@@ -78,8 +74,6 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Sites das disciplinas no github | https://github.com/monteiro74/aulas_2024_1 |
 | Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do |
 
-
-
 ---
 ## 3. Repositórios de apoio:
 | Repositório | Url |
@@ -90,9 +84,6 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Projeto Webview com Android | https://github.com/monteiro74/project_webview |
 | Projeto com Flutter flow | https://github.com/monteiro74/prototipacao_flutterflow1 |
 | Projeto com Evolus Pencil | https://github.com/monteiro74/prototipacao_mobile_evoluspencil |
-
-
-
 
 ---
 ## 4. Datas de aulas e conteúdo:<br>
@@ -115,23 +106,19 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 14: (19/10/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
 | Aula 15: (26/10/2024) | 3hs | Entrega de notas, avaliação 3, Revisão para PF. |
 
+---
+### 4.1. Unidade de avaliação:
+
+Avaliação 1: 17/09/2024 <br>
+Avaliação 2: 22/09/2024 <br>
+Avaliação 3: 26/10/2024 <br>
 
 ---
-### 4.1. Exercício 1
-
-
-
-### 4.2. Exercício 2
-
-
----
-### 4.3. Exercício 3 Diagrama entidade relacionamento
-
-
+## 5. Exercícios
 
 
 ---
-### 4.4. Exemplos de documentações
+## 6. Exemplos de documentações
 
 Documentações geradas no Doxygen e no StarUML e disponibilizadas em repositórios no github como sites online:
 
@@ -147,7 +134,7 @@ Site: https://monteiro74.github.io/documentacao_uml/
 Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 ---
-## 5. Links para download de ferramentas para diagramação com UML:
+## 7. Links para download de ferramentas para diagramação com UML:
 
 [Papyrus](https://eclipse.dev/papyrus/download.html)
 
@@ -165,7 +152,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 
 ---
-## 6. Artigos:
+## 8. Artigos:
 
 1. [Definição de requisitos de software baseada numa arquitetura de modelagem de negócios](https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/)
 2. [A aplicação da Linguagem de Modelagem Unificada (UML) para o suporte ao projeto de sistemas computacionais dentro de um modelo de referência](https://www.scielo.br/j/gp/a/RRQQ7mKTFztQXK9Sz7BKtWQ/)
@@ -175,14 +162,7 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 
 ---
-## 7. Unidade de avaliação:
-
-Avaliação 1: //2024 <br>
-Avaliação 2: //2024 <br>
-Avaliação 3: //2024 <br>
-
----
-## 8. Referências:
+## 9. Referências:
 
 * PRESSMAN, Roger S.. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED, 2011. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41<br>
 * SOMMERVILLE, Ian. Engenharia de Software. 9° Ed. São Paulo: Pearson, 2011.<br>
@@ -191,7 +171,7 @@ Avaliação 3: //2024 <br>
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012. https://integrada.minhabiblioteca.com.br/books/9788536519418. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 
 
-## 9. Demais Disciplinas:
+## 10. Demais Disciplinas:
 
 1. Engenharia de Software https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
 2. Gestão de projeto de software https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_software/plano_de_aula_gps.md
@@ -199,19 +179,19 @@ Avaliação 3: //2024 <br>
 
 
 ---
-## 10. Lista de ferramentas:
+## 11. Lista de ferramentas:
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
 ---
-## 11. Curiosidade... onde adquirir livros baratos? 
+## 12. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-## 12. Cursos gratuítos:
+## 13. Cursos gratuítos:
 
 * [Receita para Levantar Requisitos de Software](https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/)
 
@@ -221,16 +201,16 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 
 ---
-## 13. Como estudar
+## 14. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
 
 
 ---
-## 14. Resolução de exercícios:
+## 15. Resolução de exercícios:
 
-### 14.1. Descrição do exercício:
+### 15.1. Descrição do exercício:
 
 ...
 
@@ -244,27 +224,25 @@ Para a descrição a faça em markdown:
 
 
 ---
-### 14.2. Diagrama ER
+### 15.2. Diagrama ER
    
 
 ---
-### 14.3. Class diagram
+### 15.3. Class diagram
 
 
 ---
-### 14.4.  Sequence diagram
+### 15.4.  Sequence diagram
 
 
 ---
-### 14.5.  Flow Chart
+### 15.5.  Flow Chart
 
 
 ---
-### 14.6.  Use Case Diagram
-
-
+### 15.6.  Use Case Diagram
 
 
 ---
-### 14.7.  Deployment diagram
+### 15.7.  Deployment diagram
 
