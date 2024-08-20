@@ -13,11 +13,11 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-    - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
-    - [4.2. Exercício 1 modelagem com SQL Server:](#42-exercício-1-modelagem-com-sql-server)
-    - [4.3. Exercício 2 de modelagem:](#43-exercício-2-de-modelagem)
-  - [5. Artigos:](#5-artigos)
-  - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
+    - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
+  - [5. Exercício - Diagrama entidade relacionamento](#5-exercício---diagrama-entidade-relacionamento)
+    - [5.2. Exercício 1 modelagem com SQL Server:](#52-exercício-1-modelagem-com-sql-server)
+    - [5.3. Exercício 2 de modelagem:](#53-exercício-2-de-modelagem)
+  - [6. Artigos:](#6-artigos)
   - [7. Referências:](#7-referências)
   - [8. Demais Disciplinas:](#8-demais-disciplinas)
   - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
@@ -87,45 +87,46 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
-| Aula 1:  |  |  |
-| Aula 2:  |  |  |
-| Aula 3:  |  |  |
-| Aula 4:  |  |  |
-| Aula 5:  |  |  |
-| Aula 6:  |  |  |
-| Aula 7:  |  |  |
-| Aula 8:  |  |  |
-| Aula 9:  |  |  |
-| Aula 10: |  |  |
-| Aula 11: |  |  |
-| Aula 12: |  |  |
-| Aula 13: |  |  |
-| Aula 14: |  |  |
-| Aula 15: |  |  |
-
-Aula 12:
-![Exercício da aula 12](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/Aula12.jpg)
+| Aula 1:  (22/08/2024) | 3hs |  |
+| Aula 2:  (29/08/2024) | 3hs |  |
+| Aula 3:  (05/09/2024) | 3hs |  |
+| Aula 4:  (12/09/2024) | 3hs |  |
+| Aula 5:  (19/09/2024) | 3hs | Avaliação 1. |
+| Aula 6:  (26/09/2024) | 3hs |  |
+| Aula 7:  (03/10/2024) | 3hs |  |
+| Aula 8:  (10/10/2024) | 3hs |  |
+| Aula 9:  (17/10/2024) | 3hs |  |
+| Aula 10: (24/10/2024) | 3hs | Avaliação 2. |
+| Aula 11: (31/10/2024) | 3hs |  |
+| Aula 12: (07/11/2024) | 3hs |  |
+| Aula 13: (14/11/2024) | 3hs |  |
+| Aula 14: (21/11/2024) | 3hs |  |
+| Aula 15: (28/11/2024) | 3hs | Avaliação 3. Entrega de provas e notas. Revisão para PF |
 
 
 ---
-### 4.1. Diagrama entidade relacionamento
+### 4.1. Unidade de avaliação:
+
+Avaliação 1: __/__/2024 <br>
+Avaliação 2: __/__/2024 <br>
+Avaliação 3: __/__/2024 <br>
+PF: __/__/2024 <br>
+
+---
+## 5. Exercício - Diagrama entidade relacionamento
 
 
 ---
-### 4.2. Exercício 1 modelagem com SQL Server:
+### 5.2. Exercício 1 modelagem com SQL Server:
 
 
 ---
-### 4.3. Exercício 2 de modelagem:
-
-
+### 5.3. Exercício 2 de modelagem:
 
 Abaixo o resultado com os relacionamentos:
 
-
-
 ---
-## 5. Artigos:
+## 6. Artigos:
 
 1. [Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software](https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575)
 2. [O uso da abordagem sistêmica na modelagem de banco de dados](https://www.aedb.br/seget/arquivos/artigos12/65416864.pdf)
@@ -134,18 +135,9 @@ Abaixo o resultado com os relacionamentos:
 5. [Os desafios daAdministração Pública na disponibilização de dados sensíveis](https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf)
 
 
----
 
-## 6. Unidade de avaliação:
-
-Avaliação 1: __/__/2024 <br>
-Avaliação 2: __/__/2024 <br>
-Avaliação 3: __/__/2024 <br>
-PF: __/__/2024 <br>
 
 ---
-
-
 ## 7. Referências:
 
 * ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 6 a edição. Editora Addison, 2005.<br>
