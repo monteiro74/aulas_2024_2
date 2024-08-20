@@ -21,9 +21,11 @@ Material de aula do professor Monteiro
 ---
 # Calendário
 
-Calendário de aulas (previstas no calendário) p/ 2024/1:
+Calendário de aulas (previstas no calendário) p/ 2024/2:
 Consulte o calendário oficial do curso e da universidade.
 No site ponto de ensino temos um calendário com os dias de aula de cada disciplina.
+
+[Veja o calendário 2024/2 aqui](https://docs.google.com/spreadsheets/d/1J0rUwkuctzxJJzRV1c4JgI5OojsLzeLKHcYLyJmRveM/edit?pli=1&gid=140192261#gid=140192261)
 
 ---
 ## Calendário organizado pela coordenação do curso:
