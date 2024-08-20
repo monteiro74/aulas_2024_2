@@ -1,7 +1,6 @@
 # Plano de ensino de: Modelagem e Projeto de Banco de Dados
 
 
-
 - [Plano de ensino de: Modelagem e Projeto de Banco de Dados](#plano-de-ensino-de-modelagem-e-projeto-de-banco-de-dados)
   - [1. Turma: FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-323---modelagem-e-projeto-de-banco-de-dados-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
@@ -24,7 +23,6 @@
   - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
   - [11. Cursos **grátis** sobre SQL Server e MySQL:](#11-cursos-grátis-sobre-sql-server-e-mysql)
   - [12. Como estudar](#12-como-estudar)
-
 
 
 ---
@@ -87,20 +85,20 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
-| Aula 1:  (22/08/2024) | 3hs |  |
-| Aula 2:  (29/08/2024) | 3hs |  |
-| Aula 3:  (05/09/2024) | 3hs |  |
-| Aula 4:  (12/09/2024) | 3hs |  |
+| Aula 1:  (22/08/2024) | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas.  |
+| Aula 2:  (29/08/2024) | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. |
+| Aula 3:  (05/09/2024) | 3hs | Processamento e controle de transação, concorrência e bloqueio. |
+| Aula 4:  (12/09/2024) | 3hs | Projeto de base de dados, normalização, ETL, exercícios. |
 | Aula 5:  (19/09/2024) | 3hs | Avaliação 1. |
-| Aula 6:  (26/09/2024) | 3hs |  |
-| Aula 7:  (03/10/2024) | 3hs |  |
-| Aula 8:  (10/10/2024) | 3hs |  |
-| Aula 9:  (17/10/2024) | 3hs |  |
+| Aula 6:  (26/09/2024) | 3hs | DW, OLAP x OLTP, Cubo de dados, dimensão x fato, floco de neve, BI, criação de banco de dados na nuvem. |
+| Aula 7:  (03/10/2024) | 3hs | Revisão de instalação de SQL Server e outros bancos. Serviço x Instância de banco. |
+| Aula 8:  (10/10/2024) | 3hs | SQL Joins, exercícios com SQL. |
+| Aula 9:  (17/10/2024) | 3hs | SQL Joins, exercícios com SQL, Bancos relacionais x não relacionais. |
 | Aula 10: (24/10/2024) | 3hs | Avaliação 2. |
-| Aula 11: (31/10/2024) | 3hs |  |
-| Aula 12: (07/11/2024) | 3hs |  |
-| Aula 13: (14/11/2024) | 3hs |  |
-| Aula 14: (21/11/2024) | 3hs |  |
+| Aula 11: (31/10/2024) | 3hs | Bancos NoSQL + Exercícios. |
+| Aula 12: (07/11/2024) | 3hs | Blockchain + Projeto exercício. |
+| Aula 13: (14/11/2024) | 3hs | Projeto com ferramenta IDE RAD |
+| Aula 14: (21/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
 | Aula 15: (28/11/2024) | 3hs | Avaliação 3. Entrega de provas e notas. Revisão para PF |
 
 ---
