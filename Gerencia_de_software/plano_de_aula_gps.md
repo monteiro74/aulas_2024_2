@@ -85,16 +85,16 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1:  |
-| Aula 2:  |
-| Aula 3:  |
-| Aula 4:  |
-| Aula 5:  |
-| Aula 6:  |
-| Aula 7:  |
-| Aula 8:  |
-| Aula 9: |
-| Aula 10:   |
+| Aula 1:  |  |
+| Aula 2:  |  |
+| Aula 3:  |  |
+| Aula 4:  |  |
+| Aula 5:  |  |
+| Aula 6:  |  |
+| Aula 7:  |  |
+| Aula 8:  |  |
+| Aula 9:  |  |
+| Aula 10: |  |
 | Aula 11: |  |
 | Aula 12: |  |
 | Aula 13: |  |
@@ -109,6 +109,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ### 4.2. Tabela em Latex
+
+Exemplo de tabela:
 
 \begin{table}[h]
 \begin{tabular}{|l|l|l|l|}
@@ -137,10 +139,10 @@ Hospedagem web                   & 12                  & 1000                   
 ---
 ## 6. Unidade de avaliação:
 
-Avaliação 1: 26/03/2024 <br>
-Avaliação 2: 07/05/2024 <br>
-Avaliação 3: 04/06/2024 <br>
-PF: 04/06/2024 <br>
+Avaliação 1: __/__/2024 <br>
+Avaliação 2: __/__/2024 <br>
+Avaliação 3: __/__/2024 <br>
+PF: __/__/2024 <br>
 
 
 ---
@@ -155,9 +157,9 @@ PF: 04/06/2024 <br>
 ---
 ## 8. Demais Disciplinas:
 
-1. Engenharia de Software https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
-2. Gestão de projeto de software https://github.com/monteiro74/aulas_2023/blob/main/Gerencia_de_projetos/plano_de_aula_gps.md
-3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
+1. Engenharia de Software https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
+2. Gestão de projeto de software https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_software/plano_de_aula_gps.md
+3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
 
 ---
 ## 9. Lista de ferramentas:

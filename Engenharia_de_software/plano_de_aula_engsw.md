@@ -13,9 +13,9 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-    - [4.1. Exercício](#41-exercício)
+    - [4.1. Exercício 1](#41-exercício-1)
     - [4.2. Exercício 2](#42-exercício-2)
-    - [4.3. Diagrama entidade relacionamento](#43-diagrama-entidade-relacionamento)
+    - [4.3. Exercício 3 Diagrama entidade relacionamento](#43-exercício-3-diagrama-entidade-relacionamento)
     - [4.4. Exemplos de documentações](#44-exemplos-de-documentações)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [6. Artigos:](#6-artigos)
@@ -117,20 +117,16 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-### 4.1. Exercício
-
-Exercício 1:
+### 4.1. Exercício 1
 
 
-...mais detalhes, continua nos slides da aula 8 !!!
 
 ### 4.2. Exercício 2
 
 
 ---
-### 4.3. Diagrama entidade relacionamento
+### 4.3. Exercício 3 Diagrama entidade relacionamento
 
-Diagrama das tabelas do banco que vamos usar com a ferramenta IDE RAD Scriptcase nos exercícios em sala de aula:
 
 
 
@@ -144,9 +140,6 @@ Página no github: https://github.com/monteiro74/documentacao_doxygen
 
 Site: https://monteiro74.github.io/documentacao_doxygen/
 
-
-Projeto 2:
-Página no github: https://github.com/monteiro74/documentacao_uml
 
 Site: https://monteiro74.github.io/documentacao_uml/
 
@@ -200,9 +193,9 @@ Avaliação 3: //2024 <br>
 
 ## 9. Demais Disciplinas:
 
-1. Engenharia de Software https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
-2. Gestão de projeto de software https://github.com/monteiro74/aulas_2023/blob/main/Gerencia_de_projetos/plano_de_aula_gps.md
-3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
+1. Engenharia de Software https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
+2. Gestão de projeto de software https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_software/plano_de_aula_gps.md
+3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
 
 
 ---

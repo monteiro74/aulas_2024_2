@@ -14,8 +14,8 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
-    - [4.2. Exercício modelagem (mineradora) com SQL Server:](#42-exercício-modelagem-mineradora-com-sql-server)
-  - [4.3. Exercício de modelagem:](#43-exercício-de-modelagem)
+    - [4.2. Exercício 1 modelagem com SQL Server:](#42-exercício-1-modelagem-com-sql-server)
+  - [4.3. Exercício 2 de modelagem:](#43-exercício-2-de-modelagem)
   - [5. Artigos:](#5-artigos)
   - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
   - [7. Referências:](#7-referências)
@@ -110,243 +110,18 @@ Aula 12:
 ---
 ### 4.1. Diagrama entidade relacionamento
 
-Abaixo temos um exemplo de diagrama entidade relaiconamento feito no DBeaver:
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_mpbd.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_mpbd.png)
-
-
-O diagrama de banco de dados feito no SQL Server é o que segue abaixo:
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/diagrama_de_banco_de_dados.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/diagrama_de_banco_de_dados.png)
 
 ---
-### 4.2. Exercício modelagem (mineradora) com SQL Server:
+### 4.2. Exercício 1 modelagem com SQL Server:
 
-
-
-Execute o exercício abaixo no Sql Server:
-
-1. Uma empresa possui autorização para explorar uma área na qual foi encontrado minério de interesse econômico.
-2. Nesta área pode-se explorar: ouro, cassiterita, dolomito e zinco.
-3. A licença para explorar a área tem uma data de início no qual foi feita a outorga e teá um data final.
-3. Nesta área da empresa estão 3 jazidas.
-4. Uma jazida tem apenas ouro. Nas outras duas jazidas foi detectado também cassiterita.
-5. Em uma parte da área não é possível realizar nenhuma operação e é considerada área de reserva legal.
-6. Uma parte da área será usada como pátio de manobra e para construção administrativa das operações de mineração.
-7. Cada área contendo minerais deve informar sua produção diária (quantidade, data, tipo de mineral, etc)
-8. Cada área tem coordenadas delimitadoras.
-9. As atividades de lavra neste caso são: prospecção, avaliação de amostras, preparo de área, extração, filtragem e limpeza, pesagem, teste de qualidade, registro de produção e expedição final.
-10. Cada atividade de operação de extração deve ter uma registro com data hora, responsável e área, bem como o que foi extraído deve ter seu lote identificado. Cada atividade de mineração tem um código, responsável, data de início e fim, hora de início e fim.
-11. Os testes de qualidade de cada lote extraída da área de produção devem ser registrados com pelo menos as informações: código da área, responsável, data, volume e peso.
-12. No registro de produção deve ser anotado o valor do minério na data atual.
-13. Cada tipo de elemento (mineral) que se deseja explorar tem um tipo de equipamento específico para extração e transporte.
-14. A expedição final deve colocar o material (ouro ou outro) em um cofre até sua saída da empresa, e o registro do responsável.
-15. É necessário monitorar toda a fauna da região com pelo menos um cadastros dos animais presentes.
-16. É necessário um levantamento de todas as árvores dentro e ao redor da propriedade da mineradora.
-17. É necessário guardar no sistema mapas indicando as áreas de extração, preservação, pátios e administrativos ou outros mapas, de interesse da mineradora como (altimétrico, geomorfológico, hídrico, topográfico, etc).
-18. O sistema deverá possuir um cadastro dos funcionários e de veículos (e maquinário), neste cadastro deve-se informar quem são os engenheiros responsáveis.
-19. O sistema deverá suportar o armazenamento de arquivos PDF (como laudos, relatórios, alvará de pesquisa mineral, concessão de lavra e portaria de lavra, etc).
-20. A mineradora tem uma estação meteorológica automática com pluviômetro, os dados são coletados para posterior análise.
-21. Deseja se relacionar os dados climáticos com a produção de cada área.
-22. A empresa também mantém um registro da produção de areia de cascalho, os quais são sub produtos da mineração.
-  
-A partir da descrição acima:
-
-1. Gerar as tabelas dentro de um banco de dados no SQL Server, o nome do banco de dados será seu nome, exemplo bd_nome.
-2. Fazer um backup do banco, exportar o banco.
-3. Gerar o diagrama do banco de dados no SQL Server e exportar como imagem, o nome do arquivo de imagem deverá ter seu nome, exemplo diagrama_nome.jpg.
-4. Enviar no Sigaa o arquivo do backup do banco e a imagem até o final da aula.
 
 ---
-## 4.3. Exercício de modelagem:
-
-Descrição do exercício:
-
-1. A empresa é organizada em departamentos. 
-2. Cada departamento possui um nome único, um código único e um determinado empregado que gerencia o departamento.
-3. Acompanhamos a data inicial quando o empregado começou a gerenciar o departamento. 
-4. Um departamento pode possuir diversas localizações.
-5. Um departamento controla um número de projetos, cada um deles possuindo um nome único, um código único e uma única localização.
-6. Armazenamos o nome, número da carteira de trabalho, endereço, salário, sexo e data de nascimento de cada empregado. 
-7. Um empregado é alocado a um departamento, mas pode trabalhar em diversos projetos, que não são necessariamente controlados pelo mesmo departamento. 
-8. Acompanhamos o número de horas por semana que um empregado trabalha em cada projeto. 
-9. Também acompanharemos o supervisor direto de cada empregado.
-10. Desejamos acompanhar e registrar os dependentes de cada empregado para fins de seguridade social. 
-11. Mantemos o nome, sexo, data de nascimento e grau de parentesco com o empregado e seus dependentes.
+### 4.3. Exercício 2 de modelagem:
 
 
-O desenho do diagrama acima, apenas as entidades:
-
-```mermaid
-erDiagram
-    DEPARTMENT {
-        int code PK
-        string name
-        int manager FK "Employee ID"
-        date startDate
-    }
-    LOCATION {
-        int locationID PK
-        string address
-    }
-    DEPARTMENT_LOCATION {
-        int departmentCode FK "Department Code"
-        int locationID FK "Location ID"
-    }
-    EMPLOYEE {
-        int empCardNumber PK
-        string name
-        string address
-        float salary
-        string gender
-        date birthDate
-        int supervisor FK "Employee ID"
-    }
-    PROJECT {
-        int code PK
-        string name
-        string location
-    }
-    WORKS_ON {
-        int empCardNumber FK "Employee ID"
-        int projectCode FK "Project Code"
-        float hoursPerWeek
-    }
-    DEPENDENT {
-        int depID PK
-        string name
-        string gender
-        date birthDate
-        string kinship
-        int empCardNumber FK "Employee ID"
-    }
-```
-
-Abaixo o código completo com os relacionamentos no final:
-
-```python
-erDiagram
-    EMPRESA {
-        int codigo
-        string nome
-    }
-
-    DEPARTAMENTO {
-        int codigo
-        string nome
-        int gerente_id
-        date data_inicio_gerencia
-    }
-
-    LOCALIZACAO_DEPARTAMENTO {
-        int codigo_departamento
-        string localizacao
-    }
-
-    PROJETO {
-        int codigo
-        string nome
-        string localizacao
-    }
-
-    EMPREGADO {
-        int numero_carteira_trabalho
-        string nome
-        string endereco
-        float salario
-        string sexo
-        date data_nascimento
-        int supervisor_id
-        int departamento_codigo
-    }
-
-    DEPENDENTE {
-        int empregado_numero_carteira_trabalho
-        string nome
-        string sexo
-        date data_nascimento
-        string grau_parentesco
-    }
-
-    TRABALHA_EM {
-        int empregado_numero_carteira_trabalho
-        int projeto_codigo
-        int horas_semana
-    }
-
-    EMPRESA ||--o{ DEPARTAMENTO : "tem"
-    DEPARTAMENTO ||--|{ LOCALIZACAO_DEPARTAMENTO : "possui"
-    DEPARTAMENTO ||--o{ PROJETO : "controla"
-    DEPARTAMENTO ||--o{ EMPREGADO : "aloca"
-    EMPREGADO ||--o{ DEPENDENTE : "possui"
-    EMPREGADO ||--|{ EMPREGADO : "supervisiona"
-    EMPREGADO ||--o{ TRABALHA_EM : "trabalha em"
-    PROJETO ||--o{ TRABALHA_EM : "alocado"
-
-```
 
 Abaixo o resultado com os relacionamentos:
 
-```mermaid
-erDiagram
-    EMPRESA {
-        int codigo
-        string nome
-    }
-
-    DEPARTAMENTO {
-        int codigo
-        string nome
-        int gerente_id
-        date data_inicio_gerencia
-    }
-
-    LOCALIZACAO_DEPARTAMENTO {
-        int codigo_departamento
-        string localizacao
-    }
-
-    PROJETO {
-        int codigo
-        string nome
-        string localizacao
-    }
-
-    EMPREGADO {
-        int numero_carteira_trabalho
-        string nome
-        string endereco
-        float salario
-        string sexo
-        date data_nascimento
-        int supervisor_id
-        int departamento_codigo
-    }
-
-    DEPENDENTE {
-        int empregado_numero_carteira_trabalho
-        string nome
-        string sexo
-        date data_nascimento
-        string grau_parentesco
-    }
-
-    TRABALHA_EM {
-        int empregado_numero_carteira_trabalho
-        int projeto_codigo
-        int horas_semana
-    }
-
-    EMPRESA ||--o{ DEPARTAMENTO : "tem"
-    DEPARTAMENTO ||--|{ LOCALIZACAO_DEPARTAMENTO : "possui"
-    DEPARTAMENTO ||--o{ PROJETO : "controla"
-    DEPARTAMENTO ||--o{ EMPREGADO : "aloca"
-    EMPREGADO ||--o{ DEPENDENTE : "possui"
-    EMPREGADO ||--|{ EMPREGADO : "supervisiona"
-    EMPREGADO ||--o{ TRABALHA_EM : "trabalha em"
-    PROJETO ||--o{ TRABALHA_EM : "alocado"
-
-```
 
 
 ---
@@ -363,10 +138,10 @@ erDiagram
 
 ## 6. Unidade de avaliação:
 
-Avaliação 1: 27/03/2024 <br>
-Avaliação 2: 15/05/2024 <br>
-Avaliação 3: 12/06/2024 <br>
-PF: 12/06/2024 <br>
+Avaliação 1: __/__/2024 <br>
+Avaliação 2: __/__/2024 <br>
+Avaliação 3: __/__/2024 <br>
+PF: __/__/2024 <br>
 
 ---
 
@@ -384,9 +159,10 @@ PF: 12/06/2024 <br>
 ---
 ## 8. Demais Disciplinas:
 
-1. Engenharia de Software https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
-2. Gestão de projeto de software https://github.com/monteiro74/aulas_2023/blob/main/Gerencia_de_projetos/plano_de_aula_gps.md
-3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
+1. Engenharia de Software https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
+2. Gestão de projeto de software https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_software/plano_de_aula_gps.md
+3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
+
 
 ---
 ## 9. Lista de ferramentas:
