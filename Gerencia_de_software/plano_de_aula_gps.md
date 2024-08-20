@@ -12,16 +12,16 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-    - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
-    - [4.2. Tabela em Latex](#42-tabela-em-latex)
-  - [5. Artigos:](#5-artigos)
-  - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
-  - [7. Referências:](#7-referências)
-  - [8. Demais Disciplinas:](#8-demais-disciplinas)
-  - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
-  - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
-  - [11. Curso **grátis** sobre gerência de projetos:](#11-curso-grátis-sobre-gerência-de-projetos)
-  - [12. Como estudar](#12-como-estudar)
+    - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
+  - [5. Diagrama entidade relacionamento](#5-diagrama-entidade-relacionamento)
+  - [6. Tabela em Latex](#6-tabela-em-latex)
+  - [7. Artigos:](#7-artigos)
+  - [8. Referências:](#8-referências)
+  - [9. Demais Disciplinas:](#9-demais-disciplinas)
+  - [10. Lista de ferramentas:](#10-lista-de-ferramentas)
+  - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
+  - [12. Curso **grátis** sobre gerência de projetos:](#12-curso-grátis-sobre-gerência-de-projetos)
+  - [13. Como estudar](#13-como-estudar)
 
 
 ---
@@ -82,29 +82,29 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
-| Aula 1:  |  |  |
-| Aula 2:  |  |  |
-| Aula 3:  |  |  |
-| Aula 4:  |  |  |
-| Aula 5:  |  |  |
-| Aula 6:  |  |  |
-| Aula 7:  |  |  |
-| Aula 8:  |  |  |
-| Aula 9:  |  |  |
-| Aula 10: |  |  |
-| Aula 11: |  |  |
-| Aula 12: |  |  |
-| Aula 13: |  |  |
-| Aula 14: |  |  |
-| Aula 15: |  |  |
+| Aula 1:  (21/08/2024) | 3hs |  |
+| Aula 2:  (28/08/2024) | 3hs |  |
+| Aula 3:  (04/09/2024) | 3hs |  |
+| Aula 4:  (11/04/2024) | 3hs |  |
+| Aula 5:  (18/09/2024) | 3hs | Avaliação 1. |
+| Aula 6:  (25/09/2024) | 3hs |  |
+| Aula 7:  (02/10/2024) | 3hs |  |
+| Aula 8:  (09/10/2024) | 3hs |  |
+| Aula 9:  (16/10/2024) | 3hs |  |
+| Aula 10: (23/10/2024) | 3hs | Avaliação 2. |
+| Aula 11: (30/10/2024) | 3hs |  |
+| Aula 12: (06/11/2024) | 3hs |  |
+| Aula 13: (13/11/2024) | 3hs |  |
+| Aula 14: (22/11/2024) | 3hs |  |
+| Aula 15: (25/11/2024) | 3hs | Avaliação 3. Entrega de notas, revisão para PF. |
 
 
 ---
 ### 4.1. Unidade de avaliação:
 
-Avaliação 1: __/__/2024 <br>
-Avaliação 2: __/__/2024 <br>
-Avaliação 3: __/__/2024 <br>
+Avaliação 1: 18/09/2024 <br>
+Avaliação 2: 23/10/2024 <br>
+Avaliação 3: 25/11/2024 <br>
 PF: __/__/2024 <br>
 
 
