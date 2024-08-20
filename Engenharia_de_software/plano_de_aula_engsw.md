@@ -99,21 +99,21 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
-| Aula 1: (20/08/2024)  | 3 | Introdução. Referências bibliográficas. Conceitos de engenharia de software  |
-| Aula 2: (27/08/2024)  | 3 | Introdução à processos de software e UML. |
-| Aula 3: (03/09/2024)  | 3 | Linguagens de programação, Ferramentas CASE, revisão de UML. |
-| Aula 4: (10/09/2024)  | 3 | |
-| Aula 5: (17/09/2024)  | 3 | |
-| Aula 6: (24/09/2024)  | 3 | |
-| Aula 7: (01/10/2024)  | 3 | |
-| Aula 8: (08/10/2024)  | 3 | |
-| Aula 9: (15/09/2024)  | 3 | |
-| Aula 10: (22/09/2024) | 3 | |
-| Aula 11: (29/09/2024) | 3 | |
-| Aula 12: (05/11/2024) | 3 | |
-| Aula 13: (12/10/2024) | 3 | |
-| Aula 14: (19/10/2024) | 3 | |
-| Aula 15: (26/10/2024) | 3 | |
+| Aula 1: (20/08/2024)  | 3hs | Introdução. Referências bibliográficas. Conceitos de engenharia de software.  |
+| Aula 2: (27/08/2024)  | 3hs | Introdução à processos de software, Scrum e Kanban. Intro UML. |
+| Aula 3: (03/09/2024)  | 3hs | Linguagens de programação, Ferramentas CASE, revisão de UML. |
+| Aula 4: (10/09/2024)  | 3hs | Processos de software, processos ágeis. |
+| Aula 5: (17/09/2024)  | 3hs | Avaliação 1. |
+| Aula 6: (24/09/2024)  | 3hs | Conceitos de processo, modelagem visual, modelagem de processos, processos sob medida. |
+| Aula 7: (01/10/2024)  | 3hs | Arquitetura de software. |
+| Aula 8: (08/10/2024)  | 3hs | Arquitetura, módulos, fluxo, camadas, componente, RAD x IDE. |
+| Aula 9: (15/09/2024)  | 3hs | Instalação do banco de dados para o projeto em lab. Diagrama ER. Outros diagramas.|
+| Aula 10: (22/09/2024) | 3hs | Avaliação 2. |
+| Aula 11: (29/09/2024) | 3hs | Projeto com ferramenta IDE RAD. |
+| Aula 12: (05/11/2024) | 3hs | Projeto com ferramenta IDE RAD. |
+| Aula 13: (12/10/2024) | 3hs | Finalização de projeto com ferramenta IDE RAD. |
+| Aula 14: (19/10/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
+| Aula 15: (26/10/2024) | 3hs | Entrega de notas, avaliação 3, Revisão para PF. |
 
 
 ---
