@@ -15,7 +15,7 @@
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
     - [4.2. Exercício 1 modelagem com SQL Server:](#42-exercício-1-modelagem-com-sql-server)
-  - [4.3. Exercício 2 de modelagem:](#43-exercício-2-de-modelagem)
+    - [4.3. Exercício 2 de modelagem:](#43-exercício-2-de-modelagem)
   - [5. Artigos:](#5-artigos)
   - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
   - [7. Referências:](#7-referências)
@@ -85,23 +85,23 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ---
 ## 4. Datas de aulas e conteúdo:
 
-| Data    | Conteúdo |
-| -------- | ------- |
-| Aula 1:  |  |
-| Aula 2:  |  |
-| Aula 3:  |  |
-| Aula 4:  |  |
-| Aula 5:  |  |
-| Aula 6:  |  |
-| Aula 7:  |  |
-| Aula 8:  |  |
-| Aula 9:  |  |
-| Aula 10: |  |
-| Aula 11: |  |
-| Aula 12: |  |
-| Aula 13: |  |
-| Aula 14: |  |
-| Aula 15: |  |
+| Data    | Carga horária | Conteúdo |
+| ------- | ------------- |------- |
+| Aula 1:  |  |  |
+| Aula 2:  |  |  |
+| Aula 3:  |  |  |
+| Aula 4:  |  |  |
+| Aula 5:  |  |  |
+| Aula 6:  |  |  |
+| Aula 7:  |  |  |
+| Aula 8:  |  |  |
+| Aula 9:  |  |  |
+| Aula 10: |  |  |
+| Aula 11: |  |  |
+| Aula 12: |  |  |
+| Aula 13: |  |  |
+| Aula 14: |  |  |
+| Aula 15: |  |  |
 
 Aula 12:
 ![Exercício da aula 12](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/Aula12.jpg)

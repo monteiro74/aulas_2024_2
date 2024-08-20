@@ -51,7 +51,6 @@ A carga horária EAD será realizada via leitura de artigos postados pelo profes
 
 A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá o conteúdo das aulas 6 a 9, a 3ª avaliação terá o conteúdo das aulas 11 a 13 e os artigos selecionados. Cada uma das três avaliações vale 0 à 10,0.A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final.  O exame final será aplicado após a avaliação 3.
 
-
 ### 1.6. Horário de atendimento:
 
 30 minutos antes da aula (via agendamento prévio).
@@ -78,37 +77,45 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Blockchain | https://github.com/monteiro74/blockchain |
 | Aprendizado de máquina | https://github.com/monteiro74/aprendizado_de_maquina |
 
-
-
 ---
 ## 4. Datas de aulas e conteúdo:
 
-| Data    | Conteúdo |
-| -------- | ------- |
-| Aula 1:  |  |
-| Aula 2:  |  |
-| Aula 3:  |  |
-| Aula 4:  |  |
-| Aula 5:  |  |
-| Aula 6:  |  |
-| Aula 7:  |  |
-| Aula 8:  |  |
-| Aula 9:  |  |
-| Aula 10: |  |
-| Aula 11: |  |
-| Aula 12: |  |
-| Aula 13: |  |
-| Aula 14: |  |
-| Aula 15: |  |
+| Data    | Carga horária | Conteúdo |
+| ------- | ------------- |------- |
+| Aula 1:  |  |  |
+| Aula 2:  |  |  |
+| Aula 3:  |  |  |
+| Aula 4:  |  |  |
+| Aula 5:  |  |  |
+| Aula 6:  |  |  |
+| Aula 7:  |  |  |
+| Aula 8:  |  |  |
+| Aula 9:  |  |  |
+| Aula 10: |  |  |
+| Aula 11: |  |  |
+| Aula 12: |  |  |
+| Aula 13: |  |  |
+| Aula 14: |  |  |
+| Aula 15: |  |  |
 
 
 ---
-### 4.1. Diagrama entidade relacionamento
+### 4.1. Unidade de avaliação:
+
+Avaliação 1: __/__/2024 <br>
+Avaliação 2: __/__/2024 <br>
+Avaliação 3: __/__/2024 <br>
+PF: __/__/2024 <br>
+
+
+
+---
+## 5. Diagrama entidade relacionamento
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_gps.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_gps.png)
 
 
-### 4.2. Tabela em Latex
+## 6. Tabela em Latex
 
 Exemplo de tabela:
 
@@ -129,24 +136,18 @@ Hospedagem web                   & 12                  & 1000                   
 
 
 ---
-## 5. Artigos:
+## 7. Artigos:
 1. [O gerenciamento de projetos e sua importância para a qualidade e a efetividade no setor público](https://core.ac.uk/display/268170107?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1)
 2. [Gerência de Projetos - Teoria e Prática](https://repositorio.enap.gov.br/bitstream/1/1092/1/GerenciaDeProjeos_modulo_1_final_.pdf)
 3. [Gerência de projetos: uma reflexão histórica](https://www.scielo.br/j/rae/a/Fkq59q8FCfMvqhLPbQpx3pt/)
 4. [O Sucesso na Implementação de Projetos Reflexões sobre lições aprendidas na literatura de Gerenciamento](https://pmiba.org.br/uploads/tinymce/files/pmi_bahia_submissao.pdf)
 5.	[Gestão de projetos em empresas públicas: a implantação do escritório de projetos na empresa de transportes e trânsito de Belo Horizonte S/A](https://www.researchgate.net/profile/Barbara-Matos-4/publication/329217483_Gestao_de_projetos_em_empresas_publicas_a_implantacao_do_escritorio_de_projetos_na_empresa_de_transportes_e_transito_de_Belo_Horizonte_SA/links/5bfd572da6fdcc35428b98f5/Gestao-de-projetos-em-empresas-publicas-a-implantacao-do-escritorio-de-projetos-na-empresa-de-transportes-e-transito-de-Belo-Horizonte-S-A.pdf)
 
----
-## 6. Unidade de avaliação:
 
-Avaliação 1: __/__/2024 <br>
-Avaliação 2: __/__/2024 <br>
-Avaliação 3: __/__/2024 <br>
-PF: __/__/2024 <br>
 
 
 ---
-## 7. Referências:
+## 8. Referências:
 
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012.<br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 * PRESSMAN,.Engenharia de software: uma abordagem profissional. Porto Alegre: AMGH, 2016.<br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41 <br>
@@ -155,34 +156,34 @@ PF: __/__/2024 <br>
 
 
 ---
-## 8. Demais Disciplinas:
+## 9. Demais Disciplinas:
 
 1. Engenharia de Software https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
 2. Gestão de projeto de software https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_software/plano_de_aula_gps.md
 3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
 
 ---
-## 9. Lista de ferramentas:
+## 10. Lista de ferramentas:
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 [Lista de diagramas básicos](https://github.com/monteiro74/diagramas_resumo).
 
 
 ---
-## 10. Curiosidade... onde adquirir livros baratos? 
+## 11. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-## 11. Curso **grátis** sobre gerência de projetos:
+## 12. Curso **grátis** sobre gerência de projetos:
 
 * [Gerenciamento de Projetos com Project Libre](https://www.udemy.com/course/ferramentas-do-gp-projectlibre/)
 * [Introdução Gratuita: Preparatório on demand para o exame PMP autorizado do PMI](https://www.pmi.org/shop/brazil/p-/elearning/introdu%C3%A7%C3%A3o-gratuita-preparat%C3%B3rio-on-demand-para-o-exame-pmp-autorizado-do-pmi/el053)
 
 
 ---
-## 12. Como estudar
+## 13. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
