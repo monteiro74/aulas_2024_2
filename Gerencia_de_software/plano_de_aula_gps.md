@@ -82,20 +82,20 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
-| Aula 1:  (21/08/2024) | 3hs |  |
-| Aula 2:  (28/08/2024) | 3hs |  |
-| Aula 3:  (04/09/2024) | 3hs |  |
-| Aula 4:  (11/04/2024) | 3hs |  |
+| Aula 1:  (21/08/2024) | 3hs | Apresentação da disciplina, introdução, referências bibliográficas, conceitos de processos de software |
+| Aula 2:  (28/08/2024) | 3hs | Projetos x atividades, conceitos gerais sobre projeto e gerenciamento. |
+| Aula 3:  (04/09/2024) | 3hs | Frameworks de gerenciamento. |
+| Aula 4:  (11/04/2024) | 3hs | Análise de risco, cálculo de risco, escopo, mapeamento. |
 | Aula 5:  (18/09/2024) | 3hs | Avaliação 1. |
-| Aula 6:  (25/09/2024) | 3hs |  |
-| Aula 7:  (02/10/2024) | 3hs |  |
-| Aula 8:  (09/10/2024) | 3hs |  |
-| Aula 9:  (16/10/2024) | 3hs |  |
+| Aula 6:  (25/09/2024) | 3hs | Estrutura do projeto, TWIG, qdPM + ProjectLibre. |
+| Aula 7:  (02/10/2024) | 3hs | Estrutura do projeto, FPA, SWOT, Project Canvas. |
+| Aula 8:  (09/10/2024) | 3hs | Controle de versão, testes, qualidade, exercícios. |
+| Aula 9:  (16/10/2024) | 3hs | Métodos ágeis. |
 | Aula 10: (23/10/2024) | 3hs | Avaliação 2. |
-| Aula 11: (30/10/2024) | 3hs |  |
-| Aula 12: (06/11/2024) | 3hs |  |
-| Aula 13: (13/11/2024) | 3hs |  |
-| Aula 14: (22/11/2024) | 3hs |  |
+| Aula 11: (30/10/2024) | 3hs | Funções do gerente de projeto, IDE x RAD, descrição do projeto exercício. |
+| Aula 12: (06/11/2024) | 3hs | Implementação do banco de dados, instalação de ferramenta, desenv. Proj. |
+| Aula 13: (13/11/2024) | 3hs | Níveis de maturidade, CMMI, implementação do banco de dados, instalação de ferramenta, desenv. Proj. |
+| Aula 14: (22/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3. |
 | Aula 15: (25/11/2024) | 3hs | Avaliação 3. Entrega de notas, revisão para PF. |
 
 
