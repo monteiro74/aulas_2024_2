@@ -27,11 +27,6 @@ No site ponto de ensino temos um calendário com os dias de aula de cada discipl
 
 [Veja o calendário 2024/2 aqui](https://docs.google.com/spreadsheets/d/1J0rUwkuctzxJJzRV1c4JgI5OojsLzeLKHcYLyJmRveM/edit?pli=1&gid=140192261#gid=140192261)
 
----
-## Calendário organizado pela coordenação do curso:
-
-
-[Calendário]()
 
 
 ---
