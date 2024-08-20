@@ -37,9 +37,6 @@
 
 
 
-
-
-
 ---
 ## 1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)
 
@@ -47,7 +44,7 @@
 
 ### 1.2. Horário: 19hs - 22hs
 
-5N231, Quinta feira, Sala C8 - Fase 4.
+Sala O8 - Fase 4, Terça feira.
 
 ### 1.3. Ementa: 
 
@@ -109,9 +106,9 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 5: |  |
 | Aula:   |  |
 | Aula 6: |  |
-| Aula 7: |   |
+| Aula 7: |  |
 | Aula 8: |  |
-| Aula 9: |   |
+| Aula 9: |  |
 | Aula 10:|  |
 | Aula 11:|  |
 | Aula 12:|  |

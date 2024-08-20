@@ -34,7 +34,7 @@
 
 ### 1.2. Horário:
 
-4N231, Quarta feira, Sala C8 - Fase 4.
+Sala O8 - Fase 4, Quinta feira.
 
 ### 1.3. Ementa:
 
@@ -87,21 +87,21 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1: 28/02/2024 | Apresentação da disciplina, Conceitos básicos sobre bancos de dados, revisão sobre banco de dados. Cacaterísticas de bancos de dados, Motivação para uso de um banco de dados. Comparando um SGBD com um SO. Sistemas multiusuário x monousuário. Top database ranking. [Slides da aula1](https://docs.google.com/presentation/d/e/2PACX-1vTyQ5uhjUZFgS2QXjTegTLwV15Jpw3Jn6q-AT7Nu55ydrwg49D86cURwIihgT8xop0ioZvV5lrAG1Az/pub?start=false&loop=false&delayms=3000), [Material para os alunos que estão na fase 4 e não viram MySQL na fase 3](https://docs.google.com/presentation/d/e/2PACX-1vSWwOiqnVnfbhnG-kBFms7SD6mlcVWL6hMUuXy_2XBeFgU6bi_0dxrS1BlL3byXfuIyGWwVpq_556YB/pub?start=false&loop=false&delayms=3000).  Links para download de softwares: [Laragon](https://github.com/leokhoa/laragon/releases/download/6.0.0/laragon-wamp.exe). [Heigi SQL](https://www.heidisql.com/installers/HeidiSQL_12.6.0.6765_Setup.exe), [DBeaver](https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe), [MySQL Workbench](https://dev.mysql.com/downloads/workbench/), [MS SQL Server Express 2022](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br), [SQL Server Management Studio](https://aka.ms/ssmsfullsetup). Outros sites comentados: [Database rank](https://db-engines.com/en/ranking), [Tiobe index](https://www.tiobe.com/tiobe-index/), [Stackoverflow 2023 developer survey](https://survey.stackoverflow.co/2023/#developer-profile-education). Repositórios recomendados: [Resumdo de diagramas](https://github.com/monteiro74/diagramas_resumo), [Tutorial python](https://github.com/monteiro74/tutorial_python) [Lista de ferramentas](https://github.com/monteiro74/lista_de_ferramentas), [Sobre blockchain e livros razão](https://github.com/monteiro74/blockchain). |
-| Aula 2: 06/03/2024 | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Sobre estruturas de armazenamento. Buffering. Operações com arquivos. Métodos de acesso. Tipos de arquivos. Índices. Processamento de consultas. Métodos de pesquisa e execução de consultas. Slides da [aula 1 (continuação)](https://docs.google.com/presentation/d/e/2PACX-1vRptbgMNg4TR5fXznzY75j8LHUi7flLB_hGQlPOHCrx0r3sQXGPCrI8f9AKdcvaN0G8i8OMUvLuogf2/pub?start=false&loop=false&delayms=3000). Slides da [aula2](https://docs.google.com/presentation/d/e/2PACX-1vQH7XoFZyVZVkxPZrfWY7eN_7BbB-nQXoNWbWFRZx7ZgxhPPUqYiZuY-t3iqgYY1FO-tkXTPbrECtFZ/pub?start=false&loop=false&delayms=3000). |
-| Aula 3: 13/03/2024 | Processamento e controle de transação, concorrência e bloqueio, diagrama de transição de estados no processamento de transações, logs, modelo de dados em rede, modelo de dados hierarquico, modelo de dados relacional, entidades, atributos, relacionamentos, cardinalidade, regras de integridade, modelo lógico. Modelo global x particionado. [Slide da aula 3](https://docs.google.com/presentation/d/e/2PACX-1vSBkdI8z_K_TuAkhh96I2F42WcLb_v18ZVqxI58XNufPYVOaFgmItbtZ4LA8xPUAmaZj-yJfT_1fCgu/pub?start=false&loop=false&delayms=3000). [Instalação do SQL Server](https://docs.google.com/presentation/d/e/2PACX-1vTOxTMqcFj14KdaNCNmYQ3uHKBXaGK1t8-Euemg_qAgg8WylSq9mu1nCbd39FEzLtT1jDlOf3vE33zG/pub?start=false&loop=false&delayms=3000). Script [SQL para MySQL](https://github.com/monteiro74/aulas_2024_1/blob/main/Modelagem_e_projeto_de_db/script_exercicios_mysql_v1.sql). Script sql para [SQL Server](https://github.com/monteiro74/aulas_2024_1/blob/main/Modelagem_e_projeto_de_db/script_exercicios_sqlserver_v1.sql). Atenção, neste dia teremos 4 horas/aula. |
-| Aula 4: 20/03/2024 | Projeto de base de dados, normalização, ETL, exercícios. Atenção, neste dia teremos 4 horas/aula. [Slides aula4 (parte1)](https://docs.google.com/presentation/d/e/2PACX-1vSlTImthL2Un-Xl5C5CKuDPeNLQ5hKh_6Pj9djJKgFEEdDPMU3m3hLhs73JvZek0soZ2qJQrNvM-Kam/pub?start=false&loop=false&delayms=3000). [Slides aula4 (parte2)](https://docs.google.com/presentation/d/e/2PACX-1vSOTx8Tvuxe9ylUyfG69jPxiLggJUn_l5nY_WbDmM89RnExlN5fz3YEKLKpb5inJEWEWWvbeAFMkc2S/pub?start=false&loop=false&delayms=3000). [Intro SQL Server Management Studio](https://docs.google.com/presentation/d/e/2PACX-1vS5SVoEEpcwJ_XSZ79Jmex6qn6Mr-wWmqi5TPzadi4Q61ZCr7-xFlmM9Cvc_dTaJ_kCQLWOPFZn-8vX/pub?start=false&loop=false&delayms=3000). |
-| Aula 5: 27/03/2024 | Avaliação 1. [Script de banco de dados](https://github.com/monteiro74/aulas_2024_1/blob/main/Modelagem_e_projeto_de_db/mpbd_v1.sql). |
-| Aula: 03/04/2024 | Aula reprogramada ! |
-| Aula 6: 10/04/2024 | Exercício realizado 1: Criação do banco de dados no MySQL (usando Laragon). 2. Executado o script para criar os objetos do banco e inserir alguns dados nas tabelas usando qualquer uma das ferramentas recomendadas (HeidiSQL, MySQL Front ou DBeaver). 3. Criado o projeto no scriptcase. 3.1. Scriptcase conectado com o banco de dados. 3.2. Dentro do Scriptcase foram desenvolvidos seguintes aplicativos: menu, consulta (grid), formulário, blank, gráfico e dashboard. |
-| Aula 7: 17/04/2024 | Exercício realizado 2: Foram criadas no scriptcase as seguintes aplicações: Abas, blank, cadastros (consultas (grids) e formulários), controle, filtros, dashboard, gráficos, relatórios e módulos de segurança. Posteriormente foi feito a implantação da aplicação gerada no Apache do Laragon e configurado o ambiente de produção da aplicação final. |
-| Aula 8: 24/04/2024 | DW, OLAP x OLTP, Cubo de dados, dimensão x fato, floco de neve, BI, criação de banco de dados na núvem.Revisão de instalação de SQL Server e outros bancos. Serviço x Instância de banco. SQL Joins, exercícios com SQL, Bancos relacionais x não relacionais. Portal Brasileiro de [dados abertos](https://dados.gov.br/home). [Slides 1](https://docs.google.com/presentation/d/e/2PACX-1vS_3oiweAkp77SDlWQLfdcDyO6sZ8C7iM1vkZl8lJXJTSbR5rLNCNWUoOQWugRgovVIw2qQPHeYeCcG/pub?start=false&loop=false&delayms=3000).[Slides 2](https://docs.google.com/presentation/d/e/2PACX-1vTSoaH7wxwdQE4lB6aQQPMZvCmW9ey9WXIjSTWgn5m1dywxWj1cMFCsMjrQPujFoAcLbGIPKkYNM0z4/pub?start=false&loop=false&delayms=3000). [Mais operações no SSMS (atualizações)](https://docs.google.com/presentation/d/e/2PACX-1vTrPDTA9Gazqvb2DM80bulnR4oMMFvp6gsfZE489Arkjtaf_Ex1wnn0N9Yi6dzBOH3cEegYUP_339SC/pub?start=false&loop=false&delayms=3000).[Slides comandos SQL](https://docs.google.com/presentation/d/e/2PACX-1vS3Hd0OvpMSQ1YM-bNSa1cNv9T4sCWI-TbCSokPmbS8rkJSPQpF2CxaZiJNMpshfgg6aQVWrXpfIytQ/pub?start=false&loop=false&delayms=3000). [SELECT JOIN](https://docs.google.com/presentation/d/e/2PACX-1vSy5og35u656U4QNUhjvdkFiIwhN2SGuZzjILHVodq-Wbp5B_Vrf79oDWuZDcBeTCBoxcZg5HEZbT_c/pub?start=false&loop=false&delayms=3000).|
-| Aula 9: 08/05/2024 | NoSQL e Blockchain. [Blockchain](https://github.com/monteiro74/blockchain). [Artigo simula uma blockchain no sql server](https://benjaminsky.medium.com/blockchain-by-example-in-sql-server-8376b410128).  [Multichain](https://www.multichain.com/). [Cliente Ethereum](https://geth.ethereum.org/).  [Slides sobre hyperledger](https://docs.google.com/presentation/d/e/2PACX-1vQoIlYJoBrRfAxNbe4WEyTQwXH-dKQLgh5gCxa7HWgm_sqEp94bZ9mIs36K09rEm4mQMMz8yYERXiI9/pub?start=false&loop=false&delayms=3000).  [Slides sobre blockchain](https://docs.google.com/presentation/d/e/2PACX-1vTC1YdKT6G7jQnavJzQshjR3SZBUYWCndv7vbclNtF6tfANbL1wdD5NUwSKdOSHDTCQ8jlSdOOW5fhH/pub?start=false&loop=false&delayms=3000). [Artigo que deu origem ao blockchain](https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf).|
-| Aula 10: 15/05/2024 | Avaliação 2. [Arquivo para a Pivot Table](https://github.com/monteiro74/aulas_2024_1/blob/main/Modelagem_e_projeto_de_db/pivot_table2_v3.xlsx). Pivot table no Excel. Intro ao PowerBI. |
-| Aula 11: 22/05/2024 | Exercícios com: SQL Server (exercício 4.2). |
-| Aula 12: 29/05/2024 | Exercícios com: SQL Server. PowerBI. MS Access. Tabela dinâmica com Excel. Conexão ODBC. |
-| Aula 13: 05/06/2024 | Exemplo de ETL. Teoria de Modelo ER. [Revisão para última avaliação](https://docs.google.com/presentation/d/e/2PACX-1vQKEarXKXgH_A4HGq4e62-5teSYedLmBVqrOtHFZj-WwGgnEd7RryWt0h63K4-3aQRcw1ZJHsPLf2dR/pub?start=false&loop=false&delayms=3000). [Enquete sobre a disciplina](https://forms.gle/Ui19QV48iQ7UcSC79). |
-| Aula 14: 12/06/2024 | Avaliação 3. (revisão do modelo ER), artigos 3, 4 e 5. |
+| Aula 1:  |  |
+| Aula 2:  |  |
+| Aula 3:  |  |
+| Aula 4:  |  |
+| Aula 5:  |  |
+| Aula 6:  |  |
+| Aula 7:  |  |
+| Aula 8:  |  |
+| Aula 9:  |  |
+| Aula 10: |  |
+| Aula 11: |  |
+| Aula 12: |  |
+| Aula 13: |  |
+| Aula 14: |  |
+| Aula 15: |  |
 
 Aula 12:
 ![Exercício da aula 12](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/Aula12.jpg)
