@@ -90,7 +90,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
-| Aula 1: (20/08/2024)  | 3hs | Introdução. Referências bibliográficas. Conceitos de engenharia de software. [Slides da aula1](link: https://docs.google.com/presentation/d/1S-UqLGhTJezySPFU2bvPkIyLO-s2Uq0X-nQaFATDDmI/view) |
+| Aula 1: (20/08/2024)  | 3hs | Introdução. Referências bibliográficas. Conceitos de engenharia de software. [Slides da aula1](https://docs.google.com/presentation/d/1S-UqLGhTJezySPFU2bvPkIyLO-s2Uq0X-nQaFATDDmI/view). |
 | Aula 2: (27/08/2024)  | 3hs | Introdução à processos de software, Scrum e Kanban. Intro UML. |
 | Aula 3: (03/09/2024)  | 3hs | Linguagens de programação, Ferramentas CASE, revisão de UML. |
 | Aula 4: (10/09/2024)  | 3hs | Processos de software, processos ágeis. |
