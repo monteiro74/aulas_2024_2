@@ -128,7 +128,7 @@ PF: __/__/2024 <br>
 ## 6. Diagrama entidade relacionamento
 
 
-
+---
 ## 7. Tabela em Latex
 
 Exemplo de tabela:
