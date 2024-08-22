@@ -13,15 +13,16 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
-  - [5. Diagrama entidade relacionamento](#5-diagrama-entidade-relacionamento)
-  - [6. Tabela em Latex](#6-tabela-em-latex)
-  - [7. Artigos:](#7-artigos)
-  - [8. Referências:](#8-referências)
-  - [9. Demais Disciplinas:](#9-demais-disciplinas)
-  - [10. Lista de ferramentas:](#10-lista-de-ferramentas)
-  - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
-  - [12. Curso **grátis** sobre gerência de projetos:](#12-curso-grátis-sobre-gerência-de-projetos)
-  - [13. Como estudar](#13-como-estudar)
+  - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
+  - [6. Diagrama entidade relacionamento](#6-diagrama-entidade-relacionamento)
+  - [7. Tabela em Latex](#7-tabela-em-latex)
+  - [8. Artigos:](#8-artigos)
+  - [9. Referências:](#9-referências)
+  - [10. Demais Disciplinas:](#10-demais-disciplinas)
+  - [11. Lista de ferramentas:](#11-lista-de-ferramentas)
+  - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
+  - [13. Curso **grátis** sobre gerência de projetos:](#13-curso-grátis-sobre-gerência-de-projetos)
+  - [14. Como estudar](#14-como-estudar)
 
 
 ---
@@ -82,7 +83,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
-| Aula 1:  (21/08/2024) | 3hs | Apresentação da disciplina, introdução, referências bibliográficas, conceitos de processos de software |
+| Aula 1:  (21/08/2024) | 3hs | Apresentação da disciplina, introdução, referências bibliográficas, conceitos de processos de software. [Slides 1](https://docs.google.com/presentation/d/1uU6Hhw7laDfAy16B_R6RLTu0xsxVn6gs5muI984Nerw/edit?usp=sharing). [Slides 2 continuação](https://docs.google.com/presentation/d/1vj67cxJE-pxDVz7dDZobnG6cYeb9qBEfersTxtNGmUU/edit?usp=sharing). [Referências bibliográficas](https://docs.google.com/presentation/d/1o3MaLhcQmDNvTOrorfHmGHcKfRdmHXMM-c4ERrgSA6c/edit?usp=sharing).  |
 | Aula 2:  (28/08/2024) | 3hs | Projetos x atividades, conceitos gerais sobre projeto e gerenciamento. |
 | Aula 3:  (04/09/2024) | 3hs | Frameworks de gerenciamento. |
 | Aula 4:  (11/04/2024) | 3hs | Análise de risco, cálculo de risco, escopo, mapeamento. |
@@ -108,14 +109,27 @@ Avaliação 3: 25/11/2024 <br>
 PF: __/__/2024 <br>
 
 
+---
+## 5. Ferramentas comentadas
+
+[Github desktop](https://desktop.github.com/download/)
+
+[Laragon](https://laragon.org/download/)
+
+[Visual studio code](https://code.visualstudio.com/download)
+
+[qdPM](https://qdpm.net/qdpm-download.php)
+
+[Project Libre](https://www.projectlibre.com/product/1-alternative-microsoft-project-free-project-management-software-open-source)
+
+
 
 ---
-## 5. Diagrama entidade relacionamento
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_gps.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_gps.png)
+## 6. Diagrama entidade relacionamento
 
 
-## 6. Tabela em Latex
+
+## 7. Tabela em Latex
 
 Exemplo de tabela:
 
@@ -136,7 +150,7 @@ Hospedagem web                   & 12                  & 1000                   
 
 
 ---
-## 7. Artigos:
+## 8. Artigos:
 1. [O gerenciamento de projetos e sua importância para a qualidade e a efetividade no setor público](https://core.ac.uk/display/268170107?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1)
 2. [Gerência de Projetos - Teoria e Prática](https://repositorio.enap.gov.br/bitstream/1/1092/1/GerenciaDeProjeos_modulo_1_final_.pdf)
 3. [Gerência de projetos: uma reflexão histórica](https://www.scielo.br/j/rae/a/Fkq59q8FCfMvqhLPbQpx3pt/)
@@ -144,46 +158,43 @@ Hospedagem web                   & 12                  & 1000                   
 5.	[Gestão de projetos em empresas públicas: a implantação do escritório de projetos na empresa de transportes e trânsito de Belo Horizonte S/A](https://www.researchgate.net/profile/Barbara-Matos-4/publication/329217483_Gestao_de_projetos_em_empresas_publicas_a_implantacao_do_escritorio_de_projetos_na_empresa_de_transportes_e_transito_de_Belo_Horizonte_SA/links/5bfd572da6fdcc35428b98f5/Gestao-de-projetos-em-empresas-publicas-a-implantacao-do-escritorio-de-projetos-na-empresa-de-transportes-e-transito-de-Belo-Horizonte-S-A.pdf)
 
 
-
-
 ---
-## 8. Referências:
+## 9. Referências:
 
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012.<br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 * PRESSMAN,.Engenharia de software: uma abordagem profissional. Porto Alegre: AMGH, 2016.<br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41 <br>
 * SOMMERVILLE, Ian. Engenharia de software. São Paulo: Pearson Prentice Hall, 2011.<br>
 
-
-
 ---
-## 9. Demais Disciplinas:
+## 10. Demais Disciplinas:
 
 1. Engenharia de Software https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
 2. Gestão de projeto de software https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_software/plano_de_aula_gps.md
 3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
 
 ---
-## 10. Lista de ferramentas:
+## 11. Lista de ferramentas:
+
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 [Lista de diagramas básicos](https://github.com/monteiro74/diagramas_resumo).
 
 
 ---
-## 11. Curiosidade... onde adquirir livros baratos? 
+## 12. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-## 12. Curso **grátis** sobre gerência de projetos:
+## 13. Curso **grátis** sobre gerência de projetos:
 
 * [Gerenciamento de Projetos com Project Libre](https://www.udemy.com/course/ferramentas-do-gp-projectlibre/)
 * [Introdução Gratuita: Preparatório on demand para o exame PMP autorizado do PMI](https://www.pmi.org/shop/brazil/p-/elearning/introdu%C3%A7%C3%A3o-gratuita-preparat%C3%B3rio-on-demand-para-o-exame-pmp-autorizado-do-pmi/el053)
 
 
 ---
-## 13. Como estudar
+## 14. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
