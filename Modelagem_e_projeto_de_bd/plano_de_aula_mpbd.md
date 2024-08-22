@@ -23,6 +23,7 @@
   - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
   - [11. Cursos **grátis** sobre SQL Server e MySQL:](#11-cursos-grátis-sobre-sql-server-e-mysql)
   - [12. Como estudar](#12-como-estudar)
+  - [13. Videos recomendados](#13-videos-recomendados)
 
 
 ---
@@ -181,3 +182,14 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 ## 12. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
+
+
+
+---
+## 13. Videos recomendados
+
+1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
+
+2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
+
+3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)

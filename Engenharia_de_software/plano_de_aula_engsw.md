@@ -23,14 +23,15 @@
   - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
   - [13. Cursos gratuítos:](#13-cursos-gratuítos)
   - [14. Como estudar](#14-como-estudar)
-  - [15. Resolução de exercícios:](#15-resolução-de-exercícios)
-    - [15.1. Descrição do exercício:](#151-descrição-do-exercício)
-    - [15.2. Diagrama ER](#152-diagrama-er)
-    - [15.3. Class diagram](#153-class-diagram)
-    - [15.4.  Sequence diagram](#154--sequence-diagram)
-    - [15.5.  Flow Chart](#155--flow-chart)
-    - [15.6.  Use Case Diagram](#156--use-case-diagram)
-    - [15.7.  Deployment diagram](#157--deployment-diagram)
+  - [15. Videos recomendados](#15-videos-recomendados)
+  - [16. Resolução de exercícios:](#16-resolução-de-exercícios)
+    - [16.1. Descrição do exercício:](#161-descrição-do-exercício)
+    - [16.2. Diagrama ER](#162-diagrama-er)
+    - [16.3. Class diagram](#163-class-diagram)
+    - [16.4.  Sequence diagram](#164--sequence-diagram)
+    - [16.5.  Flow Chart](#165--flow-chart)
+    - [16.6.  Use Case Diagram](#166--use-case-diagram)
+    - [16.7.  Deployment diagram](#167--deployment-diagram)
 
 
 ---
@@ -208,9 +209,19 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
 
 ---
-## 15. Resolução de exercícios:
+## 15. Videos recomendados
 
-### 15.1. Descrição do exercício:
+1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
+
+2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
+
+3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)
+
+
+---
+## 16. Resolução de exercícios:
+
+### 16.1. Descrição do exercício:
 
 ...
 
@@ -224,25 +235,25 @@ Para a descrição a faça em markdown:
 
 
 ---
-### 15.2. Diagrama ER
+### 16.2. Diagrama ER
    
 
 ---
-### 15.3. Class diagram
+### 16.3. Class diagram
 
 
 ---
-### 15.4.  Sequence diagram
+### 16.4.  Sequence diagram
 
 
 ---
-### 15.5.  Flow Chart
+### 16.5.  Flow Chart
 
 
 ---
-### 15.6.  Use Case Diagram
+### 16.6.  Use Case Diagram
 
 
 ---
-### 15.7.  Deployment diagram
+### 16.7.  Deployment diagram
 
