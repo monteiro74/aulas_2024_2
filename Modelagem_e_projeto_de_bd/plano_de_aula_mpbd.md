@@ -20,10 +20,11 @@
   - [7. Referências:](#7-referências)
   - [8. Demais Disciplinas:](#8-demais-disciplinas)
   - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
-  - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
-  - [11. Cursos **grátis** sobre SQL Server e MySQL:](#11-cursos-grátis-sobre-sql-server-e-mysql)
-  - [12. Como estudar](#12-como-estudar)
-  - [13. Videos recomendados](#13-videos-recomendados)
+  - [10. Grupos no telegram](#10-grupos-no-telegram)
+  - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
+  - [12. Cursos **grátis** sobre SQL Server e MySQL:](#12-cursos-grátis-sobre-sql-server-e-mysql)
+  - [13. Como estudar](#13-como-estudar)
+  - [14. Videos recomendados](#14-videos-recomendados)
 
 
 ---
@@ -160,14 +161,35 @@ Abaixo o resultado com os relacionamentos:
 
 
 ---
-## 10. Curiosidade... onde adquirir livros baratos? 
+## 10. Grupos no telegram
+
+
+|Grupo | Link no Telegram |
+| --- | --- |
+| Vagas de TI para todos | https://t.me/vagastibr |
+| Flutterflow Brasil | https://t.me/flutterflowbrazil |
+| Bubble.ioBR | https://t.me/bubbleBR |
+| Grupo de usuários Oracle Cloud Brasil | https://t.me/GUOCB |
+| PHP Brasil | https://t.me/phpbrasil |
+| Lazarus & Delphi Brasil | https://t.me/LazBrasil |
+| Lazarus BR | https://t.me/LazarusBR | 
+| MySQL BR | https://t.me/mysqlbr | 
+| Python Brasil | https://linktr.ee/python.brasil | 
+| C# Brasil | https://t.me/csharpbrasiloficial |
+| Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
+| SQL Server GO | https://t.me/SQLServerGO |
+
+
+
+---
+## 11. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-## 11. Cursos **grátis** sobre SQL Server e MySQL:
+## 12. Cursos **grátis** sobre SQL Server e MySQL:
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
 * [Série DBA SQL Server - Preparação, instalação e configuração](https://www.udemy.com/course/sqlserver-instalacao-e-configuracao/)
@@ -179,14 +201,13 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 * [Introdução a Bancos de Dados e Linguagem SQL](https://www.udemy.com/course/introducao-a-bancos-de-dados-e-linguagem-sql/)
 
 ---
-## 12. Como estudar
+## 13. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
 
-
 ---
-## 13. Videos recomendados
+## 14. Videos recomendados
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
