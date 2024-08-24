@@ -87,7 +87,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
-| Aula 1:  (22/08/2024) | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas.  |
+| Aula 1:  (22/08/2024) | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. [Slides aula 1](https://docs.google.com/presentation/d/1ACaXtOaHsLL9R1pkABMfddZ1RgFMVUTGmrN8gT4tKt4/view). [Refs Biblio](https://docs.google.com/presentation/d/1UwZK6UKLdrBiOPq5rNbyhA4q-XtvqSmEzmNcy9xHkNc/view). |
 | Aula 2:  (29/08/2024) | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. |
 | Aula 3:  (05/09/2024) | 3hs | Processamento e controle de transação, concorrência e bloqueio. |
 | Aula 4:  (12/09/2024) | 3hs | Projeto de base de dados, normalização, ETL, exercícios. |
