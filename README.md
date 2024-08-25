@@ -13,7 +13,7 @@
 ---
 # 3. Mapa do curso
 
-![Mapa do curso](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/mapa_do_curso.png)
+![Mapa do curso](https://github.com/monteiro74/aulas_2024_2/blob/main/figuras/mapa_do_curso.png)
 
 ---
 # 4. Calendário
