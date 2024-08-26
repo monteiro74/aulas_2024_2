@@ -88,7 +88,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
 | Aula 1:  (22/08/2024) | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. [Slides aula 1](https://docs.google.com/presentation/d/1ACaXtOaHsLL9R1pkABMfddZ1RgFMVUTGmrN8gT4tKt4/view). [Refs Biblio](https://docs.google.com/presentation/d/1UwZK6UKLdrBiOPq5rNbyhA4q-XtvqSmEzmNcy9xHkNc/view). |
-| Aula 2:  (29/08/2024) | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. |
+| Aula 2:  (29/08/2024) | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. Link para download do [SQL Server Express 2022 (instalador)](https://download.microsoft.com/download/5/1/4/5145fe04-4d30-4b85-b0d1-39533663a2f1/SQL2022-SSEI-Expr.exe). Favor baixar o instalador primeiro e depois baixar o SQL Server, a instalação vamos fazer em sala de aula!! |
 | Aula 3:  (05/09/2024) | 3hs | Processamento e controle de transação, concorrência e bloqueio. |
 | Aula 4:  (12/09/2024) | 3hs | Projeto de base de dados, normalização, ETL, exercícios. |
 | Aula 5:  (19/09/2024) | 3hs | Avaliação 1. |
