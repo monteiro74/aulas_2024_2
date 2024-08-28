@@ -92,7 +92,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
 | Aula 1: (20/08/2024)  | 3hs | Introdução. Referências bibliográficas. Conceitos de engenharia de software. [Slides da aula1](https://docs.google.com/presentation/d/1S-UqLGhTJezySPFU2bvPkIyLO-s2Uq0X-nQaFATDDmI/view). |
-| Aula 2: (27/08/2024)  | 3hs | Introdução à processos de software, Scrum e Kanban. Intro UML. |
+| Aula 2: (27/08/2024)  | 3hs | Introdução à processos de software, Scrum e Kanban. Intro UML. [Processos de software](https://docs.google.com/presentation/d/1fENsBvvN18qy6XWZIhogJmVfRiBqvSS7N3S4rFt1KE0/edit?usp=sharing), [Análise de requisitos](https://docs.google.com/presentation/d/1wmpsdBEC4nBhjqlAkPewDGysJOEHUUKeStdOtP7wXHA/edit?usp=sharing), [Scrum](https://docs.google.com/presentation/d/1Zk4ZFt3drngzzkPmVulPMMyQYFlfki8FZL1q_PyBiXc/edit?usp=sharing), [UML, parte 1](https://docs.google.com/presentation/d/1kVUys4xQk0aIv313wN08Mp95W98QfUyIM2AqODbodKc/edit?usp=sharing). |
 | Aula 3: (03/09/2024)  | 3hs | Linguagens de programação, Ferramentas CASE, revisão de UML. |
 | Aula 4: (10/09/2024)  | 3hs | Processos de software, processos ágeis. |
 | Aula 5: (17/09/2024)  | 3hs | Avaliação 1. |
