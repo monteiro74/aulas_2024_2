@@ -139,9 +139,9 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 [Papyrus](https://eclipse.dev/papyrus/download.html)
 
-[Modelio](https://www.modelio.org/index.htm)
+[Modelio](https://www.modelio.org/index.htm) <<-- Recomendo !
 
-[WhiteStar](https://sourceforge.net/projects/whitestaruml/)
+[WhiteStar](https://sourceforge.net/projects/whitestaruml/) <<-- Recomendo !
 
 [Software Ideas Modeler](https://www.softwareideas.net/en/download)
 
