@@ -208,3 +208,6 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
 
 3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)
+   
+4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58)
+
