@@ -23,6 +23,7 @@
   - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
   - [13. Curso **grátis** sobre gerência de projetos:](#13-curso-grátis-sobre-gerência-de-projetos)
   - [14. Como estudar](#14-como-estudar)
+  - [15. Videos recomendados](#15-videos-recomendados)
 
 
 ---
@@ -84,7 +85,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
 | Aula 1:  (21/08/2024) | 3hs | Apresentação da disciplina, introdução, referências bibliográficas, conceitos de processos de software. [Slides 1](https://docs.google.com/presentation/d/1uU6Hhw7laDfAy16B_R6RLTu0xsxVn6gs5muI984Nerw/edit?usp=sharing). [Slides 2 continuação](https://docs.google.com/presentation/d/1vj67cxJE-pxDVz7dDZobnG6cYeb9qBEfersTxtNGmUU/edit?usp=sharing). [Referências bibliográficas](https://docs.google.com/presentation/d/1o3MaLhcQmDNvTOrorfHmGHcKfRdmHXMM-c4ERrgSA6c/edit?usp=sharing).  |
-| Aula 2:  (28/08/2024) | 3hs | Projetos x atividades, conceitos gerais sobre projeto e gerenciamento. |
+| Aula 2:  (28/08/2024) | 3hs | Projetos x atividades, conceitos gerais sobre projeto e gerenciamento. [Slides de aula](https://docs.google.com/presentation/d/1-WWJFJgkhIMreW-wFt7ti7eYq314cTkJ_yxZ3SJoGMA/view). |
 | Aula 3:  (04/09/2024) | 3hs | Frameworks de gerenciamento. |
 | Aula 4:  (11/04/2024) | 3hs | Análise de risco, cálculo de risco, escopo, mapeamento. |
 | Aula 5:  (18/09/2024) | 3hs | Avaliação 1. |
