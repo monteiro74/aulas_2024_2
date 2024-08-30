@@ -157,7 +157,14 @@ Abaixo o resultado com os relacionamentos:
 
 ---
 ## 9. Lista de ferramentas:
-[Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
+
+
+1. Laragon
+2. Heidi SQL
+3. MS Sql Server Express 2022
+4. MS Sql Server Management Studio
+5. Visual Studio Code
+6. Github Desktop
 
 
 ---

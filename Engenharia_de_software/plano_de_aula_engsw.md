@@ -151,6 +151,10 @@ Como criar uma página web no github: https://docs.github.com/en/pages/getting-s
 
 [UML Designer](https://www.umldesigner.org/download/)
 
+Visual Studio Code  <<-- Recomendo !
+ 
+Github Desktop <<-- Recomendo !
+
 
 ---
 ## 8. Artigos:
