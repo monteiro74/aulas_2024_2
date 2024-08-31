@@ -161,11 +161,11 @@ Abaixo o resultado com os relacionamentos:
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
-[3. MS Sql Server Express 2022](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br)
-[4. MS Sql Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
-[5. Visual Studio Code](https://code.visualstudio.com/download)
-[6. Github Desktop](https://desktop.github.com/download/)
-[7. DBeaver Community](https://dbeaver.io/download/)
+3. [MS Sql Server Express 2022](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br)
+4. [MS Sql Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+5. [Visual Studio Code](https://code.visualstudio.com/download)
+6. [Github Desktop](https://desktop.github.com/download/)
+7. [DBeaver Community](https://dbeaver.io/download/)
 
 
 ---
