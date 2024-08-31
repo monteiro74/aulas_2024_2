@@ -88,8 +88,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Data    | Carga horária | Conteúdo |
 | ------- | ------------- |------- |
 | Aula 1:  (22/08/2024) | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. [Slides aula 1](https://docs.google.com/presentation/d/1ACaXtOaHsLL9R1pkABMfddZ1RgFMVUTGmrN8gT4tKt4/view). [Refs Biblio](https://docs.google.com/presentation/d/1UwZK6UKLdrBiOPq5rNbyhA4q-XtvqSmEzmNcy9xHkNc/view). |
-| Aula 2:  (29/08/2024) | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. Link para download do [SQL Server Express 2022 (instalador)](https://download.microsoft.com/download/5/1/4/5145fe04-4d30-4b85-b0d1-39533663a2f1/SQL2022-SSEI-Expr.exe). Favor baixar o instalador primeiro e depois baixar o SQL Server, a instalação vamos fazer em sala de aula!! |
-| Aula 3:  (05/09/2024) | 3hs | Processamento e controle de transação, concorrência e bloqueio. |
+| Aula 2:  (29/08/2024) | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. Link para download do [SQL Server Express 2022 (instalador)](https://download.microsoft.com/download/5/1/4/5145fe04-4d30-4b85-b0d1-39533663a2f1/SQL2022-SSEI-Expr.exe). Favor baixar o instalador primeiro e depois baixar o SQL Server, a instalação vamos fazer em sala de aula!! [Slides da Aula 2](https://docs.google.com/presentation/d/1t0Fh5tpu6XqyEL5Xw_fvp6cUSeRv-5IT-BNbeW5jNMQ/view). [Ranking de bancos de dados](https://docs.google.com/presentation/d/1QecvjeQ9rC7fnPB6nt3nxUp4Vghdc8Y7r_XU7a2Jrp8/view). [Instalação do SQL Server 2022 Express](https://docs.google.com/presentation/d/1OmDABLKhAgwhRu6y-385sC21-85a4Ot5TRIt7UvFuPs/view). |
+| Aula 3:  (05/09/2024) | 3hs | Processamento e controle de transação, concorrência e bloqueio. [Conhecendo o SSMS](https://docs.google.com/presentation/d/1L_Fj98tfWqReC1xURQuWw3nlBcfK19bh2LXnWNQfNRM/view) |
 | Aula 4:  (12/09/2024) | 3hs | Projeto de base de dados, normalização, ETL, exercícios. |
 | Aula 5:  (19/09/2024) | 3hs | Avaliação 1. |
 | Aula 6:  (26/09/2024) | 3hs | DW, OLAP x OLTP, Cubo de dados, dimensão x fato, floco de neve, BI, criação de banco de dados na nuvem. |
@@ -159,12 +159,13 @@ Abaixo o resultado com os relacionamentos:
 ## 9. Lista de ferramentas:
 
 
-1. Laragon
-2. Heidi SQL
-3. MS Sql Server Express 2022
-4. MS Sql Server Management Studio
-5. Visual Studio Code
-6. Github Desktop
+1. [Laragon](https://laragon.org/download/)
+2. [Heidi SQL](https://www.heidisql.com/download.php)
+[3. MS Sql Server Express 2022](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br)
+[4. MS Sql Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+[5. Visual Studio Code](https://code.visualstudio.com/download)
+[6. Github Desktop](https://desktop.github.com/download/)
+[7. DBeaver Community](https://dbeaver.io/download/)
 
 
 ---
