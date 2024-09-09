@@ -12,6 +12,7 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
+      - [Aula 3: gráfico de gantt](#aula-3-gráfico-de-gantt)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
   - [6. Diagrama entidade relacionamento](#6-diagrama-entidade-relacionamento)
@@ -86,7 +87,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | ------- | ------------- |------- |
 | Aula 1:  (21/08/2024) | 3hs | Apresentação da disciplina, introdução, referências bibliográficas, conceitos de processos de software. [Slides 1](https://docs.google.com/presentation/d/1uU6Hhw7laDfAy16B_R6RLTu0xsxVn6gs5muI984Nerw/edit?usp=sharing). [Slides 2 continuação](https://docs.google.com/presentation/d/1vj67cxJE-pxDVz7dDZobnG6cYeb9qBEfersTxtNGmUU/edit?usp=sharing). [Referências bibliográficas](https://docs.google.com/presentation/d/1o3MaLhcQmDNvTOrorfHmGHcKfRdmHXMM-c4ERrgSA6c/edit?usp=sharing).  |
 | Aula 2:  (28/08/2024) | 3hs | Projetos x atividades, conceitos gerais sobre projeto e gerenciamento. [Slides de aula](https://docs.google.com/presentation/d/1-WWJFJgkhIMreW-wFt7ti7eYq314cTkJ_yxZ3SJoGMA/view). |
-| Aula 3:  (04/09/2024) | 3hs | Frameworks de gerenciamento. |
+| Aula 3:  (04/09/2024) | 3hs | Frameworks de gerenciamento. [Gráfico de gantt](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/main/Gerencia_de_prj_sw/project_libre_aula3_exemplo.png). |
 | Aula 4:  (11/04/2024) | 3hs | Análise de risco, cálculo de risco, escopo, mapeamento. |
 | Aula 5:  (18/09/2024) | 3hs | Avaliação 1. |
 | Aula 6:  (25/09/2024) | 3hs | Estrutura do projeto, TWIG, qdPM + ProjectLibre. |
@@ -100,6 +101,11 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 14: (22/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3. |
 | Aula 15: (25/11/2024) | 3hs | Avaliação 3. Entrega de notas, revisão para PF. |
 
+
+---
+#### Aula 3: gráfico de gantt
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/main/Gerencia_de_prj_sw/project_libre_aula3_exemplo.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/main/Gerencia_de_prj_sw/project_libre_aula3_exemplo.png)
 
 ---
 ### 4.1. Unidade de avaliação:
