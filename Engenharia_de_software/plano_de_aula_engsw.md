@@ -13,7 +13,8 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
-  - [5. Exercícios](#5-exercícios)
+  - [5. Exercício](#5-exercício)
+    - [5.1. Início de documentação:](#51-início-de-documentação)
   - [6. Exemplos de documentações](#6-exemplos-de-documentações)
   - [7. Links para download de ferramentas para diagramação com UML:](#7-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [8. Artigos:](#8-artigos)
@@ -115,7 +116,30 @@ Avaliação 2: 22/09/2024 <br>
 Avaliação 3: 26/10/2024 <br>
 
 ---
-## 5. Exercícios
+## 5. Exercício
+
+### 5.1. Início de documentação:
+
+1	Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
+2	Os clientes devem fazer um cadastro de si e dos animais. 
+3	Os clientes devem informar as condições nas quais os animais chegam. 
+4	Os clientes devem informar o tipo de ração que o animal come. 
+5	O cliente deve informar hábitos do animal. 
+6	Para cada animal é possível que mais de um veterinário o atenda. 
+7	Os animais podem chegar e serem atendidos de acordo com uma agenda do dia. 
+8	Cada animal atendido receberá uma ficha e um prontuário. 
+9	Outros dono podem querer marcar horários de atendimento futuro. 
+10	O atendimento gera uma receita para o animal. 
+11	Quando um cliente chega na clínica veterinária ele é atendido por um atendente. 
+12	O atendente deve verificar se existe agenda disponível com um veterinário. 
+13	O atendente deve colocar o cliente e seu animal na fila de espera, se for o caso. 
+14	O atendente deve levar o cliente e o animal até o veterinário. 
+15	O veterinário deve realizar uma entrevista com o dono do animal. 
+16	O resultado da entrevista deve ir para um formulário. 
+17	O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
+18	Dependendo da situação do animal este receberá uma receita.
+
+
 
 
 ---
