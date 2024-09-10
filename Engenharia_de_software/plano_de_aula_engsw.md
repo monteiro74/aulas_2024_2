@@ -25,14 +25,7 @@
   - [13. Cursos gratuítos:](#13-cursos-gratuítos)
   - [14. Como estudar](#14-como-estudar)
   - [15. Videos recomendados](#15-videos-recomendados)
-  - [16. Resolução de exercícios:](#16-resolução-de-exercícios)
-    - [16.1. Descrição do exercício:](#161-descrição-do-exercício)
-    - [16.2. Diagrama ER](#162-diagrama-er)
-    - [16.3. Class diagram](#163-class-diagram)
-    - [16.4.  Sequence diagram](#164--sequence-diagram)
-    - [16.5.  Flow Chart](#165--flow-chart)
-    - [16.6.  Use Case Diagram](#166--use-case-diagram)
-    - [16.7.  Deployment diagram](#167--deployment-diagram)
+  - [16. Eventos](#16-eventos)
 
 
 ---
@@ -248,41 +241,7 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58)
 
 ---
-## 16. Resolução de exercícios:
+## 16. Eventos
 
-### 16.1. Descrição do exercício:
-
-...
-
-Para a descrição a faça em markdown:
-1. ER Diagram
-2. Class diagram
-3. Sequence diagram
-4. Flow Chart
-5. Activity diagram
-6. Deployment diagram
-
-
----
-### 16.2. Diagrama ER
-   
-
----
-### 16.3. Class diagram
-
-
----
-### 16.4.  Sequence diagram
-
-
----
-### 16.5.  Flow Chart
-
-
----
-### 16.6.  Use Case Diagram
-
-
----
-### 16.7.  Deployment diagram
+https://materiais.agrihub.org.br/sementes-pecuaria?utm_campaign=sementes_pecuaria_e-mail_03_-
 
