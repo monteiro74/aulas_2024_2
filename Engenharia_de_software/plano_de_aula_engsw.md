@@ -240,6 +240,8 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
 4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58)
 
+5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
+
 ---
 ## 16. Eventos
 
