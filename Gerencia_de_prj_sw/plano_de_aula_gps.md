@@ -12,7 +12,7 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-      - [Aula 3: gráfico de gantt](#aula-3-gráfico-de-gantt)
+    - [Aula 3: gráfico de gantt](#aula-3-gráfico-de-gantt)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
   - [6. Diagrama entidade relacionamento](#6-diagrama-entidade-relacionamento)
@@ -25,6 +25,7 @@
   - [13. Curso **grátis** sobre gerência de projetos:](#13-curso-grátis-sobre-gerência-de-projetos)
   - [14. Como estudar](#14-como-estudar)
   - [15. Videos recomendados](#15-videos-recomendados)
+  - [16. Links com ferramentas de gestão](#16-links-com-ferramentas-de-gestão)
 
 
 ---
@@ -103,7 +104,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-#### Aula 3: gráfico de gantt
+### Aula 3: gráfico de gantt
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/main/Gerencia_de_prj_sw/project_libre_aula3_exemplo.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/main/Gerencia_de_prj_sw/project_libre_aula3_exemplo.png)
 
@@ -210,13 +211,23 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 ---
 ## 15. Videos recomendados
 
-1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
+1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94).
 
-2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
+2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4).
 
-3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)
+3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI).
    
-4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58)
+4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58).
 
-5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
+5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY).
+
+6. [Video Gestão de times e reuniões virtuais produtivas: cases, técnicas e estratégias](https://www.youtube.com/watch?v=1xgM9ux39Ww).
+
+## 16. Links com ferramentas de gestão
+
+[Toolkit para conecção de projetos de IA](https://www.conexaoinovacaopublica.org/post/conex-ia-toolkit-para-a-concep%C3%A7%C3%A3o-de-projetos-de-ia-para-o-setor-p%C3%BAblico).
+
+[Toolkit para gerenciamento de riscos em projetos](https://www.conexaoinovacaopublica.org/post/toolkit-de-gerenciamento-de-riscos-em-projetos).
+
+[Links do conexão inovação](https://linktr.ee/conexinovapub).
 
