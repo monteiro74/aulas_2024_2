@@ -242,6 +242,8 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
 
+6. Vídeo recomendado para quem tem que fazer análise de requisitos ou entrvistas de forma remota [Video Gestão de times e reuniões virtuais produtivas: cases, técnicas e estratégias](https://www.youtube.com/watch?v=1xgM9ux39Ww).
+
 ---
 ## 16. Eventos
 
