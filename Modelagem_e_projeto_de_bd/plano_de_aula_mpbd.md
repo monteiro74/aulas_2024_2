@@ -91,17 +91,17 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 2:  (29/08/2024) | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. Link para download do [SQL Server Express 2022 (instalador)](https://download.microsoft.com/download/5/1/4/5145fe04-4d30-4b85-b0d1-39533663a2f1/SQL2022-SSEI-Expr.exe). Favor baixar o instalador primeiro e depois baixar o SQL Server, a instalação vamos fazer em sala de aula!! [Slides da Aula 2](https://docs.google.com/presentation/d/1t0Fh5tpu6XqyEL5Xw_fvp6cUSeRv-5IT-BNbeW5jNMQ/view). [Ranking de bancos de dados](https://docs.google.com/presentation/d/1QecvjeQ9rC7fnPB6nt3nxUp4Vghdc8Y7r_XU7a2Jrp8/view). [Instalação do SQL Server 2022 Express](https://docs.google.com/presentation/d/1OmDABLKhAgwhRu6y-385sC21-85a4Ot5TRIt7UvFuPs/view). |
 | Aula 3:  (05/09/2024) | 3hs | Processamento e controle de transação, concorrência e bloqueio. [Conhecendo o SSMS](https://docs.google.com/presentation/d/1L_Fj98tfWqReC1xURQuWw3nlBcfK19bh2LXnWNQfNRM/view). [1. Introdução ao SQL Server 2022](https://docs.google.com/presentation/d/1P6ppIygreazusOGWpQ_-h1o7YoHtnhN_-756Cy2BBBk/view). [2. Instalação do SQL Server 2022](https://docs.google.com/presentation/d/17KCzWb3G83q7d_DJwNtNUq2vqpRTDJox2mGfiGJvtks/view). [3. Conhecendo o SSMS](https://docs.google.com/presentation/d/1cuVo7PI-6umdJ5441WNQW20tq4F5V5BESqDYUeXvoEQ/view). [4. Detalhes do SQL Server 2022](https://docs.google.com/presentation/d/1oivXosm29Zbhsz1x1YyYCdlkfeGCv9M46wMluAaYvsc/view). [Slides da aula 3](https://docs.google.com/presentation/d/1bAfd0EDZp36wP0swJBdX-Vy5iazWX0ByokfbKF5Vb7U/view). |
 | Aula 4:  (12/09/2024) | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server. [Slides da aula 4](https://docs.google.com/presentation/d/18sMesskA6iNWvsIr1ERVT0Zf8Ez7qtaT0OjfGZ7FERU/view). [Criação de tabelas e diagramas no SQL Server](https://docs.google.com/presentation/d/1JrVCFAv8w-5Z4pLGup8j9V-FnxAkZ_iN4V8T0ySn0cY/view). [Joins no SQL Server](https://docs.google.com/presentation/d/14ue962Z_hZ2gPGYI4Us_6EiNIO9IqxxDUbWLuyLVQGk/view). |
-| Aula 5:  (19/09/2024) | 3hs | Avaliação 1. Exercício prático: 1. Desenvolvimento de banco de dados (criar tabelas e seus relacionamentos), inserir dados de exemplo. 2. Atualização de repositório no github. |
+| Aula 5:  (19/09/2024) | 3hs | **Avaliação 1**. |
 | Aula 6:  (26/09/2024) | 3hs | DW, OLAP x OLTP, Cubo de dados, dimensão x fato, floco de neve, BI, criação de banco de dados na nuvem. |
 | Aula 7:  (03/10/2024) | 3hs | Revisão de instalação de SQL Server e outros bancos. Serviço x Instância de banco. |
 | Aula 8:  (10/10/2024) | 3hs | SQL Joins, exercícios com SQL. |
 | Aula 9:  (17/10/2024) | 3hs | SQL Joins, exercícios com SQL, Bancos relacionais x não relacionais. |
-| Aula 10: (24/10/2024) | 3hs | Avaliação 2. |
+| Aula 10: (24/10/2024) | 3hs | **Avaliação 2**. |
 | Aula 11: (31/10/2024) | 3hs | Bancos NoSQL + Exercícios. |
 | Aula 12: (07/11/2024) | 3hs | Blockchain + Projeto exercício. |
 | Aula 13: (14/11/2024) | 3hs | Projeto com ferramenta IDE RAD |
 | Aula 14: (21/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
-| Aula 15: (28/11/2024) | 3hs | Avaliação 3. Entrega de provas e notas. Revisão para PF |
+| Aula 15: (28/11/2024) | 3hs | **Avaliação 3**. Entrega de provas e notas. Revisão para PF |
 
 ---
 ### 4.1. Unidade de avaliação:
