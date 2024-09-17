@@ -13,6 +13,7 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
+    - [4.2. Trabalhos:](#42-trabalhos)
   - [5. Exercício](#5-exercício)
     - [5.1. Início de documentação:](#51-início-de-documentação)
   - [6. Exemplos de documentações](#6-exemplos-de-documentações)
@@ -108,31 +109,66 @@ Avaliação 1: 17/09/2024 <br>
 Avaliação 2: 22/10/2024 <br>
 Avaliação 3: 26/11/2024 <br>
 
+### 4.2. Trabalhos:
+
+
+
+|#| Aluno | Repositório |
+| -- | ----- | ----------- |
+|1|ANGEL |	https://github.com/RafaelProfMgz/angel-rafael|
+|2|BRUNO |	https://github.com/BnobDev/BRUNO_BORCARDT|
+|3|CAMILA|	https://github.com/Camila-Weber/camila_weber|
+|4|CRISTIANO |	|
+|5|DARY |	https://github.com/DaryGustavo/Dary-Gustavo|
+|6|ELBER |	https://github.com/4Elber/Elber_Alves|
+|7|EMANUEL |	https://github.com/emanuelestudant/emanuel_dutra|
+|8|ERIK |	https://github.com/ErikRMorais/Erik_Morais|
+|9|ESTHER  |	https://github.com/DevEstherTavares/engenhariadesoftware-EstherTavares|
+|10|GABRIEL  |	|
+|11| GUILHERME H  |	https://github.com/Minatodesune/|Guilherme_Henrique_AXO|
+|12| GUILLERMO G |	https://github.com/GuillermoGilioli/Guillermo_gilioli|
+|13|ÍCARO | 	https://github.com/Healzy1/icaro_reis|
+|14|JANAINA |	|
+|15|KAIKY |	https://github.com/KaikyMarcal/kaiky_marcal|
+|16|KENNY |	https://github.com/kennyamabile/kenny_amabile_engsw|
+|17|LUIZ |	|
+|18|MARCOS |	https://github.com/MarcosScalcon/Marcos_Scalcon|
+|19|MATHEUS |	https://github.com/msalmeida1/matheus_almeida|
+|20|NATAN |	https://github.com/NatanBenites62/natan_benites|
+|21|NEILSON |	https://github.com/Neilson-hub/ENGENHARIA-DE-SOFTWARE|
+|22|OTAVIO |	https://github.com/Otaviomm/otavio_maniezzo|
+|23|SANDY |	https://github.com/hikaru3004/SandyHonda|
+|24|VITOR E|	https://github.com/VitorSauzen/vitor_emanuel|
+|25|VITOR L|	https://github.com/vitorlinsbinski/vitor_linsbinski_engsw|
+|26|VITOR R|	https://github.com/Vitor-Rodrigo/Vitor_Rodrigo|
+|27|WESLEY |	https://github.com/Wesleyrbm/Wesley_Mafra|
+|28|WILLEN |	https://github.com/WillenSouza/Willen_Silva|
+|29|WILLIAM | |	
+
+
 ---
 ## 5. Exercício
 
 ### 5.1. Início de documentação:
 
-1	Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
-2	Os clientes devem fazer um cadastro de si e dos animais. 
-3	Os clientes devem informar as condições nas quais os animais chegam. 
-4	Os clientes devem informar o tipo de ração que o animal come. 
-5	O cliente deve informar hábitos do animal. 
-6	Para cada animal é possível que mais de um veterinário o atenda. 
-7	Os animais podem chegar e serem atendidos de acordo com uma agenda do dia. 
-8	Cada animal atendido receberá uma ficha e um prontuário. 
-9	Outros dono podem querer marcar horários de atendimento futuro. 
-10	O atendimento gera uma receita para o animal. 
-11	Quando um cliente chega na clínica veterinária ele é atendido por um atendente. 
-12	O atendente deve verificar se existe agenda disponível com um veterinário. 
-13	O atendente deve colocar o cliente e seu animal na fila de espera, se for o caso. 
-14	O atendente deve levar o cliente e o animal até o veterinário. 
-15	O veterinário deve realizar uma entrevista com o dono do animal. 
-16	O resultado da entrevista deve ir para um formulário. 
-17	O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
-18	Dependendo da situação do animal este receberá uma receita.
-
-
+1.	Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
+2.	Os clientes devem fazer um cadastro de si e dos animais. 
+3.	Os clientes devem informar as condições nas quais os animais chegam. 
+4.	Os clientes devem informar o tipo de ração que o animal come. 
+5.	O cliente deve informar hábitos do animal. 
+6.	Para cada animal é possível que mais de um veterinário o atenda. 
+7.	Os animais podem chegar e serem atendidos de acordo com uma agenda do dia. 
+8.	Cada animal atendido receberá uma ficha e um prontuário. 
+9.	Outros dono podem querer marcar horários de atendimento futuro. 
+10.	O atendimento gera uma receita para o animal. 
+11.	Quando um cliente chega na clínica veterinária ele é atendido por um atendente. 
+12.	O atendente deve verificar se existe agenda disponível com um veterinário. 
+13.	O atendente deve colocar o cliente e seu animal na fila de espera, se for o caso. 
+14.	O atendente deve levar o cliente e o animal até o veterinário. 
+15.	O veterinário deve realizar uma entrevista com o dono do animal. 
+16.	O resultado da entrevista deve ir para um formulário. 
+17.	O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
+18.	Dependendo da situação do animal este receberá uma receita.
 
 
 ---
