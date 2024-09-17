@@ -170,6 +170,7 @@ Avaliação 3: 26/11/2024 <br>
 17.	O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
 18.	Dependendo da situação do animal este receberá uma receita.
 
+Maiores detalhes além do 18, poderão ser adicionados em sala de aula.
 
 ---
 ## 6. Exemplos de documentações
