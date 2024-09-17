@@ -124,7 +124,7 @@ Avaliação 3: 26/11/2024 <br>
 |7|EMANUEL |	https://github.com/emanuelestudant/emanuel_dutra|
 |8|ERIK |	https://github.com/ErikRMorais/Erik_Morais|
 |9|ESTHER  |	https://github.com/DevEstherTavares/engenhariadesoftware-EstherTavares|
-|10|GABRIEL  |	|
+|10|GABRIEL  | https://github.com/Minatodesune/Guilherme_Henrique	|
 |11| GUILHERME H  |	https://github.com/Minatodesune/|Guilherme_Henrique_AXO|
 |12| GUILLERMO G |	https://github.com/GuillermoGilioli/Guillermo_gilioli|
 |13|ÍCARO | 	https://github.com/Healzy1/icaro_reis|
