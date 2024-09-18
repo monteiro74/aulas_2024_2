@@ -46,3 +46,5 @@ VALUES
 ('Programa Delta', 'Projeto Afrodite', 45000.00, 'Marisa Lima', 'ONG ABC', '2025-02-15', NULL, 'Em andamento', 'Baixo', 'Educação'),
 ('Programa Epsilon', 'Projeto Dionísio', 130000.00, 'Roberto Almeida', 'Empresa X', '2025-03-01', NULL, 'Planejado', 'Alto', 'Tecnologia'),
 ('Programa Zeta', 'Projeto Hera', 105000.00, 'Luciana Vieira', 'Governo Y', '2025-04-10', NULL, 'Planejado', 'Médio', 'Infraestrutura');
+
+
