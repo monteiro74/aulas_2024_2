@@ -14,6 +14,7 @@
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
     - [4.2. Trabalhos:](#42-trabalhos)
+    - [4.3. Prompts utilizados](#43-prompts-utilizados)
   - [5. Exercício](#5-exercício)
     - [5.1. Início de documentação:](#51-início-de-documentação)
   - [6. Exemplos de documentações](#6-exemplos-de-documentações)
@@ -90,7 +91,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 2: (27/08/2024)  | 3hs | Introdução à processos de software, Scrum e Kanban. Intro UML. [Processos de software](https://docs.google.com/presentation/d/1fENsBvvN18qy6XWZIhogJmVfRiBqvSS7N3S4rFt1KE0/edit?usp=sharing), [Análise de requisitos](https://docs.google.com/presentation/d/1wmpsdBEC4nBhjqlAkPewDGysJOEHUUKeStdOtP7wXHA/edit?usp=sharing), [Scrum](https://docs.google.com/presentation/d/1Zk4ZFt3drngzzkPmVulPMMyQYFlfki8FZL1q_PyBiXc/edit?usp=sharing), [UML, parte 1](https://docs.google.com/presentation/d/1kVUys4xQk0aIv313wN08Mp95W98QfUyIM2AqODbodKc/edit?usp=sharing). Processo de desenvolvimento ágil. O manifesto ágil (pilares e princípios). Processo AUP, OpenUP e Scrum ( definição, pilares, tipos de reunião, sprint, participantes, documentação, PO, Scrum Master, Devs, Product Backlog, Sprint Backlog, Débito Técnico, Kanban). Análise de requisitos (o que é, formas de levantamento, tipos, etapas, SDL, especificação, exemplos de especificação de requisitos, análise vs especificação, níveis de especificação e modularidade). UML (Introdução, origens, ferramentas, conceitos, principais diagramas, diagrama de classe, diagrama de objeto, diagrama de casos de uso). |
 | Aula 3: (03/09/2024)  | 3hs | Revisão de UML. Projeto exemplo feito em WhiteStarUML --> [Projeto_exemplo_aula3_v2.uml](https://github.com/monteiro74/aulas_2024_2/tree/main/Engenharia_de_software). [UML, parte 2](https://docs.google.com/presentation/d/1IlmRJn7xbA7Q-LHcD-s5flMf7DapgnaWs7tP62daoto/view). [Casos de uso](https://docs.google.com/presentation/d/1qS4eN70HjI977otQmT4h7mcSaEfbN8UaWQkHSdJoAfU/view). [Slides da aula 3](https://docs.google.com/presentation/d/1t9B0harJfDyTdDYwg28qTyiuQ7MF704IHbB2c9Jhg1o/view). UML (continuação: Diagramas de casos de uso, histórias de usuário, diagramas de sequência, diagramas de colaboração, diagramas de transição de estados, diagramas de atividades, diagramas de componentes, diagramas de implantação, diagrama de pacotes, textos). Exemplo de casos de uso para um ATM (caixa eletrônico). Conceitos (artefato, entregáveis, go/no-go, definição de pronto, modelo, sistema, pacotes, namespace, modelagem visual, processo customizado). Exercício, demonstração do Modelio e WhiteStarUML. Criação de página de projeto no github. |
 | Aula 4: (10/09/2024)  | 3hs | Linguagens de programação e seu impacto na arquitetura do projeto, exemplo de implentação OO, exemplo de classe com C Sharp (com seus métodos e atributos), arquitetura de software, modelos de execução de código, desenvolvimento em camadas, IDE x CASE. [Slides da aula 4](https://docs.google.com/presentation/d/1Hwq-dRzDZQUiOit5A7UzBl2DO8G4skLxQ7tC5AwAE2Y/view). |
-| Aula 5: (17/09/2024)  | 3hs | **Avaliação 1**. [Curso fundamental de Scriptcase](https://www.scriptcase.com.br/aprendizagem/cursos/scriptcase-fundamental/) e [Documentação do Scriptcase](https://www.scriptcase.com.br/docs/pt_br/v9/manual/01-introducao/01-visao-geral/). |
+| Aula 5: (17/09/2024)  | 3hs | **Avaliação 1**. [Curso fundamental de Scriptcase](https://www.scriptcase.com.br/aprendizagem/cursos/scriptcase-fundamental/) e [Documentação do Scriptcase](https://www.scriptcase.com.br/docs/pt_br/v9/manual/01-introducao/01-visao-geral/). https://chooser-beta.creativecommons.org/ |
 | Aula 6: (24/09/2024)  | 3hs | Conceitos de processo, modelagem visual, modelagem de processos, processos sob medida. |
 | Aula 7: (01/10/2024)  | 3hs | Arquitetura de software. |
 | Aula 8: (08/10/2024)  | 3hs | Arquitetura, módulos, fluxo, camadas, componente, RAD x IDE. |
@@ -115,23 +116,23 @@ Avaliação 3: 26/11/2024 <br>
 
 |#| Aluno | Repositório |
 | -- | ----- | ----------- |
-|1|ANGEL |	https://github.com/RafaelProfMgz/angel-rafael|
-|2|BRUNO |	https://github.com/BnobDev/BRUNO_BORCARDT|
-|3|CAMILA|	https://github.com/Camila-Weber/camila_weber|
+|1|ANGEL|	https://github.com/RafaelProfMgz/angel-rafael|
+|2|BRUNO|	https://github.com/BnobDev/BRUNO_BORCARDT|
+|3|CAMILA |	https://github.com/Camila-Weber/camila_weber|
 |4|CRISTIANO |	|
 |5|DARY |	https://github.com/DaryGustavo/Dary-Gustavo|
 |6|ELBER |	https://github.com/4Elber/Elber_Alves|
 |7|EMANUEL |	https://github.com/emanuelestudant/emanuel_dutra|
 |8|ERIK |	https://github.com/ErikRMorais/Erik_Morais|
-|9|ESTHER  |	https://github.com/DevEstherTavares/engenhariadesoftware-EstherTavares|
-|10|GABRIEL  | https://github.com/Minatodesune/Guilherme_Henrique	|
-|11| GUILHERME H  |	https://github.com/Minatodesune/|Guilherme_Henrique_AXO|
-|12| GUILLERMO G |	https://github.com/GuillermoGilioli/Guillermo_gilioli|
-|13|ÍCARO | 	https://github.com/Healzy1/icaro_reis|
-|14|JANAINA |	|
+|9|ESTHER |	https://github.com/DevEstherTavares/engenhariadesoftware-EstherTavares|
+|10|GABRIEL |	https://github.com/2wohscj/Gabriel_Cruz|
+|11|GUILHERME |	https://github.com/Minatodesune/Guilherme_Henrique|
+|12|GUILLERMO |	https://github.com/GuillermoGilioli/Guillermo_gilioli|
+|13|ÍCARO |	https://github.com/Healzy1/icaro_reis|
+|14|JANAINA |	https://github.com/janainaviana/janainalima-2024esw|
 |15|KAIKY |	https://github.com/KaikyMarcal/kaiky_marcal|
 |16|KENNY |	https://github.com/kennyamabile/kenny_amabile_engsw|
-|17|LUIZ |	|
+|17|LUIZ |	https://github.com/LuizMottaX/Luiz_Mota|
 |18|MARCOS |	https://github.com/MarcosScalcon/Marcos_Scalcon|
 |19|MATHEUS |	https://github.com/msalmeida1/matheus_almeida|
 |20|NATAN |	https://github.com/NatanBenites62/natan_benites|
@@ -143,8 +144,22 @@ Avaliação 3: 26/11/2024 <br>
 |26|VITOR R|	https://github.com/Vitor-Rodrigo/Vitor_Rodrigo|
 |27|WESLEY |	https://github.com/Wesleyrbm/Wesley_Mafra|
 |28|WILLEN |	https://github.com/WillenSouza/Willen_Silva|
-|29|WILLIAM | |	
+|29|WILLIAM ||
 
+
+### 4.3. Prompts utilizados
+
+Crie um diagrama entidade relacionamento usando Markdown e Mermaid para as regras de negócio a seguir:
+
+Crie um diagrama de classes usando Markdown e Mermaid para as regras de negócio a seguir:
+
+Crie um script SQL para MySQL para gerar as tabelas para as regras de negócio a seguir:
+
+Gere em SQL comandos INSERT com dados fictícios para as tabelas acima:
+
+Gere um diagrama de classes usando
+
+Crie um diagrama entidade relacionamento usando markdown e mermaid para as entidades pessoa e pet, sugira pelo menos 5 campos para cada entidade.
 
 ---
 ## 5. Exercício
