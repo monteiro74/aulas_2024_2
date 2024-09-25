@@ -15,4 +15,3 @@ Observaçao: Seu repositório no github deverá ter a seguinte estrutura:
 1. Exercício com o ProjectLibre.
 2. Exercício com o qdPM.
 3. Link para o repositório do projeto no github
-
