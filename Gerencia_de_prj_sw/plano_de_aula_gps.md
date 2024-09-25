@@ -15,7 +15,7 @@
     - [Aula 3: gráfico de gantt](#aula-3-gráfico-de-gantt)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
-  - [6. Diagrama entidade relacionamento](#6-diagrama-entidade-relacionamento)
+  - [6. Repositório dos alunos](#6-repositório-dos-alunos)
   - [7. Tabela em Latex](#7-tabela-em-latex)
   - [8. Artigos:](#8-artigos)
   - [9. Referências:](#9-referências)
@@ -133,11 +133,29 @@ PF: __/__/2024 <br>
 
 
 ---
-## 6. Diagrama entidade relacionamento
+## 6. Repositório dos alunos
+
+|#| Aluno | Repositório |
+| -- | ----- | ----------- |
+|1|Alex|https://github.com/AlexSilva-SNO/alex_silva	|
+|2|Carlos|	|
+|3|Ewerton |	|
+|4|Felipe|	|
+|5|Gabriel|	|
+|6|Gustavo|	|
+|7|Janaina|	|
+|8|João|	|
+|9|Julio|https://github.com/julionaval/julio_rodrigues2024|
+|10|Larissa|https://github.com/LarissaSmaniotto/Larissa_Smaniotto_2024|
+|11|Leonardi|	|
+|12|Roberto|https://github.com/Robertotheto/RobertodosSantosFilho2024|
+|13|Wilhan|	|
 
 
 ---
 ## 7. Tabela em Latex
+
+Para o próximo exercício...
 
 Exemplo de tabela:
 
