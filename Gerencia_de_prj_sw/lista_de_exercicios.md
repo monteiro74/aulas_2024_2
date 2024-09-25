@@ -8,6 +8,6 @@ Data final: 26/09/2024 até as 19hs.
 2. Configure com a conta de administrador seu qdPM. Captuere as telas "Project Status", "Task Status", "Ticket Status". Na captura de tela deverá constar a url do seu navegador e data e hora do windows (capture a tela completa). Coloque essas 2 telas no seu repositório no github compartilhado com o professor.<br>
 Data final: 26/09/2024 até as 19hs.
 
-3. No github crie um projeto, compartilhe com seu professor. Neste projeto adicione as mesmas tarefas do exercício 2.<br>
+3. No github crie um projeto no seu repositório, compartilhe com seu professor. Neste projeto adicione as mesmas tarefas do exercício 2.<br>
 Data final: 26/09/2024 até as 19hs.
 
