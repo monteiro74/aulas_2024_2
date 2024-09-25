@@ -11,7 +11,7 @@ Data final: 26/09/2024 até as 19hs.
 3. No github crie um projeto no seu repositório, compartilhe com seu professor. Neste projeto adicione as mesmas tarefas do exercício 2.<br>
 Data final: 26/09/2024 até as 19hs.
 
-Seu repositório no github deverá ter a seguinte estrutura:
+Observaçao: Seu repositório no github deverá ter a seguinte estrutura:
 1. Exercício com o ProjectLibre.
 2. Exercício com o qdPM.
 3. Link para o repositório do projeto no github
