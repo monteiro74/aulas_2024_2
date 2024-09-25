@@ -17,6 +17,8 @@
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
   - [6. Repositório dos alunos](#6-repositório-dos-alunos)
   - [7. Tabela em Latex](#7-tabela-em-latex)
+  - [7.1. Projetos dos alunos no latex](#71-projetos-dos-alunos-no-latex)
+  - [6. Repositório dos alunos](#6-repositório-dos-alunos-1)
   - [8. Artigos:](#8-artigos)
   - [9. Referências:](#9-referências)
   - [10. Demais Disciplinas:](#10-demais-disciplinas)
@@ -135,21 +137,21 @@ PF: __/__/2024 <br>
 ---
 ## 6. Repositório dos alunos
 
-|#| Aluno | Repositório |
-| -- | ----- | ----------- |
-|1|Alex|https://github.com/AlexSilva-SNO/alex_silva	|
-|2|Carlos|	|
-|3|Ewerton |	|
-|4|Felipe|	|
-|5|Gabriel|	|
-|6|Gustavo|	|
-|7|Janaina|	|
-|8|João|	|
-|9|Julio|https://github.com/julionaval/julio_rodrigues2024|
-|10|Larissa|https://github.com/LarissaSmaniotto/Larissa_Smaniotto_2024|
-|11|Leonardi|	|
-|12|Roberto|https://github.com/Robertotheto/RobertodosSantosFilho2024|
-|13|Wilhan|	|
+|#| Aluno | Repositório | Projetos no git |
+| -- | ----- | ----------- |--- |
+|1|Alex|https://github.com/AlexSilva-SNO/alex_silva	| |
+|2|Carlos|	| |
+|3|Ewerton |	| |
+|4|Felipe|	| |
+|5|Gabriel|	| |
+|6|Gustavo|	| |
+|7|Janaina|https://github.com/janainaviana/janainalima-2024gps	| |
+|8|João|	| |
+|9|Julio|https://github.com/julionaval/julio_rodrigues2024| |
+|10|Larissa|https://github.com/LarissaSmaniotto/Larissa_Smaniotto_2024| |
+|11|Leonardi|	| |
+|12|Roberto|https://github.com/Robertotheto/RobertodosSantosFilho2024| |
+|13|Wilhan|	| |
 
 
 ---
@@ -173,6 +175,26 @@ Hospedagem web                   & 12                  & 1000                   
 \textbf{Total}                   & \textbf{}           & \textbf{}               & \textbf{57400} \\ \hline
 \end{tabular}
 \end{table}
+
+## 7.1. Projetos dos alunos no latex
+
+## 6. Repositório dos alunos
+
+|#| Aluno | url no overleaf |
+| -- | ----- | ----------- |
+|1|Alex| |
+|2|Carlos|	 |
+|3|Ewerton |	 |
+|4|Felipe|	 |
+|5|Gabriel|	 |
+|6|Gustavo|	 |
+|7|Janaina|	 |
+|8|João|	 |
+|9|Julio|  |
+|10|Larissa| |
+|11|Leonardi|	 |
+|12|Roberto| |
+|13|Wilhan|	 |
 
 
 ---
