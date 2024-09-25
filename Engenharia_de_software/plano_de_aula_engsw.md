@@ -15,6 +15,7 @@
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
     - [4.2. Trabalhos:](#42-trabalhos)
     - [4.3. Prompts utilizados](#43-prompts-utilizados)
+    - [4.4. Desenvolvimento da licença](#44-desenvolvimento-da-licença)
   - [5. Exercício](#5-exercício)
     - [5.1. Início de documentação:](#51-início-de-documentação)
   - [6. Exemplos de documentações](#6-exemplos-de-documentações)
@@ -147,24 +148,40 @@ Avaliação 3: 26/11/2024 <br>
 |29|WILLIAM ||
 
 
+
 ### 4.3. Prompts utilizados
 
-Crie um diagrama entidade relacionamento usando Markdown e Mermaid para as regras de negócio a seguir:
+| | Etapa do processo | Prompts |
+|-|-------|--------|
+|1|Diagrama ER| Crie um diagrama entidade relacionamento usando **Markdown** e **Mermaid** para as regras de negócio a seguir:|
+|2|Diagrama de classe| Crie um diagrama de classes usando **Markdown** e **Mermaid** para as regras de negócio a seguir:|
+|3|Desenv. BD |Crie um script SQL com comandos **CREATE** para MySQL para gerar as tabelas para as regras de negócio a seguir:|
+|4|Popular Banco|Crei um scrip SQL para MySQL usando comandos **INSERT** com dados fictícios para as tabelas acima:|
+|5| Diagrama do caso de uso| Leia novamente a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça diagrama de “casos de uso” para a descrição acima usando **PlantUML** e markdown. |
+|6| Histórias de usuário | Leia a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça em markdown as **“histórias de usuário”** para as regras de negócio acima:|
 
-Crie um diagrama de classes usando Markdown e Mermaid para as regras de negócio a seguir:
+Diagrama de casos de uso: Use https://app.diagrams.net/ para gerar o diagrama.
 
-Crie um script SQL para MySQL para gerar as tabelas para as regras de negócio a seguir:
 
-Gere em SQL comandos INSERT com dados fictícios para as tabelas acima:
 
-Gere um diagrama de classes usando
 
-Crie um diagrama entidade relacionamento usando markdown e mermaid para as entidades pessoa e pet, sugira pelo menos 5 campos para cada entidade.
+### 4.4. Desenvolvimento da licença
+
+Passo a passo para desenvolver a licença para o repositório:
+https://chooser-beta.creativecommons.org/
+
+Código para inserir as imagens da licença: 
+
+```html
+<img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" height="20px"  width="20px"/> 
+```
 
 ---
 ## 5. Exercício
 
 ### 5.1. Início de documentação:
+
+Parte inicial do exercício.
 
 1.	Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
 2.	Os clientes devem fazer um cadastro de si e dos animais. 
@@ -185,7 +202,7 @@ Crie um diagrama entidade relacionamento usando markdown e mermaid para as entid
 17.	O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
 18.	Dependendo da situação do animal este receberá uma receita.
 
-Maiores detalhes além do 18, poderão ser adicionados em sala de aula.
+Maiores detalhes além do 18, serão adicionados em sala de aula.
 
 ---
 ## 6. Exemplos de documentações
