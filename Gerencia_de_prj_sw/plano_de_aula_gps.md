@@ -141,7 +141,7 @@ PF: __/__/2024 <br>
 | -- | ----- | ----------- |--- |
 |1|Alex|https://github.com/AlexSilva-SNO/alex_silva	| |
 |2|Carlos|	| |
-|3|Ewerton |	| |
+|3|Ewerton | https://github.com/EwertonOlegario/Ewerton_olegario	| |
 |4|Felipe|	| |
 |5|Gabriel|	| |
 |6|Gustavo|	| |
