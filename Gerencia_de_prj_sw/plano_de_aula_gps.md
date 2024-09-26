@@ -140,7 +140,7 @@ PF: __/__/2024 <br>
 |#| Aluno | Repositório | Projetos no git |
 | -- | ----- | ----------- |--- |
 |1|Alex|https://github.com/AlexSilva-SNO/alex_silva	| https://github.com/users/AlexSilva-SNO/projects/2 |
-|2|Carlos|	| |
+|2|Carlos| https://github.com/carloseduardocs/gps-aula4	| |
 |3|Ewerton | https://github.com/EwertonOlegario/Ewerton_olegario	| |
 |4|Felipe|	| |
 |5|Gabriel|	| |
