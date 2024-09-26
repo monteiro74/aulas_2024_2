@@ -137,7 +137,7 @@ PF: __/__/2024 <br>
 ---
 ## 6. Repositório dos alunos
 
-|#| Aluno | Repositório | Projetos no git |
+|#| Aluno | Repositório no git | Projetos no git |
 | -- | ----- | ----------- |--- |
 |1|Alex|https://github.com/AlexSilva-SNO/alex_silva	| https://github.com/users/AlexSilva-SNO/projects/2 |
 |2|Carlos| https://github.com/carloseduardocs/gps-aula4	| |
