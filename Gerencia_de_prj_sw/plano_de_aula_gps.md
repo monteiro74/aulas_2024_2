@@ -143,7 +143,7 @@ PF: __/__/2024 <br>
 |2|Carlos| https://github.com/carloseduardocs/gps-aula4	| |
 |3|Ewerton | https://github.com/EwertonOlegario/Ewerton_olegario	| |
 |4|Felipe| https://github.com/Smoyin/Aula	| |
-|5|Gabriel|	| |
+|5|Gabriel|	https://github.com/GabrielG5687/gabriel_guedes2024| |
 |6|Gustavo|	| |
 |7|Janaina|https://github.com/janainaviana/janainalima-2024gps	| |
 |8|João|	| |
