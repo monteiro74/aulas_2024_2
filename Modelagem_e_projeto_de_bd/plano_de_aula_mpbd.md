@@ -23,6 +23,7 @@
   - [10. Grupos no telegram](#10-grupos-no-telegram)
   - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
   - [12. Cursos **grátis** sobre SQL Server e MySQL:](#12-cursos-grátis-sobre-sql-server-e-mysql)
+    - [12.1. Cursos sobre BI com Scriptcase](#121-cursos-sobre-bi-com-scriptcase)
   - [13. Como estudar](#13-como-estudar)
   - [14. Videos recomendados](#14-videos-recomendados)
 
@@ -216,6 +217,18 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
 
+
+### 12.1. Cursos sobre BI com Scriptcase
+
+Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
+Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
+Scriptcase - Relatórios BI no Scriptcase (Quebras) 3/9 https://www.youtube.com/watch?v=MdMeDGmvynk
+Scriptcase - Relatórios BI no Scriptcase (Salvar) 4/9 https://www.youtube.com/watch?v=c7nxwbyBwUc
+Scriptcase - Relatórios BI no Scriptcase (Filtro Avançado) 5/9 https://www.youtube.com/watch?v=f6KrkRU8ZoU
+Scriptcase - Relatórios BI no Scriptcase (Filtro Dinâmico) 6/9 https://www.youtube.com/watch?v=hSlvp6sp7H4
+Scriptcase - Relatórios BI no Scriptcase (Quicksearch) 7/9 https://www.youtube.com/watch?v=suf8G-P2rdI
+Scriptcase - Relatórios BI no Scriptcase (Filtro Refinado) 8/9 https://www.youtube.com/watch?v=XIyrWXJx6OA
+Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/watch?v=pB4-jBZe0pQ
 
 ---
 ## 13. Como estudar
