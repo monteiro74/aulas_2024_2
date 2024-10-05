@@ -92,7 +92,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 3:  (05/09/2024) | 3hs | Processamento e controle de transação, concorrência e bloqueio. [Conhecendo o SSMS](https://docs.google.com/presentation/d/1L_Fj98tfWqReC1xURQuWw3nlBcfK19bh2LXnWNQfNRM/view). [1. Introdução ao SQL Server 2022](https://docs.google.com/presentation/d/1P6ppIygreazusOGWpQ_-h1o7YoHtnhN_-756Cy2BBBk/view). [2. Instalação do SQL Server 2022](https://docs.google.com/presentation/d/17KCzWb3G83q7d_DJwNtNUq2vqpRTDJox2mGfiGJvtks/view). [3. Conhecendo o SSMS](https://docs.google.com/presentation/d/1cuVo7PI-6umdJ5441WNQW20tq4F5V5BESqDYUeXvoEQ/view). [4. Detalhes do SQL Server 2022](https://docs.google.com/presentation/d/1oivXosm29Zbhsz1x1YyYCdlkfeGCv9M46wMluAaYvsc/view). [Slides da aula 3](https://docs.google.com/presentation/d/1bAfd0EDZp36wP0swJBdX-Vy5iazWX0ByokfbKF5Vb7U/view). |
 | Aula 4:  (12/09/2024) | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server. [Slides da aula 4](https://docs.google.com/presentation/d/18sMesskA6iNWvsIr1ERVT0Zf8Ez7qtaT0OjfGZ7FERU/view). [Criação de tabelas e diagramas no SQL Server](https://docs.google.com/presentation/d/1JrVCFAv8w-5Z4pLGup8j9V-FnxAkZ_iN4V8T0ySn0cY/view). [Joins no SQL Server](https://docs.google.com/presentation/d/14ue962Z_hZ2gPGYI4Us_6EiNIO9IqxxDUbWLuyLVQGk/view). |
 | Aula 5:  (19/09/2024) | 3hs | **Avaliação 1**. [Curso fundamental de Scriptcase](https://www.scriptcase.com.br/aprendizagem/cursos/scriptcase-fundamental/) e [Documentação do Scriptcase](https://www.scriptcase.com.br/docs/pt_br/v9/manual/01-introducao/01-visao-geral/). Normalização. Revisão de modelo ER. [Revisão do modelo ER](https://docs.google.com/presentation/d/17K8NdyaPQ5dbfs6SIgXcpZqQ15RdwQ878Ffk9x8yzPY/view). [Normalização](https://docs.google.com/presentation/d/1BbcOQlAauzdR-IMhV36rgnpQ3BgwmlF2esw6ilTW_I8/view). [SQL Joins](https://docs.google.com/presentation/d/1Q6VFZBCSoQzSWHvtXJWxB38tOTapStQofd_pzhKKHHQ/view). |
-| Aula 6:  (26/09/2024) | 3hs | [Objetos do banco](https://docs.google.com/presentation/d/1ofGN6GFSgc3MhUeV4QIL2r9JO4Cqg2KLfO8M7p_itQU/view). [Conexão ODBC](https://docs.google.com/presentation/d/1Q6UIuwqPuZYrjNP76ch5kYmu-ygLfMGZsFnoIGXaViM/view). Conexão do Excel com SQL Server. Conectando [LibreOffice via ODBC: ctrl + shift + F4](https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/libreoffice_odbc.PNG). [Conceitos de ODBC](https://learn.microsoft.com/pt-br/sql/odbc/microsoft-open-database-connectivity-odbc?view=sql-server-ver16). [Detalhes ODBC](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/odbc.jpg). |
+| Aula 6:  (26/09/2024) | 3hs | [Objetos do banco](https://docs.google.com/presentation/d/1ofGN6GFSgc3MhUeV4QIL2r9JO4Cqg2KLfO8M7p_itQU/view). [Conexão ODBC](https://docs.google.com/presentation/d/1Q6UIuwqPuZYrjNP76ch5kYmu-ygLfMGZsFnoIGXaViM/view). Conexão do Excel com SQL Server. Conectando [LibreOffice via ODBC: ctrl + shift + F4](https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/libreoffice_odbc.PNG). [Conceitos de ODBC](https://learn.microsoft.com/pt-br/sql/odbc/microsoft-open-database-connectivity-odbc?view=sql-server-ver16). [Detalhes ODBC](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/odbc.jpg). [Exercício PowerBI](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/powerbi.png). [Tutorial de Power BI](https://learn.microsoft.com/pt-br/power-bi/fundamentals/desktop-getting-started). |
 | Aula 7:  (03/10/2024) | 3hs | Revisão de instalação de SQL Server e outros bancos. Serviço x Instância de banco. |
 | Aula 8:  (10/10/2024) | 3hs | SQL Joins, exercícios com SQL. |
 | Aula 9:  (17/10/2024) | 3hs | SQL Joins, exercícios com SQL, Bancos relacionais x não relacionais. |
@@ -198,6 +198,7 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 ---
 ## 12. Cursos **grátis** sobre SQL Server e MySQL:
+
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
 * [Série DBA SQL Server - Preparação, instalação e configuração](https://www.udemy.com/course/sqlserver-instalacao-e-configuracao/)
@@ -212,6 +213,9 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 * [Como conectar com o SQL Server (Lesson 1: Connecting to the Database Engine)](https://learn.microsoft.com/en-us/sql/relational-databases/lesson-1-connecting-to-the-database-engine?view=sql-server-ver16)
 
 * [Conectando e realizando consultas no SQL Server(Quickstart: Connect and query a SQL Server instance using SQL Server Management Studio (SSMS))](https://learn.microsoft.com/en-us/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver16)
+
+* [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
+
 
 ---
 ## 13. Como estudar
