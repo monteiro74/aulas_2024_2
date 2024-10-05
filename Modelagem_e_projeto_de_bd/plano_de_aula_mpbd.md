@@ -208,6 +208,11 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 * [Introdução a Bancos de Dados e Linguagem SQL](https://www.udemy.com/course/introducao-a-bancos-de-dados-e-linguagem-sql/)
 
+
+* [Como conectar com o SQL Server (Lesson 1: Connecting to the Database Engine)](https://learn.microsoft.com/en-us/sql/relational-databases/lesson-1-connecting-to-the-database-engine?view=sql-server-ver16)
+
+* [Conectando e realizando consultas no SQL Server(Quickstart: Connect and query a SQL Server instance using SQL Server Management Studio (SSMS))](https://learn.microsoft.com/en-us/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver16)
+
 ---
 ## 13. Como estudar
 
