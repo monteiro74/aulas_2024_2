@@ -95,7 +95,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 5:  (18/09/2024) | 3hs | **Avaliação 1**. [Curso fundamental de Scriptcase](https://www.scriptcase.com.br/aprendizagem/cursos/scriptcase-fundamental/) e [Documentação do Scriptcase](https://www.scriptcase.com.br/docs/pt_br/v9/manual/01-introducao/01-visao-geral/). Desenvolvimento de projeto em ferramenta IDE RAD (projeto, menu, grids, formulários, gráficos). |
 | Aula 6:  (25/09/2024) | 3hs | [Resolução de exercícios](https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_prj_sw/lista_de_exercicios.md) (elaborar projeto no projectlibre, configurar o o qdPM, criar e compartilhar projeto via github). Desenvolvimento de projeto em ferramenta IDE RAD (continuação). |
 | Aula 7:  (02/10/2024) | 3hs | Estrutura de projeto. Desenvolvimento do projeto no overleaf. |
-| Aula 8:  (09/10/2024) | 3hs | Estrutura do projeto, FPA, SWOT, Project Canvas. Controle de versão, testes, qualidade, exercícios. |
+| Aula 8:  (09/10/2024) | 3hs | Revisão da Estrutura do projeto, FPA, SWOT, Project Canvas. Controle de versão, testes, qualidade, exercícios. |
 | Aula 9:  (16/10/2024) | 3hs | Métodos ágeis. |
 | Aula 10: (23/10/2024) | 3hs | **Avaliação 2**. |
 | Aula 11: (30/10/2024) | 3hs | Funções do gerente de projeto, IDE x RAD, descrição do projeto exercício. |
