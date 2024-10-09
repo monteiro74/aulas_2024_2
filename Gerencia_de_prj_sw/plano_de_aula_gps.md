@@ -17,8 +17,7 @@
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
   - [6. Repositório dos alunos](#6-repositório-dos-alunos)
   - [7. Exercício documento de projeto de software em Latex](#7-exercício-documento-de-projeto-de-software-em-latex)
-  - [7.1. Projetos dos alunos no latex](#71-projetos-dos-alunos-no-latex)
-  - [6. Repositório dos alunos](#6-repositório-dos-alunos-1)
+    - [7.1. Diferença entre projeto técnica e projeto executivo (gerência):](#71-diferença-entre-projeto-técnica-e-projeto-executivo-gerência)
   - [8. Artigos:](#8-artigos)
   - [9. Referências:](#9-referências)
   - [10. Demais Disciplinas:](#10-demais-disciplinas)
@@ -174,6 +173,23 @@ PF: __/__/2024 <br>
 |12|Roberto | Aguardando overleaf liberar o compartilhamento | 
 |13|Wilhan  |	|
 
+### 7.1. Diferença entre projeto técnica e projeto executivo (gerência):
+
+| Aspecto                        | Projeto para Área Técnica                              | Projeto para Gerência                                    |
+|---------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| **Foco Principal**              | Tecnologias, arquitetura, desempenho e implementação.  | Metas de negócios, ROI, prazos e resultados estratégicos. |
+| **Linguagem Utilizada**         | Técnica, com termos como APIs, microservices, DevOps.  | Simples, com foco em benefícios, riscos e investimentos.  |
+| **Detalhamento Técnico**        | Alta, incluindo diagramas de arquitetura, fluxos, etc. | Baixa, focada em alto nível e visão estratégica.          |
+| **Preocupações Primárias**      | Escalabilidade, segurança, integridade do sistema.     | Custo-benefício, retorno sobre investimento (ROI).        |
+| **Metodologia de Desenvolvimento** | Discussão detalhada de metodologias (Scrum, Agile, etc.). | Enfoque em cronograma e entrega dentro do prazo.          |
+| **Papeis e Responsabilidades**  | Foco nos papéis da equipe técnica (desenvolvedores, QA).| Foco nos papéis gerenciais (gerentes de projeto, stakeholders). |
+| **Recursos Necessários**        | Servidores, linguagens de programação, frameworks, etc.| Orçamento, equipe alocada, custos de operação.           |
+| **Riscos e Mitigações**         | Problemas técnicos como falhas de integração, bugs.    | Impactos financeiros e atrasos no cronograma.             |
+| **Critério de Sucesso**         | Estabilidade, funcionalidade, usabilidade técnica.     | Atingir os objetivos estratégicos e de negócios.          |
+| **Relatórios de Progresso**     | Relatórios técnicos detalhados sobre o progresso.      | Relatórios simplificados com foco em status de entregas.  |
+| **Testes e Qualidade**          | Planos de teste detalhados (unitários, integração, etc.).| Foco em aceitação do cliente e testes de usabilidade.     |
+| **Implantação**                 | Detalhamento sobre automação, pipelines de CI/CD.      | Enfoque em cronograma de go-live e impacto no negócio.    |
+
 
 Exemplo de tabela:
 
@@ -192,25 +208,7 @@ Hospedagem web                   & 12                  & 1000                   
 \end{tabular}
 \end{table}
 
-## 7.1. Projetos dos alunos no latex
 
-## 6. Repositório dos alunos
-
-|#| Aluno | url no overleaf |
-| -- | ----- | ----------- |
-|1|Alex| |
-|2|Carlos|	 |
-|3|Ewerton |	 |
-|4|Felipe|	 |
-|5|Gabriel|	 |
-|6|Gustavo|	 |
-|7|Janaina|	 |
-|8|João|	 |
-|9|Julio|  |
-|10|Larissa| |
-|11|Leonardi|	 |
-|12|Roberto| |
-|13|Wilhan|	 |
 
 
 ---
