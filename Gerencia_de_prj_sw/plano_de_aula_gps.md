@@ -16,7 +16,7 @@
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
   - [6. Repositório dos alunos](#6-repositório-dos-alunos)
-  - [7. Tabela em Latex](#7-tabela-em-latex)
+  - [7. Exercício documento de projeto de software em Latex](#7-exercício-documento-de-projeto-de-software-em-latex)
   - [7.1. Projetos dos alunos no latex](#71-projetos-dos-alunos-no-latex)
   - [6. Repositório dos alunos](#6-repositório-dos-alunos-1)
   - [8. Artigos:](#8-artigos)
@@ -155,9 +155,25 @@ PF: __/__/2024 <br>
 
 
 ---
-## 7. Tabela em Latex
+## 7. Exercício documento de projeto de software em Latex
 
-Para o próximo exercício...
+
+|#| Aluno | Projeto no Overleaf |
+| -- | ----- | ----------- |
+|1|Alex     |	|
+|2|Carlos   | |
+|3|Ewerton  | |
+|4|Felipe   | |
+|5|Gabriel  |	|
+|6|Gustavo  |	|
+|7|Janaina  | |
+|8|João     |	|
+|9|Julio    | |
+|10|Larissa | |
+|11|Leonardi|	| 
+|12|Roberto | | 
+|13|Wilhan  |	|
+
 
 Exemplo de tabela:
 
