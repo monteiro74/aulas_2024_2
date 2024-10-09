@@ -141,14 +141,14 @@ PF: __/__/2024 <br>
 | -- | ----- | ----------- |--- |
 |1|Alex|https://github.com/AlexSilva-SNO/alex_silva	| https://github.com/users/AlexSilva-SNO/projects/2 |
 |2|Carlos| https://github.com/carloseduardocs/gps-aula4	| |
-|3|Ewerton | https://github.com/EwertonOlegario/Ewerton_olegario	| |
-|4|Felipe| https://github.com/Smoyin/Aula	| |
+|3|Ewerton | https://github.com/EwertonOlegario/Ewerton_olegario	| https://github.com/users/EwertonOlegario/projects/1/views/1?layout=table |
+|4|Felipe| https://github.com/Smoyin/Aula	| https://github.com/users/Smoyin/projects/1/views/1 |
 |5|Gabriel|	https://github.com/GabrielG5687/gabriel_guedes2024| |
 |6|Gustavo|	| |
-|7|Janaina|https://github.com/janainaviana/janainalima-2024gps	| |
+|7|Janaina|https://github.com/janainaviana/janainalima-2024gps	| https://github.com/users/janainaviana/projects/4 |
 |8|João|	| |
-|9|Julio|https://github.com/julionaval/julio_rodrigues2024 e https://github.com/julionaval/Julio_Rodrigues| |
-|10|Larissa|https://github.com/LarissaSmaniotto/Larissa_Smaniotto_2024| |
+|9|Julio|https://github.com/julionaval/julio_rodrigues2024 e https://github.com/julionaval/Julio_Rodrigues| https://github.com/users/julionaval/projects/2/views/1 |
+|10|Larissa|https://github.com/LarissaSmaniotto/Larissa_Smaniotto_2024|  https://github.com/users/LarissaSmaniotto/projects/1|
 |11|Leonardi|	| |
 |12|Roberto|https://github.com/Robertotheto/RobertodosSantosFilho2024| https://github.com/users/Robertotheto/projects/1 |
 |13|Wilhan|	| |
