@@ -16,8 +16,7 @@
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
   - [6. Repositório dos alunos](#6-repositório-dos-alunos)
-  - [7. Exercício documento de projeto de software em Latex](#7-exercício-documento-de-projeto-de-software-em-latex)
-    - [7.1. Diferença entre projeto técnica e projeto executivo (gerência):](#71-diferença-entre-projeto-técnica-e-projeto-executivo-gerência)
+    - [7. Diferença entre projeto técnica e projeto executivo (gerência):](#7-diferença-entre-projeto-técnica-e-projeto-executivo-gerência)
   - [8. Artigos:](#8-artigos)
   - [9. Referências:](#9-referências)
   - [10. Demais Disciplinas:](#10-demais-disciplinas)
@@ -153,27 +152,7 @@ PF: __/__/2024 <br>
 |13|Wilhan|	| |
 
 
----
-## 7. Exercício documento de projeto de software em Latex
-
-
-|#| Aluno | Projeto no Overleaf |
-| -- | ----- | ----------- |
-|1|Alex     | https://www.overleaf.com/read/kqdmnkqsxjfs#f662ad	|
-|2|Carlos   | https://www.overleaf.com/read/ftdcwjrhhvyh#098b2a |
-|3|Ewerton  | https://www.overleaf.com/read/zypqxmcrdfcg#88442e |
-|4|Felipe   | |
-|5|Gabriel  |	https://www.overleaf.com/read/mbvthmcdftxm#3f4f27|
-|6|Gustavo  | https://www.overleaf.com/read/rzhqwqcvvgcp#decaa8	|
-|7|Janaina  | https://www.overleaf.com/read/wyyjkrbhqgnx#4c2d35 |
-|8|João     |	|
-|9|Julio    | https://www.overleaf.com/read/fypqpbmgqmnt#257588|
-|10|Larissa | https://www.overleaf.com/read/wnrqtrnyqvvm#602c51|
-|11|Leonardi| Aguardando overleaf	liberar o compartilhamento | 
-|12|Roberto | Aguardando overleaf liberar o compartilhamento | 
-|13|Wilhan  |	|
-
-### 7.1. Diferença entre projeto técnica e projeto executivo (gerência):
+### 7. Diferença entre projeto técnica e projeto executivo (gerência):
 
 | Aspecto                        | Projeto para Área Técnica                              | Projeto para Gerência                                    |
 |---------------------------------|--------------------------------------------------------|----------------------------------------------------------|
