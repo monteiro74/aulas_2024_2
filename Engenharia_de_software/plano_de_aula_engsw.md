@@ -95,14 +95,15 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 5: (17/09/2024)  | 3hs | **Avaliação 1**. [Curso fundamental de Scriptcase](https://www.scriptcase.com.br/aprendizagem/cursos/scriptcase-fundamental/) e [Documentação do Scriptcase](https://www.scriptcase.com.br/docs/pt_br/v9/manual/01-introducao/01-visao-geral/). https://chooser-beta.creativecommons.org/ Elaboração do diagrama ER e diagrama de classes, comandos CREATE e INSERT elaborados com IA.|
 | Aula 6: (24/09/2024)  | 3hs | Revisão do repositórios e suas etapas, desenvolvimento do diagrama de casos de uso e histórias de usuário. Desenvolvimento de projeto (pet shop) com ferramenta [IDE RAD](https://www.scriptcase.com.br/) (telas, gráficos, menu). [Curso fundamental de Scriptcase](https://www.scriptcase.com.br/aprendizagem/cursos/scriptcase-fundamental/) e [Documentação do Scriptcase](https://www.scriptcase.com.br/docs/pt_br/v9/manual/01-introducao/01-visao-geral/). |
 | Aula 7: (01/10/2024)  | 3hs | Finalização de projeto com ferramenta [IDE RAD](https://www.scriptcase.com.br/) (comentários sobre relatórios, consulta, form blank, dashboard, módulo de segurança, deploy no apache (laragon)). [Publicação de aplicação](https://www.youtube.com/watch?v=Oa0Lk6RvRoc). [+info sobre publicação](https://www.youtube.com/watch?v=SqbfN11HrCE). |
-| Aula 8: (08/10/2024)  | 3hs | Arquitetura, módulos, fluxo, camadas, componente, RAD x IDE. |
-| Aula 9: (15/10/2024)  | 3hs | Instalação do banco de dados para o projeto em lab. Diagrama ER. Outros diagramas.|
-| Aula 10: (22/10/2024) | 3hs | **Avaliação 2**. |
-| Aula 11: (29/10/2024) | 3hs | Projeto com ferramenta IDE RAD. |
-| Aula 12: (05/11/2024) | 3hs | Projeto com ferramenta IDE RAD. |
-| Aula 13: (12/11/2024) | 3hs | Finalização de projeto com ferramenta IDE RAD. |
-| Aula 14: (19/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
-| Aula 15: (26/11/2024) | 3hs | **Avaliação 3**. Entrega de notas. Revisão para PF. |
+| Aula : (08/10/2024)  | 3hs | Luto oficial. PORTARIA Nº 2132 / 2024 - REITORIA (11.01) (Nº do Protocolo: 23065.009256/2024-17) em Cáceres-MT, 07 de outubro de 2024. |
+| Aula 8: (15/10/2024)  | 3hs | Instalação do banco de dados para o projeto em lab. Diagrama ER. Outros diagramas.|
+| Aula 9: (22/10/2024) | 3hs | **Avaliação 2**. |
+| Aula 10: (29/10/2024) | 3hs | Projeto com ferramenta IDE RAD. |
+| Aula 11: (05/11/2024) | 3hs | Projeto com ferramenta IDE RAD. |
+| Aula 12: (12/11/2024) | 3hs | Finalização de projeto com ferramenta IDE RAD. |
+| Aula 13: (19/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
+| Aula 14: (26/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
+| Aula 15: (27/11/2024) | 3hs | **Avaliação 3**. Entrega de notas. Revisão para PF. |
 
 ---
 ### 4.1. Unidade de avaliação:
