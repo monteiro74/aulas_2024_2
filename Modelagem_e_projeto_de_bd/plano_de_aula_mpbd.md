@@ -101,15 +101,16 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 10: (31/10/2024) | 3hs | **Avaliação 2**. |
 | Aula 11: (07/11/2024) | 3hs | Blockchain + Projeto exercício. |
 | Aula 12: (14/11/2024) | 3hs | Projeto com ferramenta IDE RAD |
-| Aula 13: (21/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
-| Aula 14: (28/11/2024) | 3hs | **Avaliação 3**. Entrega de provas e notas. Revisão para PF |
+| Aula 13: (21/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, (continuação) |
+| Aula 14: (28/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
+| Aula 15: (29/11/2024) | 3hs | **Avaliação 3**. Entrega de provas e notas. Revisão para PF |
 
 ---
 ### 4.1. Unidade de avaliação:
 
 Avaliação 1: 19/09/2024 <br>
 Avaliação 2: 31/10/2024 <br>
-Avaliação 3: 28/11/2024 <br>
+Avaliação 3: 29/11/2024 <br>
 PF: __/__/2024 <br>
 
 ---
