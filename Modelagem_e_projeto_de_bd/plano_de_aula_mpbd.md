@@ -96,19 +96,19 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 6:  (26/09/2024) | 3hs | [Objetos do banco](https://docs.google.com/presentation/d/1ofGN6GFSgc3MhUeV4QIL2r9JO4Cqg2KLfO8M7p_itQU/view). [Conexão ODBC](https://docs.google.com/presentation/d/1Q6UIuwqPuZYrjNP76ch5kYmu-ygLfMGZsFnoIGXaViM/view). Conexão do Excel com SQL Server. Conectando [LibreOffice via ODBC: ctrl + shift + F4](https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/libreoffice_odbc.PNG). [Conceitos de ODBC](https://learn.microsoft.com/pt-br/sql/odbc/microsoft-open-database-connectivity-odbc?view=sql-server-ver16). [Detalhes ODBC](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/odbc.jpg).  |
 | Aula 7:  (03/10/2024) | 3hs | Criação de conta de usuário. [Importação dados (uma tabela do Excel) e flat file (texto puro em csv)](https://docs.google.com/presentation/d/1HYvwb4DCL3m4N28s3P1Wjy70PSDbMgFZIw2hbeqOtzI/view). [Resultado do exercício PowerBI](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/powerbi.png). [Arquivo do exercício com PowerBI](https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/exercicio2_powerbi.pbix). [Tutorial de Power BI](https://learn.microsoft.com/pt-br/power-bi/fundamentals/desktop-getting-started). [Tutorial de importação de flat file](https://learn.microsoft.com/pt-br/sql/relational-databases/import-export/import-flat-file-wizard?view=sql-server-ver16). [Importação de planilha Excel](https://learn.microsoft.com/pt-br/sql/relational-databases/import-export/import-data-from-excel-to-sql?view=sql-server-ver16). |
 | Aula 8:  (10/10/2024) | 3hs | Dataware house, BI, modelo estrela e floco de neve, [slides de aula](https://docs.google.com/presentation/d/1uDookqaaIdjplHHCyMaL97Jj6yMtsDl86A5s1poFuRY/view). [Orange Data Mining](https://orangedatamining.com/download/).  [Backup e Restore no SQL Server](https://learn.microsoft.com/pt-br/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16&tabs=ssms). [Tabela dinânica (pivot table)](https://support.microsoft.com/pt-br/office/criar-uma-tabela-din%C3%A2mica-para-analisar-dados-da-planilha-a9a84538-bfe9-40a9-a8e9-f99134456576).|
-| Aula 9:  (17/10/2024) | 3hs | Introdução aos bancos NoSQL: [CouchDB](https://couchdb.apache.org/) e [MongoDB](https://www.mongodb.com/products/self-managed/community-edition) |
-| Aula 10: (24/10/2024) | 3hs | **Avaliação 2**. |
-| Aula 11: (31/10/2024) | 3hs | Bancos NoSQL + Exercícios. |
-| Aula 12: (07/11/2024) | 3hs | Blockchain + Projeto exercício. |
-| Aula 13: (14/11/2024) | 3hs | Projeto com ferramenta IDE RAD |
-| Aula 14: (21/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
-| Aula 15: (28/11/2024) | 3hs | **Avaliação 3**. Entrega de provas e notas. Revisão para PF |
+| Aula :  (17/10/2024) | 3hs | Falta de luz no campus. |
+| Aula 9: (24/10/2024) | 3hs | Introdução aos bancos NoSQL: [CouchDB](https://couchdb.apache.org/) e [MongoDB](https://www.mongodb.com/products/self-managed/community-edition). |
+| Aula 10: (31/10/2024) | 3hs | **Avaliação 2**. |
+| Aula 11: (07/11/2024) | 3hs | Blockchain + Projeto exercício. |
+| Aula 12: (14/11/2024) | 3hs | Projeto com ferramenta IDE RAD |
+| Aula 13: (21/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
+| Aula 14: (28/11/2024) | 3hs | **Avaliação 3**. Entrega de provas e notas. Revisão para PF |
 
 ---
 ### 4.1. Unidade de avaliação:
 
 Avaliação 1: 19/09/2024 <br>
-Avaliação 2: 24/10/2024 <br>
+Avaliação 2: 31/10/2024 <br>
 Avaliação 3: 28/11/2024 <br>
 PF: __/__/2024 <br>
 

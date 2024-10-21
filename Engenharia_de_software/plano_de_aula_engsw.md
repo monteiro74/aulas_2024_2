@@ -109,7 +109,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ### 4.1. Unidade de avaliação:
 
 Avaliação 1: 17/09/2024 <br>
-Avaliação 2: 22/10/2024 <br>
+Avaliação 2: 29/10/2024 <br>
 Avaliação 3: 26/11/2024 <br>
 
 ### 4.2. Trabalhos:
