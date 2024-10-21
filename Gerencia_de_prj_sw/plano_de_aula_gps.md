@@ -94,7 +94,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 6:  (25/09/2024) | 3hs | [Resolução de exercícios](https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_prj_sw/lista_de_exercicios.md) (elaborar projeto no Projectlibre, configurar o o qdPM, criar e compartilhar projeto via github). Desenvolvimento de projeto em ferramenta [IDE RAD](https://www.scriptcase.com.br/) (continuação). |
 | Aula 7:  (02/10/2024) | 3hs | Estrutura de projeto. Desenvolvimento do projeto no [Overleaf](https://www.overleaf.com/). [Jogo TWIG – The WIP Game](https://analytics.actionableagile.com/twig/index.html) [Resultado do jogo pelo prof](https://github.com/monteiro74/aulas_2024_2/blob/main/figuras/kanban_resultado_professor.png). [Estrutrua projeto de software](https://docs.google.com/presentation/d/1o9puV7cPdZGz3XDAWPCfV39sjbau67H1ocKrj4x8HB0/view). [Estrutura de projeto de pesquisa](https://docs.google.com/presentation/d/1ZmRu6ls_mx1eu0LMM2kRlFuGAw1jdMIA3eflSw4F4IM/view). |
 | Aula 8:  (09/10/2024) | 3hs | Revisão da Estrutura do projeto e elaboração do projeto no github de cada aluno. [Comparação entre tipos de projetos](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/tabela.png). |
-| Aula 9:  (16/10/2024) | 3hs | Métodos ágeis. |
+| Aula 9:  (16/10/2024) | 3hs | [FPA](https://docs.google.com/presentation/d/1M-zJwuzf0NrwddJOuEMtGxCueQHN_EE8Hy8fl9WSjoU/view), Revisão da Estrutura do projeto (parte 2). |
 | Aula 10: (23/10/2024) | 3hs | **Avaliação 2**. |
 | Aula 11: (30/10/2024) | 3hs | Funções do gerente de projeto, IDE x RAD, descrição do projeto exercício. |
 | Aula 12: (06/11/2024) | 3hs | Implementação do banco de dados, instalação de ferramenta, desenv. Proj. |
