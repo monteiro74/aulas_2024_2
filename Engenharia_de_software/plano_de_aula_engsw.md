@@ -96,10 +96,10 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 6: (24/09/2024)  | 3hs | Revisão do repositórios e suas etapas, desenvolvimento do diagrama de casos de uso e histórias de usuário. Desenvolvimento de projeto (pet shop) com ferramenta [IDE RAD](https://www.scriptcase.com.br/) (telas, gráficos, menu). [Curso fundamental de Scriptcase](https://www.scriptcase.com.br/aprendizagem/cursos/scriptcase-fundamental/) e [Documentação do Scriptcase](https://www.scriptcase.com.br/docs/pt_br/v9/manual/01-introducao/01-visao-geral/). |
 | Aula 7: (01/10/2024)  | 3hs | Finalização de projeto com ferramenta [IDE RAD](https://www.scriptcase.com.br/) (comentários sobre relatórios, consulta, form blank, dashboard, módulo de segurança, deploy no apache (laragon)). [Publicação de aplicação](https://www.youtube.com/watch?v=Oa0Lk6RvRoc). [+info sobre publicação](https://www.youtube.com/watch?v=SqbfN11HrCE). |
 | Aula : (08/10/2024)  | 3hs | Luto oficial. PORTARIA Nº 2132 / 2024 - REITORIA (11.01) (Nº do Protocolo: 23065.009256/2024-17) em Cáceres-MT, 07 de outubro de 2024. |
-| Aula 8: (15/10/2024)  | 3hs | Diagrama de componentes, diagrama de implantação, diagrama de navegação de telas, pilha tecnológica. |
-| Aula 9: (22/10/2024) | 3hs | Projeto com ferramenta IDE RAD. |
+| Aula 8: (15/10/2024)  | 3hs | Atualização do projeto no github: Diagrama de componentes, diagrama de implantação, diagrama de navegação de telas, pilha tecnológica. Comentários sobre:  a) Requisitos do cliente (client side), b) Requisitos do servidor (server side), c) Considerações sobre segurança, d) Considerações sobre manutenção, instalação e novas funcionalidades, e) Considerações sobre treinamento (do usuário e do admin do sistema). [Prompts](https://docs.google.com/presentation/d/15JrJ-pDXaXT9O8-90raUU4P04CvPSWxx2AjrClUo9SA/view). |
+| Aula 9: (22/10/2024) | 3hs | Comentários sobre projeto com IDE RAD. |
 | Aula 10: (29/10/2024) | 3hs | **Avaliação 2**.  |
-| Aula 11: (05/11/2024) | 3hs | Projeto com ferramenta IDE RAD. |
+| Aula 11: (05/11/2024) | 3hs | Comentários sobre projeto com IDE RAD. |
 | Aula 12: (12/11/2024) | 3hs | Finalização de projeto com ferramenta IDE RAD. |
 | Aula 13: (19/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
 | Aula 14: (26/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
