@@ -1,0 +1,50 @@
+db.alunos.insertMany([
+  {
+    "nome": "Ana Costa",
+    "idade": 19,
+    "curso": "Design Gráfico",
+    "email": "ana.costa@email.com",
+    "matricula": "2023004",
+    "data_de_nascimento": "2004-03-12",
+    "enderecos": [
+      {
+        "tipo": "residencial",
+        "logradouro": "Rua dos Artistas",
+        "numero": 101,
+        "bairro": "Vila Nova",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "cep": "30000-000"
+      }
+    ],
+    "notas": {
+      "matematica": 8.0,
+      "portugues": 9.5,
+      "fisica": 7.0
+    }
+  },
+  {
+    "nome": "Felipe Almeida",
+    "idade": 23,
+    "curso": "Administração",
+    "email": "felipe.almeida@email.com",
+    "matricula": "2023005",
+    "data_de_nascimento": "2000-07-25",
+    "enderecos": [
+      {
+        "tipo": "residencial",
+        "logradouro": "Avenida das Empresas",
+        "numero": 202,
+        "bairro": "Centro",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "cep": "80000-000"
+      }
+    ],
+    "notas": {
+      "matematica": 9.0,
+      "portugues": 8.5,
+      "fisica": 6.0
+    }
+  }
+]);
