@@ -1,0 +1,24 @@
+{
+  "nome": "Lucas Pereira",
+  "idade": 21,
+  "curso": "Biologia",
+  "email": "lucas.pereira@email.com",
+  "matricula": "2023003",
+  "data_de_nascimento": "2002-12-10",
+  "enderecos": [
+    {
+      "tipo": "residencial",
+      "logradouro": "Rua da Praia",
+      "numero": 321,
+      "bairro": "Praia Grande",
+      "cidade": "Santos",
+      "estado": "SP",
+      "cep": "11000-000"
+    }
+  ],
+  "notas": {
+    "matematica": 7.5,
+    "portugues": 8.2,
+    "fisica": 7.8
+  }
+}

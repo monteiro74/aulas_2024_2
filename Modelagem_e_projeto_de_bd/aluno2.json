@@ -1,0 +1,33 @@
+{
+  "nome": "Maria Oliveira",
+  "idade": 22,
+  "curso": "Arquitetura",
+  "email": "maria.oliveira@email.com",
+  "matricula": "2023002",
+  "data_de_nascimento": "2001-08-22",
+  "enderecos": [
+    {
+      "tipo": "residencial",
+      "logradouro": "Avenida Brasil",
+      "numero": 456,
+      "bairro": "Jardim",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22000-000"
+    },
+    {
+      "tipo": "temporario",
+      "logradouro": "Rua do Comércio",
+      "numero": 789,
+      "bairro": "Centro",
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "cep": "24000-000"
+    }
+  ],
+  "notas": {
+    "matematica": 6.5,
+    "portugues": 9.0,
+    "fisica": 8.0
+  }
+}

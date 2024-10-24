@@ -1,0 +1,24 @@
+{
+  "nome": "João Silva",
+  "idade": 20,
+  "curso": "Engenharia de Software",
+  "email": "joao.silva@email.com",
+  "matricula": "2023001",
+  "data_de_nascimento": "2003-05-15",
+  "enderecos": [
+    {
+      "tipo": "residencial",
+      "logradouro": "Rua das Flores",
+      "numero": 123,
+      "bairro": "Centro",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01000-000"
+    }
+  ],
+  "notas": {
+    "matematica": 8.5,
+    "portugues": 7.0,
+    "fisica": 9.2
+  }
+}
