@@ -98,7 +98,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula : (08/10/2024)  | 3hs | Luto oficial. PORTARIA Nº 2132 / 2024 - REITORIA (11.01) (Nº do Protocolo: 23065.009256/2024-17) em Cáceres-MT, 07 de outubro de 2024. |
 | Aula 8: (15/10/2024)  | 3hs | Atualização do projeto no github: Diagrama de componentes, diagrama de implantação, diagrama de navegação de telas, pilha tecnológica. Comentários sobre:  a) Requisitos do cliente (client side), b) Requisitos do servidor (server side), c) Considerações sobre segurança, d) Considerações sobre manutenção, instalação e novas funcionalidades, e) Considerações sobre treinamento (do usuário e do admin do sistema). [Prompts](https://docs.google.com/presentation/d/15JrJ-pDXaXT9O8-90raUU4P04CvPSWxx2AjrClUo9SA/view). |
 | Aula 9: (22/10/2024) | 3hs | [Outras considerações sobre o projeto de software](https://docs.google.com/presentation/d/1sJ6b9L6fbRDlC3PkzrD3umr5lEhXNB32rsZJCx1fY0c/view). [Comentários sobre IDE RAD](https://docs.google.com/presentation/d/1ahXviMuHApgg9MId25v60PVqMI3M1mnPytemK4HipaM/view). [Projeto de software com comentários em cada seção:](https://github.com/monteiro74/projeto_exemplo_EngSw_2024-2). |
-| Aula 10: (29/10/2024) | 3hs | **Avaliação 2**.  |
+| Aula 10: (29/10/2024) | 3hs | **Avaliação 2**. [Geradores de documentação](https://docs.google.com/presentation/d/1JaqOqkflZNfprU3hBwYVp_hmfJEQ6nmXLmzq_ikmGxE/view) |
 | Aula 11: (05/11/2024) | 3hs | Comentários sobre projeto com IDE RAD. |
 | Aula 12: (12/11/2024) | 3hs | Finalização de projeto com ferramenta IDE RAD. |
 | Aula 13: (19/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
