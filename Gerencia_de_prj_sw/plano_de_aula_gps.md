@@ -96,7 +96,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 8:  (09/10/2024) | 3hs | Revisão da Estrutura do projeto e elaboração do projeto no github de cada aluno. [Comparação entre tipos de projetos](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/tabela.png). |
 | Aula 9:  (16/10/2024) | 3hs | [FPA](https://docs.google.com/presentation/d/1M-zJwuzf0NrwddJOuEMtGxCueQHN_EE8Hy8fl9WSjoU/view), Revisão da Estrutura do projeto (parte 2). |
 | Aula 10: (23/10/2024) | 3hs | **Avaliação 2**. |
-| Aula 11: (30/10/2024) | 3hs | Funções do gerente de projeto, IDE x RAD, descrição do projeto exercício. |
+| Aula 11: (30/10/2024) | 3hs | [Particularidades do projeto de software](https://docs.google.com/presentation/d/1MMQE-DA0HN13oQd3zoi04H6P7iUs7vEM7vSTlu7Fot4/view) |
 | Aula 12: (06/11/2024) | 3hs | Implementação do banco de dados, instalação de ferramenta, desenv. Proj. |
 | Aula 13: (13/11/2024) | 3hs | Níveis de maturidade, CMMI, implementação do banco de dados, instalação de ferramenta, desenv. Proj. |
 | Aula 14: (22/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3. |
