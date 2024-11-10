@@ -123,7 +123,7 @@ PF: __/__/2024 <br>
 ---
 ### 5.2. Diagrama ER no SQL Server:
 
-![]()
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/SSMS_diagrama_er.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/SSMS_diagrama_er.png)
 
 ---
 ## 6. Artigos:
