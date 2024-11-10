@@ -99,7 +99,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula :  (17/10/2024) | 3hs | Falta de luz no campus. |
 | Aula 9: (24/10/2024) | 3hs | Introdução aos bancos NoSQL: [CouchDB](https://couchdb.apache.org/) e [MongoDB](https://www.mongodb.com/products/self-managed/community-edition). Revisão para prova. Arquivos em json estão disponíveis nesta página. [Criptografia no SQL Server](https://docs.google.com/presentation/d/1fLXogKtPfmU3knKsvIOHQhJwVJ6W4PZjF9V0aL2B2g8/view). [Exercício de modelagem (mineradora)](https://docs.google.com/presentation/d/10BijUVQcsnJIWCxodfkExoVObNt1LePcrHEHsA7aPLg/view). [Migration Assistant](https://docs.google.com/presentation/d/1lQPf2Ag-iO6Uu_44VcwNFqLg7s7Kc9mQeRfj2ckqJUw/view). [NoSQL](https://docs.google.com/presentation/d/1rSomKsRvjt7jH7dBGmSktJGwa98YUlFNQpUZsYyV42M/view).|
 | Aula 10: (31/10/2024) | 3hs | **Avaliação 2**. [Slides sobre blockchain](https://docs.google.com/presentation/d/1AJOoLkml_HBIIpQefuqLxMrMq0q-dpqI9rG5NLR2ZiQ/view). [Hyperledger no projeto DREX](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/). [Repositório sugerido sobre blockchain](https://github.com/monteiro74/blockchain). [Exemplo com Multichain blockchain](https://docs.google.com/presentation/d/1juQbP8CGSUHnIBXAHyiezNztMxdRy43x10lu0VE5CH4/view). |
-| Aula 11: (07/11/2024) | 3hs | Blockchain + Projeto exercício. |
+| Aula 11: (07/11/2024) | 3hs | [Blockchain](https://github.com/monteiro74/blockchain).  |
 | Aula 12: (14/11/2024) | 3hs | Projeto com ferramenta Dbeaver. |
 | Aula 13: (21/11/2024) | 3hs | Tópicos finais sobre BD. |
 | Aula 14: (28/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
