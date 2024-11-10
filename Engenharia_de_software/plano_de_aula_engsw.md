@@ -105,6 +105,9 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 14: (26/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
 | Aula 15: (27/11/2024) | 3hs | **Avaliação 3**. Entrega de notas. Revisão para PF. |
 
+
+
+
 ---
 ### 4.1. Unidade de avaliação:
 
