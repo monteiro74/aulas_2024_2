@@ -13,9 +13,9 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
-  - [5. Exercício - Diagrama entidade relacionamento](#5-exercício---diagrama-entidade-relacionamento)
-    - [5.2. Exercício 1 modelagem com SQL Server:](#52-exercício-1-modelagem-com-sql-server)
-    - [5.3. Exercício 2 de modelagem:](#53-exercício-2-de-modelagem)
+  - [5. Diagramas ER](#5-diagramas-er)
+    - [5.1. Diagrama ER no Dbeaver](#51-diagrama-er-no-dbeaver)
+    - [5.2. Diagrama ER no SQL Server:](#52-diagrama-er-no-sql-server)
   - [6. Artigos:](#6-artigos)
   - [7. Referências:](#7-referências)
   - [8. Demais Disciplinas:](#8-demais-disciplinas)
@@ -99,7 +99,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula :  (17/10/2024) | 3hs | Falta de luz no campus. |
 | Aula 9: (24/10/2024) | 3hs | Introdução aos bancos NoSQL: [CouchDB](https://couchdb.apache.org/) e [MongoDB](https://www.mongodb.com/products/self-managed/community-edition). Revisão para prova. Arquivos em json estão disponíveis nesta página. [Criptografia no SQL Server](https://docs.google.com/presentation/d/1fLXogKtPfmU3knKsvIOHQhJwVJ6W4PZjF9V0aL2B2g8/view). [Exercício de modelagem (mineradora)](https://docs.google.com/presentation/d/10BijUVQcsnJIWCxodfkExoVObNt1LePcrHEHsA7aPLg/view). [Migration Assistant](https://docs.google.com/presentation/d/1lQPf2Ag-iO6Uu_44VcwNFqLg7s7Kc9mQeRfj2ckqJUw/view). [NoSQL](https://docs.google.com/presentation/d/1rSomKsRvjt7jH7dBGmSktJGwa98YUlFNQpUZsYyV42M/view).|
 | Aula 10: (31/10/2024) | 3hs | **Avaliação 2**. [Slides sobre blockchain](https://docs.google.com/presentation/d/1AJOoLkml_HBIIpQefuqLxMrMq0q-dpqI9rG5NLR2ZiQ/view). [Hyperledger no projeto DREX](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/). [Repositório sugerido sobre blockchain](https://github.com/monteiro74/blockchain). [Exemplo com Multichain blockchain](https://docs.google.com/presentation/d/1juQbP8CGSUHnIBXAHyiezNztMxdRy43x10lu0VE5CH4/view). |
-| Aula 11: (07/11/2024) | 3hs | [Blockchain](https://github.com/monteiro74/blockchain).  |
+| Aula 11: (07/11/2024) | 3hs | [Blockchain](https://github.com/monteiro74/blockchain). [Diagrama ER no DBeaver](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/dbeaver_diagrama_er.png) .|
 | Aula 12: (14/11/2024) | 3hs | Projeto com ferramenta Dbeaver. |
 | Aula 13: (21/11/2024) | 3hs | Tópicos finais sobre BD. |
 | Aula 14: (28/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
@@ -114,17 +114,16 @@ Avaliação 3: 29/11/2024 <br>
 PF: __/__/2024 <br>
 
 ---
-## 5. Exercício - Diagrama entidade relacionamento
+## 5. Diagramas ER
 
+### 5.1. Diagrama ER no Dbeaver
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/dbeaver_diagrama_er.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/dbeaver_diagrama_er.png)
 
 ---
-### 5.2. Exercício 1 modelagem com SQL Server:
+### 5.2. Diagrama ER no SQL Server:
 
-
----
-### 5.3. Exercício 2 de modelagem:
-
-Abaixo o resultado com os relacionamentos:
+![]()
 
 ---
 ## 6. Artigos:
