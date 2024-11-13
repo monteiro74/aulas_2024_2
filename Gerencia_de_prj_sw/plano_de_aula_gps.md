@@ -177,7 +177,7 @@ PF: __/__/2024 <br>
 
 
 
-Exemplo de tabela:
+Exemplo de tabela, código em markdown, pode ser colado na página no github:
 
 \begin{table}[h]
 \begin{tabular}{|l|l|l|l|}
