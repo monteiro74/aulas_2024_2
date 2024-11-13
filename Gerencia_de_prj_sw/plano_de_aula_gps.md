@@ -172,7 +172,9 @@ PF: __/__/2024 <br>
 | **Relatórios de Progresso**     | Relatórios técnicos detalhados sobre o progresso.      | Relatórios simplificados com foco em status de entregas.  |
 | **Testes e Qualidade**          | Planos de teste detalhados (unitários, integração, etc.).| Foco em aceitação do cliente e testes de usabilidade.     |
 | **Implantação**                 | Detalhamento sobre automação, pipelines de CI/CD.      | Enfoque em cronograma de go-live e impacto no negócio.    |
-| **Detalhes interno do documento de projeto** | Diagramas de componentes, classe, casos de uso, protótipo de telas, diagrama de implantação, requisitos técnicos e funcionais. | Justificativa, cenário, orçamento, cronograma, objetos, metas, produtos esperados, equipe técnica. |
+| **Detalhes interno do documento de projeto** | Diagramas de componentes, classe, casos de uso, protótipo de telas, diagrama de implantação, cronograma de desenvolvimento, estratégias de testes, metodologia de desenvolvimento, quadros kanban, requisitos técnicos e funcionais. | Introdução, justificativa, cenário, orçamento, cronograma e gráfico de gantt, objetivos, beneficiários, problema, metas, produtos esperados, equipe técnica, recursos tecnológicos necessários. |
+| **Quem trata destes assuntos?** | 4º semestre em engenharia de software | 8º semestre em gerência de projeto de software|
+
 
 
 Exemplo de tabela:
