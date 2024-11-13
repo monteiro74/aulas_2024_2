@@ -163,6 +163,9 @@ Avaliação 3: 26/11/2024 <br>
 |4|Popular Banco|Crei um scrip SQL para MySQL usando comandos **INSERT** com dados fictícios para as tabelas acima:|
 |5| Diagrama do caso de uso| Leia novamente a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça diagrama de “casos de uso” para a descrição acima usando **PlantUML** e markdown. |
 |6| Histórias de usuário | Leia a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça em markdown as **“histórias de usuário”** para as regras de negócio acima:|
+| 7 | Diagramas C4 | Contexto: para a descrição a seguir: ...... Item 2 !  Colar aqu! Faça os seguintes diagramas **C4** em Markdown com Mermeid: 1. Diagrama de contexto 2. Diagrama de container 3. Diagrama de componente 4. Diagrama de código|
+| 8 | Requisitos funcionais | Contexto:  para a descrição a seguir: ... Item 2 !  Colar aqui !! Faça uma tabela mostrando os **requisitos funcionais** e não funcionais, esta tabela deverá estar em Markdown. |
+
 
 Diagrama de casos de uso: Use https://app.diagrams.net/ para gerar o diagrama.
 
