@@ -158,7 +158,7 @@ PF: __/__/2024 <br>
 
 ### 7. Diferença entre projeto técnica e projeto executivo (gerência):
 
-| Aspecto                        | Projeto para área técnica (projeto técnico, equipe de TI)                              | Projeto para área gerêncial (alto nível)                                    |
+| Aspecto                        | Projeto para área técnica (projeto técnico, equipe de TI)                              | Projeto para área gerêncial (stakeholder, alto nível)                                    |
 |---------------------------------|--------------------------------------------------------|----------------------------------------------------------|
 | **Foco Principal**              | Tecnologias, arquitetura, desempenho e implementação.  | Metas de negócios, ROI, prazos e resultados estratégicos. |
 | **Linguagem Utilizada**         | Técnica, com termos como APIs, microservices, DevOps.  | Simples, com foco em benefícios, riscos e investimentos.  |
@@ -173,7 +173,7 @@ PF: __/__/2024 <br>
 | **Testes e Qualidade**          | Planos de teste detalhados (unitários, integração, etc.).| Foco em aceitação do cliente e testes de usabilidade.     |
 | **Implantação**                 | Detalhamento sobre automação, pipelines de CI/CD.      | Enfoque em cronograma de go-live e impacto no negócio.    |
 | **Detalhes interno do documento de projeto** | Diagramas de componentes, classe, casos de uso, protótipo de telas, diagrama de implantação, cronograma de desenvolvimento, estratégias de testes, metodologia de desenvolvimento, quadros kanban, requisitos técnicos e funcionais. | Introdução, justificativa, cenário, orçamento, cronograma e gráfico de gantt, objetivos, beneficiários, problema, metas, produtos esperados, equipe técnica, recursos tecnológicos necessários. |
-| **Quem trata destes assuntos?** | 4º semestre em engenharia de software | 8º semestre em gerência de projeto de software|
+| **Quem trata destes assuntos?** | **4º** semestre na disciplina de **engenharia de software** | **8º** semestre na disciplina de **gerência de projeto de software** |
 
 
 
