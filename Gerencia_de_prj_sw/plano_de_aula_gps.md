@@ -140,7 +140,7 @@ PF: __/__/2024 <br>
 ---
 ## 6. Repositório dos alunos
 
-|#| Aluno | Repositório no git | Projetos no git |
+|#| Aluno | Repositório no git | Projeto no git |
 | -- | ----- | ----------- |--- |
 |1|Alex|https://github.com/AlexSilva-SNO/alex_silva	| https://github.com/users/AlexSilva-SNO/projects/2 |
 |2|Carlos| https://github.com/carloseduardocs/gps-aula4	| |
@@ -159,7 +159,7 @@ PF: __/__/2024 <br>
 
 ### 6.1. Página no confluence e projeto no jira
 
-|#| Aluno   | Projeto no confluence | Projetos no Jire |
+|#| Aluno   | Projeto no confluence | Projeto no Jire |
 | --        | ----- | ----------- |--- |
 |1|Alex     | 	|  |
 |2|Carlos   |   |  |
