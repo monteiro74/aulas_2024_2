@@ -16,7 +16,8 @@
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
   - [6. Repositório dos alunos](#6-repositório-dos-alunos)
-    - [7. Diferença entre projeto técnica e projeto executivo (gerência):](#7-diferença-entre-projeto-técnica-e-projeto-executivo-gerência)
+    - [6.1. Página no confluence e projeto no jira](#61-página-no-confluence-e-projeto-no-jira)
+    - [7. Diferença entre projeto técnico e projeto executivo (gerêncial):](#7-diferença-entre-projeto-técnico-e-projeto-executivo-gerêncial)
   - [8. Artigos:](#8-artigos)
   - [9. Referências:](#9-referências)
   - [10. Demais Disciplinas:](#10-demais-disciplinas)
@@ -156,7 +157,27 @@ PF: __/__/2024 <br>
 |13|Wilhan|	| |
 
 
-### 7. Diferença entre projeto técnica e projeto executivo (gerência):
+### 6.1. Página no confluence e projeto no jira
+
+|#| Aluno   | Projeto no confluence | Projetos no Jire |
+| --        | ----- | ----------- |--- |
+|1|Alex     | 	|  |
+|2|Carlos   |   |  |
+|3|Ewerton  | 	|  |
+|4|Felipe   | 	|  |
+|5|Gabriel  |	  |  |
+|6|Gustavo  | 	|  |
+|7|Janaina  |   |  |
+|8|João     |	  |  |
+|9|Julio    |   |  |
+|10|Larissa |   |  |
+|11|Leonardi|   |  |
+|12|Roberto |   |  |
+|13|Wilhan  |	  |  |
+
+
+
+### 7. Diferença entre projeto técnico e projeto executivo (gerêncial):
 
 | Aspecto                        | Projeto para área técnica (projeto técnico, equipe de TI)                              | Projeto para área gerêncial (stakeholder, alto nível)                                    |
 |---------------------------------|--------------------------------------------------------|----------------------------------------------------------|
