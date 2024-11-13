@@ -17,7 +17,7 @@
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
   - [6. Repositório dos alunos](#6-repositório-dos-alunos)
     - [6.1. Página no confluence e projeto no jira](#61-página-no-confluence-e-projeto-no-jira)
-    - [7. Diferença entre projeto técnico e projeto executivo (gerêncial):](#7-diferença-entre-projeto-técnico-e-projeto-executivo-gerêncial)
+  - [7. Diferença entre projeto técnico e projeto executivo (gerêncial):](#7-diferença-entre-projeto-técnico-e-projeto-executivo-gerêncial)
   - [8. Artigos:](#8-artigos)
   - [9. Referências:](#9-referências)
   - [10. Demais Disciplinas:](#10-demais-disciplinas)
@@ -177,7 +177,7 @@ PF: __/__/2024 <br>
 
 
 
-### 7. Diferença entre projeto técnico e projeto executivo (gerêncial):
+## 7. Diferença entre projeto técnico e projeto executivo (gerêncial):
 
 | Aspecto                        | Projeto para área técnica (projeto técnico, equipe de TI)                              | Projeto para área gerêncial (stakeholder, alto nível)                                    |
 |---------------------------------|--------------------------------------------------------|----------------------------------------------------------|
