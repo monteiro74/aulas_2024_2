@@ -100,7 +100,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 9: (22/10/2024) | 3hs | [Outras considerações sobre o projeto de software](https://docs.google.com/presentation/d/1sJ6b9L6fbRDlC3PkzrD3umr5lEhXNB32rsZJCx1fY0c/view). [Comentários sobre IDE RAD](https://docs.google.com/presentation/d/1ahXviMuHApgg9MId25v60PVqMI3M1mnPytemK4HipaM/view). [Projeto de software com comentários em cada seção](https://github.com/monteiro74/projeto_exemplo_EngSw_2024-2). |
 | Aula 10: (29/10/2024) | 3hs | **Avaliação 2**. [Geradores de documentação](https://docs.google.com/presentation/d/1JaqOqkflZNfprU3hBwYVp_hmfJEQ6nmXLmzq_ikmGxE/view) |
 | Aula 11: (05/11/2024) | 3hs | [Slides de aula (arquitetura de aplicações)](https://docs.google.com/presentation/d/1D57YSS_g-WO9JPJeIiThIqB8_OjTr9NEXCviLbJ8CfI/view). [Documentação (parte2)](https://docs.google.com/presentation/d/1NHbPHGG07igzcmI5uzR9Nvd6yER_9nxlKo9ij3sV4_g/view). [Prompts](https://docs.google.com/presentation/d/1YdMyz0-Tt8EoBXvujcEsxe-GKe0KEGa5F5LdpcJHyyY/view). [Exemplo de MVC com PHP](https://github.com/alexmpereira/simple-mvc-php). [Exemplo de MVC com Delphi](https://www.andrecelestino.com/arquitetura-mvc-no-delphi/). [Exemplo de MVC com ASP](https://learn.microsoft.com/pt-br/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview). [Exemplo de MVVM com Maui](https://learn.microsoft.com/pt-br/dotnet/maui/xaml/fundamentals/mvvm?view=net-maui-9.0). [Detalhes do MVVM](https://learn.microsoft.com/pt-br/dotnet/architecture/maui/mvvm). |
-| Aula 12: (12/11/2024) | 3hs | [Slides de aula: certificações, diagramas C4, padrões de documentação](https://docs.google.com/presentation/d/19y4srqi0Zw6whAjQLWcykGLMiq5CJu1I1y2nnObr3DA/view). [Padrão de diagramas C4](https://github.com/plantuml-stdlib/C4-PlantUML). [Testes](https://docs.google.com/presentation/d/18AIrDwrSUoyK1NLKKaQRJwTk_1JGsMiRhwGfQV_2g1Q/view) |
+| Aula 12: (12/11/2024) | 3hs | [Slides de aula: certificações, diagramas C4, padrões de documentação](https://docs.google.com/presentation/d/19y4srqi0Zw6whAjQLWcykGLMiq5CJu1I1y2nnObr3DA/view). [Padrão de diagramas C4](https://github.com/plantuml-stdlib/C4-PlantUML). [Testes](https://docs.google.com/presentation/d/18AIrDwrSUoyK1NLKKaQRJwTk_1JGsMiRhwGfQV_2g1Q/view). [Exemplo de Macro com Excel](https://support.microsoft.com/pt-br/office/in%C3%ADcio-r%C3%A1pido-criar-uma-macro-741130ca-080d-49f5-9471-1e5fb3d581a8). [RPA](https://www.zendesk.com.br/blog/o-que-e-rpa-robotic-process/). |
 | Aula 13: (19/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
 | Aula 14: (26/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
 | Aula 15: (27/11/2024) | 3hs | **Avaliação 3**. Entrega de notas. Revisão para PF. |
@@ -157,14 +157,18 @@ Avaliação 3: 26/11/2024 <br>
 
 | | Etapa do processo | Prompts |
 |-|-------|--------|
-|1|Diagrama ER| Crie um diagrama entidade relacionamento usando **Markdown** e **Mermaid** para as regras de negócio a seguir:|
-|2|Diagrama de classe| Crie um diagrama de classes usando **Markdown** e **Mermaid** para as regras de negócio a seguir:|
-|3|Desenv. BD |Crie um script SQL com comandos **CREATE** para MySQL para gerar as tabelas para as regras de negócio a seguir:|
-|4|Popular Banco|Crei um scrip SQL para MySQL usando comandos **INSERT** com dados fictícios para as tabelas acima:|
-|5| Diagrama do caso de uso| Leia novamente a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça diagrama de “casos de uso” para a descrição acima usando **PlantUML** e markdown. |
-|6| Histórias de usuário | Leia a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça em markdown as **“histórias de usuário”** para as regras de negócio acima:|
-| 7 | Diagramas C4 | Contexto: para a descrição a seguir: ...... Item 2 !  Colar aqu! Faça os seguintes diagramas **C4** em Markdown com Mermeid: 1. Diagrama de contexto 2. Diagrama de container 3. Diagrama de componente 4. Diagrama de código|
-| 8 | Requisitos funcionais | Contexto:  para a descrição a seguir: ... Item 2 !  Colar aqui !! Faça uma tabela mostrando os **requisitos funcionais** e não funcionais, esta tabela deverá estar em Markdown. |
+|1|Diagrama ER| Crie um diagrama entidade relacionamento usando Markdown e Mermaid para as regras de negócio a seguir:|
+|2|Diagrama de classe| Crie um diagrama de classes usando Markdown e Mermaid para as regras de negócio a seguir:|
+|3|Desenv. BD |Crie um script SQL com comandos CREATE para MySQL para gerar as tabelas para as regras de negócio a seguir:|
+|4|Popular Banco|Crei um scrip SQL para MySQL usando comandos INSERT com dados fictícios para as tabelas acima:|
+|5| Diagrama do caso de uso| Leia novamente a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça diagrama de “casos de uso” para a descrição acima usando PlantUML e markdown. |
+|6 | Diagrama de componente | Contexto:  <cole aqui o seu item 2! > Faça: Um diagrama de componente usando PlantUML. |
+|7 | Diagrama de implantação | Contexto: <cole aqui o seu item 2! > Faça: Um diagrama de implantação usando PlantUML. |
+|8 | Diagrama de navegação de telas | Contexto: <cole aqui o seu item 2! > Faça: Um diagrama de navegação de tela usando MERMAID e MARKDOWN |
+|9 | Diagrama de pilha tecnológica | Contexto: Considere os diagramas de componentes, implantação e navegação realizados anteriormente. Faça: Um diagrama usando MERMAID e MARKDOWN que represente e pilha tecnológica do software proposto. |
+|10| Histórias de usuário | Leia a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça em markdown as “histórias de usuário” para as regras de negócio acima:|
+|11| Diagramas C4 | Contexto: para a descrição a seguir: ...... Item 2 !  Colar aqu! Faça os seguintes diagramas C4 em Markdown com Mermeid: 1. Diagrama de contexto 2. Diagrama de container 3. Diagrama de componente 4. Diagrama de código|
+| 12 | Requisitos funcionais | Contexto:  para a descrição a seguir: ... Item 2 !  Colar aqui !! Faça uma tabela mostrando os requisitos funcionais e não funcionais, esta tabela deverá estar em Markdown. |
 
 
 Diagrama de casos de uso: Use https://app.diagrams.net/ para gerar o diagrama.
