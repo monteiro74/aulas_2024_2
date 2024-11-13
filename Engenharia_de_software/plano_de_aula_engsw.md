@@ -159,7 +159,7 @@ Avaliação 3: 26/11/2024 <br>
 |-|-------|--------|
 |1|Diagrama ER| Crie um diagrama entidade relacionamento usando Markdown e Mermaid para as regras de negócio a seguir:|
 |2|Diagrama de classe| Crie um diagrama de classes usando Markdown e Mermaid para as regras de negócio a seguir:|
-|3|Desenv. BD |Crie um script SQL com comandos CREATE para MySQL para gerar as tabelas para as regras de negócio a seguir:|
+|3|Desenvimento do BD |Crie um script SQL com comandos CREATE para MySQL para gerar as tabelas para as regras de negócio a seguir:|
 |4|Popular Banco|Crei um scrip SQL para MySQL usando comandos INSERT com dados fictícios para as tabelas acima:|
 |5| Diagrama do caso de uso| Leia novamente a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça diagrama de “casos de uso” para a descrição acima usando PlantUML e markdown. |
 |6 | Diagrama de componente | Contexto:  <cole aqui o seu item 2! > Faça: Um diagrama de componente usando PlantUML. |
