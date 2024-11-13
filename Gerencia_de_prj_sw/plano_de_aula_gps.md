@@ -1,6 +1,5 @@
 # Plano de ensino de Gerência de Projeto de Software
 
-
 - [Plano de ensino de Gerência de Projeto de Software](#plano-de-ensino-de-gerência-de-projeto-de-software)
   - [1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-312---gerência-de-projetos-de-software-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
@@ -159,7 +158,7 @@ PF: __/__/2024 <br>
 
 ### 7. Diferença entre projeto técnica e projeto executivo (gerência):
 
-| Aspecto                        | Projeto para Área Técnica                              | Projeto para Gerência                                    |
+| Aspecto                        | Projeto para área técnica (projeto técnico, equipe de TI)                              | Projeto para área gerêncial (alto nível)                                    |
 |---------------------------------|--------------------------------------------------------|----------------------------------------------------------|
 | **Foco Principal**              | Tecnologias, arquitetura, desempenho e implementação.  | Metas de negócios, ROI, prazos e resultados estratégicos. |
 | **Linguagem Utilizada**         | Técnica, com termos como APIs, microservices, DevOps.  | Simples, com foco em benefícios, riscos e investimentos.  |
@@ -173,6 +172,7 @@ PF: __/__/2024 <br>
 | **Relatórios de Progresso**     | Relatórios técnicos detalhados sobre o progresso.      | Relatórios simplificados com foco em status de entregas.  |
 | **Testes e Qualidade**          | Planos de teste detalhados (unitários, integração, etc.).| Foco em aceitação do cliente e testes de usabilidade.     |
 | **Implantação**                 | Detalhamento sobre automação, pipelines de CI/CD.      | Enfoque em cronograma de go-live e impacto no negócio.    |
+| **Detalhes interno do documento de projeto** | Diagramas de componentes, classe, casos de uso, protótipo de telas, diagrama de implantação, requisitos técnicos e funcionais. | Justificativa, cenário, orçamento, cronograma, objetos, metas, produtos esperados, equipe técnica. |
 
 
 Exemplo de tabela:
