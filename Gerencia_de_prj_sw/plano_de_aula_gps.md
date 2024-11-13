@@ -16,7 +16,7 @@
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
   - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
   - [6. Repositório dos alunos](#6-repositório-dos-alunos)
-    - [6.1. Página no confluence e projeto no jira](#61-página-no-confluence-e-projeto-no-jira)
+    - [6.1. Página no Confluence e projeto no Jira](#61-página-no-confluence-e-projeto-no-jira)
   - [7. Diferença entre projeto técnico e projeto executivo (gerêncial):](#7-diferença-entre-projeto-técnico-e-projeto-executivo-gerêncial)
   - [8. Artigos:](#8-artigos)
   - [9. Referências:](#9-referências)
@@ -157,21 +157,21 @@ PF: __/__/2024 <br>
 |13|Wilhan|	| |
 
 
-### 6.1. Página no confluence e projeto no jira
+### 6.1. Página no Confluence e projeto no Jira
 
-|#| Aluno   | Projeto no confluence | Projeto no Jire |
+|#| Aluno   | Projeto no confluence | Projeto no Jira |
 | --        | ----- | ----------- |--- |
-|1|Alex     | 	|  |
+|1|Alex     | https://unemat-team-alexsilva.atlassian.net/wiki/home	|  |
 |2|Carlos   |   |  |
 |3|Ewerton  | 	|  |
-|4|Felipe   | 	|  |
+|4|Felipe   | https://chris-ti.atlassian.net/wiki/home	|  |
 |5|Gabriel  |	  |  |
 |6|Gustavo  | 	|  |
-|7|Janaina  |   |  |
+|7|Janaina  |   | https://aulagps.atlassian.net/jira/software/projects/PDDS/boards/1 |
 |8|João     |	  |  |
 |9|Julio    |   |  |
 |10|Larissa |   |  |
-|11|Leonardi|   |  |
+|11|Leonardi| https://unemat-team-weuonqdc.atlassian.net/wiki/home  | https://unemat-team-db2ldwzk.atlassian.net/jira/core/projects/EQ/board |
 |12|Roberto |   |  |
 |13|Wilhan  |	  |  |
 
