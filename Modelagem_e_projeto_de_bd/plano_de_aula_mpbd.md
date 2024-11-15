@@ -13,7 +13,7 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
-  - [5. Diagramas ER](#5-diagramas-er)
+  - [5. Diagramas ER comentados em sala](#5-diagramas-er-comentados-em-sala)
     - [5.1. Diagrama ER no Dbeaver](#51-diagrama-er-no-dbeaver)
     - [5.2. Diagrama ER no SQL Server:](#52-diagrama-er-no-sql-server)
   - [6. Artigos:](#6-artigos)
@@ -114,7 +114,7 @@ Avaliação 3: 29/11/2024 <br>
 PF: __/__/2024 <br>
 
 ---
-## 5. Diagramas ER
+## 5. Diagramas ER comentados em sala
 
 ### 5.1. Diagrama ER no Dbeaver
 

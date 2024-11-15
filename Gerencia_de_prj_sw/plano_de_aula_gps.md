@@ -11,12 +11,13 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-    - [Aula 3: exemplo de gráfico de gantt](#aula-3-exemplo-de-gráfico-de-gantt)
-    - [Aula 11: exemplo de formulário](#aula-11-exemplo-de-formulário)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
-  - [5. Ferramentas comentadas](#5-ferramentas-comentadas)
-  - [6. Repositório dos alunos](#6-repositório-dos-alunos)
-    - [6.1. Página no Confluence e projeto no Jira](#61-página-no-confluence-e-projeto-no-jira)
+  - [4.2. Repositório dos alunos](#42-repositório-dos-alunos)
+    - [4.3. Página no Confluence e projeto no Jira](#43-página-no-confluence-e-projeto-no-jira)
+  - [5. Exercícios e exemplos](#5-exercícios-e-exemplos)
+    - [5.1. Aula 3: exemplo de gráfico de gantt](#51-aula-3-exemplo-de-gráfico-de-gantt)
+    - [5.2. Aula 11: exemplo de formulário](#52-aula-11-exemplo-de-formulário)
+  - [6. Ferramentas comentadas](#6-ferramentas-comentadas)
   - [7. Diferença entre projeto técnico e projeto executivo (gerêncial):](#7-diferença-entre-projeto-técnico-e-projeto-executivo-gerêncial)
   - [8. Artigos:](#8-artigos)
   - [9. Referências:](#9-referências)
@@ -103,16 +104,6 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 14: (22/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3. |
 | Aula 15: (25/11/2024) | 3hs | **Avaliação 3**. Entrega de notas, revisão para PF. |
 
-
----
-### Aula 3: exemplo de gráfico de gantt
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/main/Gerencia_de_prj_sw/project_libre_aula3_exemplo.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/main/Gerencia_de_prj_sw/project_libre_aula3_exemplo.png)
-
-### Aula 11: exemplo de formulário
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/Gerencia_de_prj_sw/formAluno.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/Gerencia_de_prj_sw/formAluno.png)
-
 ---
 ### 4.1. Unidade de avaliação:
 
@@ -122,23 +113,9 @@ Avaliação 3: 25/11/2024 <br>
 PF: __/__/2024 <br>
 
 
----
-## 5. Ferramentas comentadas
-
-[Github desktop](https://desktop.github.com/download/)
-
-[Laragon](https://laragon.org/download/)
-
-[Visual studio code](https://code.visualstudio.com/download)
-
-[qdPM](https://qdpm.net/qdpm-download.php)
-
-[Project Libre](https://www.projectlibre.com/product/1-alternative-microsoft-project-free-project-management-software-open-source)
-
-
 
 ---
-## 6. Repositório dos alunos
+## 4.2. Repositório dos alunos
 
 |#| Aluno | Repositório no git | Projeto no git |
 | -- | ----- | ----------- |--- |
@@ -157,7 +134,7 @@ PF: __/__/2024 <br>
 |13|Wilhan|	| |
 
 
-### 6.1. Página no Confluence e projeto no Jira
+### 4.3. Página no Confluence e projeto no Jira
 
 |#| Aluno   | Projeto no confluence | Projeto no Jira |
 | --        | ----- | ----------- |--- |
@@ -174,6 +151,35 @@ PF: __/__/2024 <br>
 |11|Leonardi| https://unemat-team-weuonqdc.atlassian.net/wiki/home  | https://unemat-team-db2ldwzk.atlassian.net/jira/core/projects/EQ/board |
 |12|Roberto |   |  |
 |13|Wilhan  |	  |  |
+
+
+
+---
+## 5. Exercícios e exemplos
+
+### 5.1. Aula 3: exemplo de gráfico de gantt
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/main/Gerencia_de_prj_sw/project_libre_aula3_exemplo.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/main/Gerencia_de_prj_sw/project_libre_aula3_exemplo.png)
+
+### 5.2. Aula 11: exemplo de formulário
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/Gerencia_de_prj_sw/formAluno.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/Gerencia_de_prj_sw/formAluno.png)
+
+
+
+---
+## 6. Ferramentas comentadas
+
+[Github desktop](https://desktop.github.com/download/)
+
+[Laragon](https://laragon.org/download/)
+
+[Visual studio code](https://code.visualstudio.com/download)
+
+[qdPM](https://qdpm.net/qdpm-download.php)
+
+[Project Libre](https://www.projectlibre.com/product/1-alternative-microsoft-project-free-project-management-software-open-source)
+
 
 
 
