@@ -1,3 +1,9 @@
+# ATUALIZAÇÃO:
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg)
+
+
+
 # Plano de ensino de Gerência de Projeto de Software
 
 - [Plano de ensino de Gerência de Projeto de Software](#plano-de-ensino-de-gerência-de-projeto-de-software)

@@ -1,3 +1,8 @@
+# ATUALIZAÇÃO:
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg)
+
+
 # aulas_2024_2
 
 **Repositório** das disciplinas e material de aula do Prof. Dr. Monteiro no Github.

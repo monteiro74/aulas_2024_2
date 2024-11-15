@@ -1,6 +1,13 @@
+# ATUALIZAÇÃO:
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg)
+
+
+
 # Plano de ensino de: Modelagem e Projeto de Banco de Dados
 
 
+- [ATUALIZAÇÃO:](#atualização)
 - [Plano de ensino de: Modelagem e Projeto de Banco de Dados](#plano-de-ensino-de-modelagem-e-projeto-de-banco-de-dados)
   - [1. Turma: FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-323---modelagem-e-projeto-de-banco-de-dados-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
