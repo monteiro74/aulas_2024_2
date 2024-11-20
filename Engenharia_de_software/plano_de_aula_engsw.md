@@ -116,7 +116,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 12: (12/11/2024) | 3hs | Certificações, padrões para documentação, UML x C4: [Slides de aula: certificações, diagramas C4, padrões de documentação](https://docs.google.com/presentation/d/19y4srqi0Zw6whAjQLWcykGLMiq5CJu1I1y2nnObr3DA/view). [Padrão de diagramas C4](https://github.com/plantuml-stdlib/C4-PlantUML). Tipos de testes (unitários, integração, aceitação, autotestes), TDD (test drive development) e BDD (behavior driven development), ferramentas de QA, integração contínua: [Testes](https://docs.google.com/presentation/d/18AIrDwrSUoyK1NLKKaQRJwTk_1JGsMiRhwGfQV_2g1Q/view). [Exemplo de Macro com Excel](https://support.microsoft.com/pt-br/office/in%C3%ADcio-r%C3%A1pido-criar-uma-macro-741130ca-080d-49f5-9471-1e5fb3d581a8). [RPA](https://www.zendesk.com.br/blog/o-que-e-rpa-robotic-process/). |
 | Aula 13: (19/11/2024) | 3hs | Clean code, SWBOK, ergonomia, RPA, SOLID, [MPS.BR](https://softex.br/mpsbr/), Sourceforge, clean room, Selenium, acessiblidade, tipping point: [Slides de aula](https://docs.google.com/presentation/d/1z9FcVO83S5GnCd2jjT2q5g99Y7msThnrJfP2rl7Lwro/view). [Livro SWBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering). |
 | Aula 14: (26/11/2024) | 3hs | Métodos RAD, conceitos teóricos finais da disciplinas e tendências de mercado. |
-| Aula 15: (27/11/2024) | 3hs | **Avaliação 3**. Entrega de notas. Revisão para PF. |
+| Aula 15: (03/12/2024) | 3hs | **Avaliação 3**. Entrega de notas. Revisão para PF. |
 
 
 
