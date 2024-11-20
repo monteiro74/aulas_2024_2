@@ -8,6 +8,8 @@
 
 # Plano de ensino de Gerência de Projeto de Software
 
+- [ATUALIZAÇÃO:](#atualização)
+- [EVENTO:](#evento)
 - [Plano de ensino de Gerência de Projeto de Software](#plano-de-ensino-de-gerência-de-projeto-de-software)
   - [1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-312---gerência-de-projetos-de-software-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
@@ -117,7 +119,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 Avaliação 1: 18/09/2024 <br>
 Avaliação 2: 23/10/2024 <br>
-Avaliação 3: 25/11/2024 <br>
+Avaliação 3: 04/12/2024 <br>
 PF: __/__/2024 <br>
 
 

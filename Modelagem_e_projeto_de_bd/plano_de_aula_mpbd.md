@@ -120,7 +120,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 Avaliação 1: 19/09/2024 <br>
 Avaliação 2: 31/10/2024 <br>
-Avaliação 3: 29/11/2024 <br>
+Avaliação 3: 05/12/2024 <br>
 PF: __/__/2024 <br>
 
 ---
