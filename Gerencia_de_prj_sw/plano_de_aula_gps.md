@@ -111,8 +111,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 11: (30/10/2024) | 3hs | [Particularidades do projeto de software](https://docs.google.com/presentation/d/1MMQE-DA0HN13oQd3zoi04H6P7iUs7vEM7vSTlu7Fot4/view). [Formulário](https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_prj_sw/formAluno.html). [Edital Senai.in 2024](https://novidades.institutosenaimt.ind.br/agroind2024), [video do edital](https://www.youtube.com/live/32Ts0gMfU08). [Edital da FIEMG](https://fiemglab.com.br/challenge/desafio-inovacao-aberta-fiemg/). [Artigo FPA](https://www.egape.pe.gov.br/images/media/1698754803_SerieFundamentosEngenhariaSoftwareAnoIINumero03APF.pdf). |
 | Aula 12: (06/11/2024) | 3hs | [Project canvas](https://docs.google.com/presentation/d/1z698qOIYWyvW1F-_LSIR_R162Xi70XlnBQDcXt78HZ4/view). [Qualidade de software](https://docs.google.com/presentation/d/1BqI1ZXlq8uKaTNKnZobw36DpnsN2cAGd673j09EzgHg/view). [Prompt](https://docs.google.com/presentation/d/1U2YZ5GkWg2wyodh5g_xnO8s5GJkM8AT5Cj-TcAvta1U/view). [Vagas](https://docs.google.com/presentation/d/18LhY1Zl5cI8XpI3_Folag5BlPYr-WXZ47rPnRI1lVRY/view). |
 | Aula 13: (13/11/2024) | 3hs | [ROI, análise de tickets, go-live, teste de usabilidade](https://docs.google.com/presentation/d/1vd9JGtS0-YACRteJysDqGT2KeAtZa1vjwIHwQTAvB70/view). [Download do Wordpress](https://wordpress.org/download/releases/6-6/). [Download do Joomla](https://downloads.joomla.org/br/latest). |
-| Aula 14: (22/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3. |
-| Aula 15: (25/11/2024) | 3hs | **Avaliação 3**. Entrega de notas, revisão para PF. |
+| Aula 14: (27/11/2024) | 3hs | Revisão para avaliação 3. |
+| Aula 15: (04/12/2024) | 3hs | **Avaliação 3**. Entrega de notas, revisão para PF. |
 
 ---
 ### 4.1. Unidade de avaliação:

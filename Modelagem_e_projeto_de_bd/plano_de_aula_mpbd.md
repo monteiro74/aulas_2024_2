@@ -111,9 +111,9 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 10: (31/10/2024) | 3hs | **Avaliação 2**. [Slides sobre blockchain](https://docs.google.com/presentation/d/1AJOoLkml_HBIIpQefuqLxMrMq0q-dpqI9rG5NLR2ZiQ/view). [Hyperledger no projeto DREX](https://livecoins.com.br/chegada-do-drex-e-fim-do-dinheiro-em-especie-pode-virar-audiencia-publica-na-camara/). [Repositório sugerido sobre blockchain](https://github.com/monteiro74/blockchain). [Exemplo com Multichain blockchain](https://docs.google.com/presentation/d/1juQbP8CGSUHnIBXAHyiezNztMxdRy43x10lu0VE5CH4/view). [Artigo sobre ontologia](https://journals.ssau.ru/ontology/article/view/26995). |
 | Aula 11: (07/11/2024) | 3hs | [Blockchain](https://github.com/monteiro74/blockchain). [Diagrama ER no DBeaver](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/dbeaver_diagrama_er.png). [SQL Server ledger table](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/sql_server_ledger.png). [Script SQL Server ledger table](https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/script_sqlserver_v2.sql). |
 | Aula 12: (14/11/2024) | 3hs | [Blockchain, camada 2, sidechain, BSN](https://docs.google.com/presentation/d/1gSlbpRiesLJYE9Soz_bqIinwzUh4PMuzLpsh3Hn1s1Q/view). |
-| Aula 13: (21/11/2024) | 3hs | Tópicos finais sobre BD. |
-| Aula 14: (28/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
-| Aula 15: (29/11/2024) | 3hs | **Avaliação 3**. Entrega de provas e notas. Revisão para PF |
+| Aula 13: (21/11/2024) | 3hs | [AdventureWorksLT (Lightweight) full database backups](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksLT2022.bak). |
+| Aula 14: (28/11/2024) | 3hs | Revisão para avaliação 3. |
+| Aula 15: (05/12/2024) | 3hs | **Avaliação 3**. Entrega de provas e notas. Revisão para PF |
 
 
 ---
