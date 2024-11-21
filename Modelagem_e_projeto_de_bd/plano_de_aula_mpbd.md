@@ -115,6 +115,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 14: (28/11/2024) | 3hs | Finalização do projeto com ferramenta IDE/RAD, revisão para avaliação 3 |
 | Aula 15: (29/11/2024) | 3hs | **Avaliação 3**. Entrega de provas e notas. Revisão para PF |
 
+
 ---
 ### 4.1. Unidade de avaliação:
 
