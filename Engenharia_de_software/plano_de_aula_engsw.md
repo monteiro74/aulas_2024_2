@@ -3,10 +3,6 @@
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg)
 
 
-# EVENTO:
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/evento.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/evento.jpg)
-
 
 # Plano de ensino de Engenharia de Software
 

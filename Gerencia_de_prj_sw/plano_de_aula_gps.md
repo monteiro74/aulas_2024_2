@@ -2,14 +2,10 @@
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg)
 
-# EVENTO:
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/evento.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/evento.jpg)
 
 # Plano de ensino de Gerência de Projeto de Software
 
 - [ATUALIZAÇÃO:](#atualização)
-- [EVENTO:](#evento)
 - [Plano de ensino de Gerência de Projeto de Software](#plano-de-ensino-de-gerência-de-projeto-de-software)
   - [1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-312---gerência-de-projetos-de-software-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
