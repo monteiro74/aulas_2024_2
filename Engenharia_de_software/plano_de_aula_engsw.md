@@ -28,6 +28,7 @@
     - [5.2. Exemplos de documentações](#52-exemplos-de-documentações)
     - [5.3. Exemplo de diagram Warnier Orr](#53-exemplo-de-diagram-warnier-orr)
     - [5.4. Comparação Warnier-Orr x Jackson](#54-comparação-warnier-orr-x-jackson)
+      - [5.5. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.](#55-engenharia-de-software-e-sua-relação-com-a-multidisciplinaridade-interdisciplinaridade-e-transdisciplinaridade)
   - [6. Links para download de ferramentas para diagramação com UML:](#6-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [7. Artigos:](#7-artigos)
   - [8. Referências:](#8-referências)
@@ -283,6 +284,15 @@ flowchart TD
 | **Tipo de Sistema**                | Adequado para sistemas com processos complexos e interativos | Adequado para sistemas interativos com ênfase no controle de dados |
 | **Complexidade de Modelagem**      | Pode ser mais difícil devido à complexidade na decomposição | Foco na simplicidade e clareza no início do desenvolvimento |
 | **Abordagem Visual**               | Utiliza diagramas como a Decomposição Funcional e DFD | Usa diagramas como fluxos de dados e diagramas de controle |
+
+#### 5.5. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.
+
+| Aspecto                        | **Multidisciplinaridade**                                           | **Interdisciplinaridade**                                         | **Transdisciplinaridade**                                           |
+|---------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
+| **Definição**                   | Várias disciplinas trabalham paralelamente, sem interação profunda. | Integração ativa de várias disciplinas para resolver um problema. | Ultrapassa as fronteiras das disciplinas e integra saberes acadêmicos e não acadêmicos. |
+| **Integração entre Disciplinas**| Baixa: as disciplinas não se comunicam profundamente.              | Alta: há colaboração e troca de ideias entre as disciplinas.      | Muito alta: as fronteiras das disciplinas são transcendidas.       |
+| **Objetivo**                    | Agregar diferentes perspectivas, mas sem fusão de conhecimento.    | Criar uma compreensão mais completa e integrada do problema.     | Criar uma nova forma de entender o problema, englobando todos os aspectos envolvidos. |
+| **Exemplo**                     | Projetos onde diferentes áreas trabalham separadamente.            | Projetos que envolvem colaboração ativa entre as disciplinas.     | Projetos que envolvem a colaboração não apenas de acadêmicos, mas também das comunidades e experiências práticas. |
 
 
 
