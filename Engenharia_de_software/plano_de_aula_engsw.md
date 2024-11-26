@@ -8,7 +8,6 @@
 
 
 - [ATUALIZAÇÃO:](#atualização)
-- [EVENTO:](#evento)
 - [Plano de ensino de Engenharia de Software](#plano-de-ensino-de-engenharia-de-software)
   - [1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.2)](#1-turma-facet-snp-308---engenharia-de-software-60h---turma-01-20242)
     - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
@@ -27,6 +26,8 @@
   - [5. Exercício](#5-exercício)
     - [5.1. Início de documentação:](#51-início-de-documentação)
     - [5.2. Exemplos de documentações](#52-exemplos-de-documentações)
+    - [5.3. Exemplo de diagram Warnier Orr](#53-exemplo-de-diagram-warnier-orr)
+    - [5.4. Comparação Warnier-Orr x Jackson](#54-comparação-warnier-orr-x-jackson)
   - [6. Links para download de ferramentas para diagramação com UML:](#6-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [7. Artigos:](#7-artigos)
   - [8. Referências:](#8-referências)
@@ -239,6 +240,51 @@ Site: https://monteiro74.github.io/documentacao_uml/
 
 
 Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+### 5.3. Exemplo de diagram Warnier Orr
+
+```mermaid
+
+flowchart TD
+    A[Sistema de Vendas Online] --> B[Processamento de Pedidos]
+    B --> C[Verificar Estoque]
+    B --> D[Processar Pagamento]
+    B --> E[Enviar Confirmação]
+    C --> F[Estoque Disponível]
+    C --> G[Estoque Indisponível]
+    D --> H[Pagamento Aprovado]
+    D --> I[Pagamento Rejeitado]
+    E --> J[Enviar E-mail de Confirmação]
+    
+    F --> K[Continuar com o Pedido]
+    G --> L[Cancelar Pedido]
+    H --> M[Pedido Confirmado]
+    I --> N[Rejeitar Pedido]
+    L --> O[Fim]
+    M --> O
+    N --> O
+    J --> O
+
+```
+
+### 5.4. Comparação Warnier-Orr x Jackson
+
+
+| Característica                    | **Warnier-Orr Methodology**                         | **Jackson Methodology**                              |
+|------------------------------------|-----------------------------------------------------|------------------------------------------------------|
+| **Foco Principal**                 | Decomposição hierárquica de processos e dados       | Modelagem de dados e controle com ênfase em fluxos   |
+| **Enfoque Inicial**               | Decomposição funcional do sistema                   | Modelagem dos dados antes dos processos              |
+| **Modelagem de Dados**             | Dados representados de maneira hierárquica          | Modelagem hierárquica de dados, com ênfase em fluxo de dados |
+| **Modelagem de Processos**         | Decomposição dos processos em níveis hierárquicos   | Modelagem de processos através de fluxos de controle e dados |
+| **Diagramas Principais**           | Diagramas de Decomposição Funcional, DFD, ER, Fluxo de Controle | Diagramas de Fluxo de Dados, Diagramas de Controle, Estrutura de Dados |
+| **Fase de Desenvolvimento**       | Enfatiza a decomposição do sistema em componentes menores | Separação entre dados e controle, começando com dados |
+| **Hierarquia**                     | Forte ênfase na decomposição hierárquica de processos | Enfatiza a divisão clara entre dados e processos |
+| **Verificação e Validação**        | Menos focado, mais centrado na estrutura do sistema | Foco explícito na verificação e validação dos requisitos |
+| **Tipo de Sistema**                | Adequado para sistemas com processos complexos e interativos | Adequado para sistemas interativos com ênfase no controle de dados |
+| **Complexidade de Modelagem**      | Pode ser mais difícil devido à complexidade na decomposição | Foco na simplicidade e clareza no início do desenvolvimento |
+| **Abordagem Visual**               | Utiliza diagramas como a Decomposição Funcional e DFD | Usa diagramas como fluxos de dados e diagramas de controle |
+
+
 
 ---
 ## 6. Links para download de ferramentas para diagramação com UML:
