@@ -29,7 +29,7 @@
     - [5.2. Exemplos de documentações](#52-exemplos-de-documentações)
     - [5.3. Exemplo de diagram Warnier Orr](#53-exemplo-de-diagram-warnier-orr)
     - [5.4. Comparação Warnier-Orr x Jackson](#54-comparação-warnier-orr-x-jackson)
-      - [5.5. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.](#55-engenharia-de-software-e-sua-relação-com-a-multidisciplinaridade-interdisciplinaridade-e-transdisciplinaridade)
+    - [5.5. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.](#55-engenharia-de-software-e-sua-relação-com-a-multidisciplinaridade-interdisciplinaridade-e-transdisciplinaridade)
   - [6. Links para download de ferramentas para diagramação com UML:](#6-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [7. Artigos:](#7-artigos)
   - [8. Referências:](#8-referências)
@@ -329,7 +329,7 @@ flowchart TD
 | **Complexidade de Modelagem**      | Pode ser mais difícil devido à complexidade na decomposição | Foco na simplicidade e clareza no início do desenvolvimento |
 | **Abordagem Visual**               | Utiliza diagramas como a Decomposição Funcional e DFD | Usa diagramas como fluxos de dados e diagramas de controle |
 
-#### 5.5. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.
+### 5.5. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.
 
 | Aspecto                        | **Multidisciplinaridade**                                           | **Interdisciplinaridade**                                         | **Transdisciplinaridade**                                           |
 |---------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
