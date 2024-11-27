@@ -331,6 +331,8 @@ flowchart TD
 
 ### 5.5. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.
 
+
+
 | Aspecto                        | **Multidisciplinaridade**                                           | **Interdisciplinaridade**                                         | **Transdisciplinaridade**                                           |
 |---------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
 | **Definição**                   | Várias disciplinas trabalham paralelamente, sem interação profunda. | Integração ativa de várias disciplinas para resolver um problema. | Ultrapassa as fronteiras das disciplinas e integra saberes acadêmicos e não acadêmicos. |
