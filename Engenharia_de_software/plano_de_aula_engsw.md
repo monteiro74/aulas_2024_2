@@ -200,7 +200,7 @@ Avaliação 3: 03/12/2024 <br>
 |24|VITOR E| https://sourceforge.net/projects/vitor-emanuel/	|
 |25|VITOR L| https://sourceforge.net/projects/vitor-linsbinski-engsw/ |
 |26|VITOR R|	|
-|27|WESLEY |	|
+|27|WESLEY | https://sourceforge.net/projects/wesley-mafra/	|
 |28|WILLEN | https://sourceforge.net/p/willen-silva/code/ci/main/tree/	|
 |29|WILLIAM | |
 
