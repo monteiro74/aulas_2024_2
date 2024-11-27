@@ -20,9 +20,10 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
-    - [4.2. Trabalhos:](#42-trabalhos)
-    - [4.3. Prompts utilizados](#43-prompts-utilizados)
-    - [4.4. Desenvolvimento da licença](#44-desenvolvimento-da-licença)
+    - [4.2. Trabalhos (projeto do sistema da petshop)](#42-trabalhos-projeto-do-sistema-da-petshop)
+    - [4.3. Projeto da petshop no Sourceforge](#43-projeto-da-petshop-no-sourceforge)
+    - [4.4. Prompts utilizados](#44-prompts-utilizados)
+    - [4.5. Desenvolvimento da licença](#45-desenvolvimento-da-licença)
   - [5. Exercício](#5-exercício)
     - [5.1. Início de documentação:](#51-início-de-documentação)
     - [5.2. Exemplos de documentações](#52-exemplos-de-documentações)
@@ -126,7 +127,9 @@ Avaliação 1: 17/09/2024 <br>
 Avaliação 2: 29/10/2024 <br>
 Avaliação 3: 03/12/2024 <br>
 
-### 4.2. Trabalhos:
+
+
+### 4.2. Trabalhos (projeto do sistema da petshop)
 
 
 
@@ -164,7 +167,48 @@ Avaliação 3: 03/12/2024 <br>
 
 
 
-### 4.3. Prompts utilizados
+
+### 4.3. Projeto da petshop no Sourceforge
+
+
+
+|#| Aluno | Repositório |
+| -- | ----- | ----------- |
+|1|ANGEL|	https://sourceforge.net/projects/angel-rafael/ |
+|2|BRUNO|	|
+|3|CAMILA | https://sourceforge.net/projects/camila-weber/	|
+|4|CRISTIANO |	|
+|5|DARY |	|
+|6|ELBER | https://sourceforge.net/projects/elber-alves/	|
+|7|EMANUEL | https://sourceforge.net/projects/emanuel-dutra/	|
+|8|ERIK |	|
+|9|ESTHER |	https://sourceforge.net/p/esthertavares/code/ci/main/tree/ |
+|10|GABRIEL |	|
+|11|GUILHERME |	https://sourceforge.net/projects/guilherme-henrique/ |
+|12|GUILLERMO | https://sourceforge.net/projects/guillermo-gilioli-engsw/files/	|
+|13|ÍCARO | https://sourceforge.net/projects/icaro-reis/	|
+|14|JANAINA |	https://sourceforge.net/projects/aulaengdesoftware/ |
+|15|KAIKY | https://sourceforge.net/projects/kaiky-marcal/	|
+|16|KENNY |	https://sourceforge.net/p/kenny-amabile-engsw/code/ci/main/tree/ |
+|17|LUIZ |	|
+|18|MARCOS |	|
+|19|MATHEUS |	|
+|20|NATAN |	|
+|21|NEILSON |	|
+|22|OTAVIO | https://sourceforge.net/projects/otavio-maniezzo/  |
+|23|SANDY |	https://sourceforge.net/p/sandy-honda/code/ci/main/tree/ |
+|24|VITOR E| https://sourceforge.net/projects/vitor-emanuel/	|
+|25|VITOR L| https://sourceforge.net/projects/vitor-linsbinski-engsw/ |
+|26|VITOR R|	|
+|27|WESLEY |	|
+|28|WILLEN | https://sourceforge.net/p/willen-silva/code/ci/main/tree/	|
+|29|WILLIAM | |
+
+
+
+
+
+### 4.4. Prompts utilizados
 
 | | Etapa do processo | Prompts |
 |-|-------|--------|
@@ -187,7 +231,7 @@ Diagrama de casos de uso: Use https://app.diagrams.net/ para gerar o diagrama.
 
 
 
-### 4.4. Desenvolvimento da licença
+### 4.5. Desenvolvimento da licença
 
 Passo a passo para desenvolver a licença para o repositório:
 https://chooser-beta.creativecommons.org/
