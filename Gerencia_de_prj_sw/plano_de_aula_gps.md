@@ -25,6 +25,7 @@
     - [5.2. Aula 11: exemplo de formulário](#52-aula-11-exemplo-de-formulário)
   - [6. Ferramentas comentadas](#6-ferramentas-comentadas)
   - [7. Diferença entre projeto técnico e projeto executivo (gerêncial):](#7-diferença-entre-projeto-técnico-e-projeto-executivo-gerêncial)
+  - [7.1. Comparação de padrões](#71-comparação-de-padrões)
   - [8. Artigos:](#8-artigos)
   - [9. Referências:](#9-referências)
   - [10. Demais Disciplinas:](#10-demais-disciplinas)
@@ -109,6 +110,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 13: (13/11/2024) | 3hs | [ROI, análise de tickets, go-live, teste de usabilidade](https://docs.google.com/presentation/d/1vd9JGtS0-YACRteJysDqGT2KeAtZa1vjwIHwQTAvB70/view). [Download do Wordpress](https://wordpress.org/download/releases/6-6/). [Download do Joomla](https://downloads.joomla.org/br/latest). |
 | Aula 14: (27/11/2024) | 3hs | Revisão para avaliação 3. |
 | Aula 15: (04/12/2024) | 3hs | **Avaliação 3**. Entrega de notas, revisão para PF. |
+
+
 
 ---
 ### 4.1. Unidade de avaliação:
@@ -210,6 +213,26 @@ PF: __/__/2024 <br>
 
 
 
+## 7.1. Comparação de padrões
+
+| Aspecto                      | ISO 21500                                | PMBOK                                     |
+|------------------------------|------------------------------------------|-------------------------------------------|
+| **Origem**                    | Desenvolvida pela **ISO** (International Organization for Standardization) | Desenvolvido pelo **PMI** (Project Management Institute) |
+| **Escopo**                    | Diretrizes gerais e de alto nível para gestão de projetos, aplicáveis a qualquer tipo de projeto | Guia detalhado e estruturado sobre a gestão de projetos, com foco em boas práticas e processos específicos |
+| **Aplicabilidade**            | Flexível, aplicável a qualquer setor e tipo de projeto | Focado em profissionais de gestão de projetos e organizações que seguem as práticas do PMI |
+| **Estrutura**                 | Simples, com grupos de processos gerais (Iniciação, Planejamento, Execução, Monitoramento e Controle, Encerramento) | Detalhado, com áreas de conhecimento e processos específicos que se inter-relacionam ao longo do ciclo de vida do projeto |
+| **Objetivo**                  | Fornecer uma visão geral de boas práticas na gestão de projetos, sem detalhar ferramentas e técnicas | Prover um conjunto detalhado de práticas, ferramentas e técnicas específicas para a gestão de projetos |
+| **Detalhamento**              | Diretrizes de alto nível, sem detalhamento extenso sobre ferramentas e técnicas | Descrição detalhada de processos, áreas de conhecimento e como cada processo interage |
+| **Certificação**              | Não oferece certificação diretamente, mas pode ser base para outras certificações organizacionais | Base para certificação **PMP (Project Management Professional)** e outros treinamentos focados em gestão de projetos |
+| **Flexibilidade**             | Alta flexibilidade, aplicável em diversas organizações e setores | Mais prescritivo, mas com flexibilidade para adaptação, especialmente nas organizações PMI |
+| **Foco**                       | Orientação para uma gestão de projetos mais ampla e global | Orientação para a implementação detalhada e prática de gestão de projetos |
+| **Utilização Global**         | Aplicada globalmente, aceitação internacional como diretriz para gestão de projetos | Amplamente utilizada, especialmente em organizações com foco em certificações PMI e gestão formal de projetos |
+| **Complexidade**              | Mais simples e acessível para qualquer organização | Mais complexa, focada em profissionais experientes em gestão de projetos |
+| **Abordagem**                 | Focada na visão global e na integração de práticas de gestão de projetos | Focada em práticas detalhadas e bem definidas para cada aspecto da gestão de projetos |
+
+
+
+---
 Exemplo de tabela, código em markdown, pode ser colado na página no github:
 
 \begin{table}[h]
