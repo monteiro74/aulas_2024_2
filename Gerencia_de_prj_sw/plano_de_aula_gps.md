@@ -153,7 +153,7 @@ PF: __/__/2024 <br>
 |4|Felipe   | https://chris-ti.atlassian.net/wiki/home	|  |
 |5|Gabriel  |	  |  |
 |6|Gustavo  | 	|  |
-|7|Janaina  |   | https://aulagps.atlassian.net/jira/software/projects/PDDS/boards/1 |
+|7|Janaina  | https://janaina-lima.atlassian.net/wiki/home  | https://aulagps.atlassian.net/jira/software/projects/PDDS/boards/1 |
 |8|João     |	  |  |
 |9|Julio    |   |  |
 |10|Larissa |   |  |
