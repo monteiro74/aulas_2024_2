@@ -190,7 +190,7 @@ Avaliação 3: 03/12/2024 <br>
 |14|JANAINA |	https://sourceforge.net/projects/aulaengdesoftware/ |
 |15|KAIKY | https://sourceforge.net/projects/kaiky-marcal/	|
 |16|KENNY |	https://sourceforge.net/p/kenny-amabile-engsw/code/ci/main/tree/ |
-|17|LUIZ |	|
+|17|LUIZ | https://sourceforge.net/projects/luiz-mota/	|
 |18|MARCOS |	|
 |19|MATHEUS |	|
 |20|NATAN |	|
