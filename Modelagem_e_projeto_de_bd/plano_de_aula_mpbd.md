@@ -137,9 +137,8 @@ PF: __/__/2024 <br>
 
 1. [Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software](https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575)
 2. [O uso da abordagem sistêmica na modelagem de banco de dados](https://www.aedb.br/seget/arquivos/artigos12/65416864.pdf)
-3. [Modelagem dos processos de negócio e especificação de um sistema de controle da produção na indústria de auto-adesivos](https://www.scielo.br/j/jistm/a/Hh43ZMbBrbfRWZZtYGs7tSk/#)
-4. [Uma proposta de aplicação de business intelligence no chão-de-fábrica](https://www.scielo.br/j/gp/a/ydtVGxxBtD65zcx4VmJDJGw/?format=pdf)
-5. [Os desafios daAdministração Pública na disponibilização de dados sensíveis](https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf)
+3. [Uma proposta de aplicação de business intelligence no chão-de-fábrica](https://www.scielo.br/j/gp/a/ydtVGxxBtD65zcx4VmJDJGw/?format=pdf)
+4. [Os desafios da administração pública na disponibilização de dados sensíveis](https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf)
 
 
 
