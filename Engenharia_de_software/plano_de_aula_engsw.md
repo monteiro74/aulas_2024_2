@@ -181,7 +181,7 @@ Avaliação 3: 03/12/2024 <br>
 |5|DARY |	|
 |6|ELBER | https://sourceforge.net/projects/elber-alves/	|
 |7|EMANUEL | https://sourceforge.net/projects/emanuel-dutra/	|
-|8|ERIK |	|
+|8|ERIK | https://sourceforge.net/p/erik-morais/code/ci/main/tree/	|
 |9|ESTHER |	https://sourceforge.net/p/esthertavares/code/ci/main/tree/ |
 |10|GABRIEL |	|
 |11|GUILHERME |	https://sourceforge.net/projects/guilherme-henrique/ |
