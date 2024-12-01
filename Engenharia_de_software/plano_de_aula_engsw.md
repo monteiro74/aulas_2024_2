@@ -24,16 +24,18 @@
     - [4.3. Projeto da petshop no Sourceforge](#43-projeto-da-petshop-no-sourceforge)
     - [4.4. Prompts utilizados](#44-prompts-utilizados)
     - [4.5. Desenvolvimento da licença](#45-desenvolvimento-da-licença)
+    - [4.6. Exemplo de diagram Warnier Orr](#46-exemplo-de-diagram-warnier-orr)
+    - [4.7. Comparação Warnier-Orr x Jackson](#47-comparação-warnier-orr-x-jackson)
+    - [4.8. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.](#48-engenharia-de-software-e-sua-relação-com-a-multidisciplinaridade-interdisciplinaridade-e-transdisciplinaridade)
   - [5. Exercício](#5-exercício)
     - [5.1. Início de documentação:](#51-início-de-documentação)
     - [5.2. Exemplos de documentações](#52-exemplos-de-documentações)
-    - [5.3. Exemplo de diagram Warnier Orr](#53-exemplo-de-diagram-warnier-orr)
-    - [5.4. Comparação Warnier-Orr x Jackson](#54-comparação-warnier-orr-x-jackson)
-    - [5.5. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.](#55-engenharia-de-software-e-sua-relação-com-a-multidisciplinaridade-interdisciplinaridade-e-transdisciplinaridade)
   - [6. Links para download de ferramentas para diagramação com UML:](#6-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [7. Artigos:](#7-artigos)
   - [8. Referências:](#8-referências)
     - [8.1. Livro sobre .Net Maui](#81-livro-sobre-net-maui)
+    - [8.2. Tutorial sobre .Net Maui](#82-tutorial-sobre-net-maui)
+    - [8.3. Livros sobre Scrum (em PDF)](#83-livros-sobre-scrum-em-pdf)
   - [9. Demais Disciplinas:](#9-demais-disciplinas)
   - [10. Lista de ferramentas:](#10-lista-de-ferramentas)
   - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
@@ -243,6 +245,89 @@ Código para inserir as imagens da licença:
 <img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" height="20px"  width="20px"/> 
 ```
 
+
+
+### 4.6. Exemplo de diagram Warnier Orr
+
+```mermaid
+
+flowchart TD
+    A[Sistema de Vendas Online] --> B[Processamento de Pedidos]
+    B --> C[Verificar Estoque]
+    B --> D[Processar Pagamento]
+    B --> E[Enviar Confirmação]
+    C --> F[Estoque Disponível]
+    C --> G[Estoque Indisponível]
+    D --> H[Pagamento Aprovado]
+    D --> I[Pagamento Rejeitado]
+    E --> J[Enviar E-mail de Confirmação]
+    
+    F --> K[Continuar com o Pedido]
+    G --> L[Cancelar Pedido]
+    H --> M[Pedido Confirmado]
+    I --> N[Rejeitar Pedido]
+    L --> O[Fim]
+    M --> O
+    N --> O
+    J --> O
+
+```
+
+### 4.7. Comparação Warnier-Orr x Jackson
+
+
+| Característica                    | **Warnier-Orr Methodology**                         | **Jackson Methodology**                              |
+|------------------------------------|-----------------------------------------------------|------------------------------------------------------|
+| **Foco Principal**                 | Decomposição hierárquica de processos e dados       | Modelagem de dados e controle com ênfase em fluxos   |
+| **Enfoque Inicial**               | Decomposição funcional do sistema                   | Modelagem dos dados antes dos processos              |
+| **Modelagem de Dados**             | Dados representados de maneira hierárquica          | Modelagem hierárquica de dados, com ênfase em fluxo de dados |
+| **Modelagem de Processos**         | Decomposição dos processos em níveis hierárquicos   | Modelagem de processos através de fluxos de controle e dados |
+| **Diagramas Principais**           | Diagramas de Decomposição Funcional, DFD, ER, Fluxo de Controle | Diagramas de Fluxo de Dados, Diagramas de Controle, Estrutura de Dados |
+| **Fase de Desenvolvimento**       | Enfatiza a decomposição do sistema em componentes menores | Separação entre dados e controle, começando com dados |
+| **Hierarquia**                     | Forte ênfase na decomposição hierárquica de processos | Enfatiza a divisão clara entre dados e processos |
+| **Verificação e Validação**        | Menos focado, mais centrado na estrutura do sistema | Foco explícito na verificação e validação dos requisitos |
+| **Tipo de Sistema**                | Adequado para sistemas com processos complexos e interativos | Adequado para sistemas interativos com ênfase no controle de dados |
+| **Complexidade de Modelagem**      | Pode ser mais difícil devido à complexidade na decomposição | Foco na simplicidade e clareza no início do desenvolvimento |
+| **Abordagem Visual**               | Utiliza diagramas como a Decomposição Funcional e DFD | Usa diagramas como fluxos de dados e diagramas de controle |
+
+### 4.8. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.
+
+
+
+| Aspecto                        | **Multidisciplinaridade**                                           | **Interdisciplinaridade**                                         | **Transdisciplinaridade**                                           |
+|---------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
+| **Definição**                   | Várias disciplinas trabalham paralelamente, sem interação profunda. | Integração ativa de várias disciplinas para resolver um problema. | Ultrapassa as fronteiras das disciplinas e integra saberes acadêmicos e não acadêmicos. |
+| **Integração entre Disciplinas**| Baixa: as disciplinas não se comunicam profundamente.              | Alta: há colaboração e troca de ideias entre as disciplinas.      | Muito alta: as fronteiras das disciplinas são transcendidas.       |
+| **Objetivo**                    | Agregar diferentes perspectivas, mas sem fusão de conhecimento.    | Criar uma compreensão mais completa e integrada do problema.     | Criar uma nova forma de entender o problema, englobando todos os aspectos envolvidos. |
+| **Exemplo**                     | Projetos onde diferentes áreas trabalham separadamente.            | Projetos que envolvem colaboração ativa entre as disciplinas.     | Projetos que envolvem a colaboração não apenas de acadêmicos, mas também das comunidades e experiências práticas. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ## 5. Exercício
 
@@ -287,61 +372,10 @@ Site: https://monteiro74.github.io/documentacao_uml/
 
 Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
-### 5.3. Exemplo de diagram Warnier Orr
 
-```mermaid
+Exemplo de diagramas com PlantUML: https://real-world-plantuml.com/?type=component
 
-flowchart TD
-    A[Sistema de Vendas Online] --> B[Processamento de Pedidos]
-    B --> C[Verificar Estoque]
-    B --> D[Processar Pagamento]
-    B --> E[Enviar Confirmação]
-    C --> F[Estoque Disponível]
-    C --> G[Estoque Indisponível]
-    D --> H[Pagamento Aprovado]
-    D --> I[Pagamento Rejeitado]
-    E --> J[Enviar E-mail de Confirmação]
-    
-    F --> K[Continuar com o Pedido]
-    G --> L[Cancelar Pedido]
-    H --> M[Pedido Confirmado]
-    I --> N[Rejeitar Pedido]
-    L --> O[Fim]
-    M --> O
-    N --> O
-    J --> O
-
-```
-
-### 5.4. Comparação Warnier-Orr x Jackson
-
-
-| Característica                    | **Warnier-Orr Methodology**                         | **Jackson Methodology**                              |
-|------------------------------------|-----------------------------------------------------|------------------------------------------------------|
-| **Foco Principal**                 | Decomposição hierárquica de processos e dados       | Modelagem de dados e controle com ênfase em fluxos   |
-| **Enfoque Inicial**               | Decomposição funcional do sistema                   | Modelagem dos dados antes dos processos              |
-| **Modelagem de Dados**             | Dados representados de maneira hierárquica          | Modelagem hierárquica de dados, com ênfase em fluxo de dados |
-| **Modelagem de Processos**         | Decomposição dos processos em níveis hierárquicos   | Modelagem de processos através de fluxos de controle e dados |
-| **Diagramas Principais**           | Diagramas de Decomposição Funcional, DFD, ER, Fluxo de Controle | Diagramas de Fluxo de Dados, Diagramas de Controle, Estrutura de Dados |
-| **Fase de Desenvolvimento**       | Enfatiza a decomposição do sistema em componentes menores | Separação entre dados e controle, começando com dados |
-| **Hierarquia**                     | Forte ênfase na decomposição hierárquica de processos | Enfatiza a divisão clara entre dados e processos |
-| **Verificação e Validação**        | Menos focado, mais centrado na estrutura do sistema | Foco explícito na verificação e validação dos requisitos |
-| **Tipo de Sistema**                | Adequado para sistemas com processos complexos e interativos | Adequado para sistemas interativos com ênfase no controle de dados |
-| **Complexidade de Modelagem**      | Pode ser mais difícil devido à complexidade na decomposição | Foco na simplicidade e clareza no início do desenvolvimento |
-| **Abordagem Visual**               | Utiliza diagramas como a Decomposição Funcional e DFD | Usa diagramas como fluxos de dados e diagramas de controle |
-
-### 5.5. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.
-
-
-
-| Aspecto                        | **Multidisciplinaridade**                                           | **Interdisciplinaridade**                                         | **Transdisciplinaridade**                                           |
-|---------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------|
-| **Definição**                   | Várias disciplinas trabalham paralelamente, sem interação profunda. | Integração ativa de várias disciplinas para resolver um problema. | Ultrapassa as fronteiras das disciplinas e integra saberes acadêmicos e não acadêmicos. |
-| **Integração entre Disciplinas**| Baixa: as disciplinas não se comunicam profundamente.              | Alta: há colaboração e troca de ideias entre as disciplinas.      | Muito alta: as fronteiras das disciplinas são transcendidas.       |
-| **Objetivo**                    | Agregar diferentes perspectivas, mas sem fusão de conhecimento.    | Criar uma compreensão mais completa e integrada do problema.     | Criar uma nova forma de entender o problema, englobando todos os aspectos envolvidos. |
-| **Exemplo**                     | Projetos onde diferentes áreas trabalham separadamente.            | Projetos que envolvem colaboração ativa entre as disciplinas.     | Projetos que envolvem a colaboração não apenas de acadêmicos, mas também das comunidades e experiências práticas. |
-
-
+Exemplo de diagramas com C4: https://github.com/plantuml-stdlib/C4-PlantUML
 
 ---
 ## 6. Links para download de ferramentas para diagramação com UML:
@@ -387,11 +421,26 @@ Github Desktop <<-- Recomendo !
 
 ### 8.1. Livro sobre .Net Maui
 
-Versão em PDF:
-[Enterprise Application Patterns Using .NET MAUI (PDF)](https://dotnet.microsoft.com/pt-br/download/e-book/maui/pdf)
+Versão em PDF: [Enterprise Application Patterns Using .NET MAUI (PDF)](https://dotnet.microsoft.com/pt-br/download/e-book/maui/pdf)
 
-Versão em html:
-[Enterprise Application Patterns Using .NET MAUI](https://learn.microsoft.com/pt-br/dotnet/architecture/maui/)
+Versão em html: [Enterprise Application Patterns Using .NET MAUI](https://learn.microsoft.com/pt-br/dotnet/architecture/maui/)
+
+### 8.2. Tutorial sobre .Net Maui
+
+Parte 1: [Criar seu primeiro aplicativo](https://learn.microsoft.com/pt-br/dotnet/maui/get-started/first-app?view=net-maui-9.0&tabs=vswin&pivots=devices-android)
+
+Parte 2: [Criar um aplicativo .NET MAUI](https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-app/?view=net-maui-9.0)
+
+Parte 3: [Atualizar seu aplicativo com conceitos de MVVM](https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-mvvm/?view=net-maui-9.0)
+
+### 8.3. Livros sobre Scrum (em PDF)
+
+https://www.infoq.com/scrum/minibooks/
+
+https://www.infoq.com/lean/minibooks/
+
+https://www.infoq.com/minibooks/emag-business-design-technology/
+
 
 ## 9. Demais Disciplinas:
 
@@ -402,6 +451,8 @@ Versão em html:
 
 ---
 ## 10. Lista de ferramentas:
+
+
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
