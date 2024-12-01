@@ -3,7 +3,7 @@
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg)
 
 
-
+---
 # Plano de ensino de Engenharia de Software
 
 
@@ -72,9 +72,11 @@ Site da disciplina: https://sites.google.com/unemat.br/professoremiliano/inicio
 
 ### 1.5. Procedimentos de avaliação de aprendizagem: 
 
-Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não). Provas de 2ª chamada devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é discursiva, escrita (tipo canetão).
+**Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não). 
 
-A carga horária EAD será realizada via leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala), este material poderá estar na sua avaliação  (e disponibilizado no site do professor e na página da disciplina no github).
+**Provas de 2ª chamada** devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é **discursiva, escrita (tipo canetão)**.
+
+A **carga horária EAD será realizada via leitura de artigos** postados pelo professor (ou videos correlatos aos assuntos abordados em sala), este material poderá estar na sua avaliação  (e disponibilizado no site do professor e na página da disciplina no github).
 
 A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá o conteúdo das aulas 6 a 9, a 3ª avaliação terá o conteúdo das aulas 11 a 13 e os artigos selecionados. Cada uma das três avaliações vale 0 à 10,0.A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final.  O exame final será aplicado após a avaliação 3.
 
@@ -128,7 +130,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 
----
+
 ### 4.1. Unidade de avaliação:
 
 Avaliação 1: 17/09/2024 <br>
@@ -213,7 +215,7 @@ Avaliação 3: 03/12/2024 <br>
 |29|WILLIAM | |
 
 
-
+---
 ## 5. Conteúdo complementar
 
 ### 5.1. Exemplo de diagram Warnier Orr
@@ -357,9 +359,6 @@ Código para inserir as imagens da licença:
 
 
 
-
-
-
 ---
 ## 7. Links para download de ferramentas para diagramação com UML:
 
@@ -381,6 +380,7 @@ Visual Studio Code  <<-- Recomendo !
  
 Github Desktop <<-- Recomendo !
 
+Draw.io --> https://app.diagrams.net/
 
 ---
 ## 8. Artigos:
@@ -416,6 +416,7 @@ Parte 2: [Criar um aplicativo .NET MAUI](https://learn.microsoft.com/pt-br/dotne
 
 Parte 3: [Atualizar seu aplicativo com conceitos de MVVM](https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-mvvm/?view=net-maui-9.0)
 
+
 ### 9.3. Livros sobre Scrum (em PDF)
 
 https://www.infoq.com/scrum/minibooks/
@@ -424,7 +425,7 @@ https://www.infoq.com/lean/minibooks/
 
 https://www.infoq.com/minibooks/emag-business-design-technology/
 
-
+---
 ## 10. Demais Disciplinas:
 
 1. Engenharia de Software https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
