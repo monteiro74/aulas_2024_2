@@ -31,19 +31,19 @@
     - [6.1. Início de documentação:](#61-início-de-documentação)
     - [6.2. Prompts utilizados no trabalho do projeto petshop](#62-prompts-utilizados-no-trabalho-do-projeto-petshop)
     - [6.3. Desenvolvimento da licença](#63-desenvolvimento-da-licença)
-  - [6. Links para download de ferramentas para diagramação com UML:](#6-links-para-download-de-ferramentas-para-diagramação-com-uml)
-  - [7. Artigos:](#7-artigos)
-  - [8. Referências:](#8-referências)
-    - [8.1. Livro sobre .Net Maui](#81-livro-sobre-net-maui)
-    - [8.2. Tutorial sobre .Net Maui](#82-tutorial-sobre-net-maui)
-    - [8.3. Livros sobre Scrum (em PDF)](#83-livros-sobre-scrum-em-pdf)
-  - [9. Demais Disciplinas:](#9-demais-disciplinas)
-  - [10. Lista de ferramentas:](#10-lista-de-ferramentas)
-  - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
-  - [12. Cursos gratuítos:](#12-cursos-gratuítos)
-  - [13. Como estudar](#13-como-estudar)
-  - [14. Videos recomendados](#14-videos-recomendados)
-  - [15. Eventos](#15-eventos)
+  - [7. Links para download de ferramentas para diagramação com UML:](#7-links-para-download-de-ferramentas-para-diagramação-com-uml)
+  - [8. Artigos:](#8-artigos)
+  - [9. Referências:](#9-referências)
+    - [9.1. Livro sobre .Net Maui](#91-livro-sobre-net-maui)
+    - [9.2. Tutorial sobre .Net Maui](#92-tutorial-sobre-net-maui)
+    - [9.3. Livros sobre Scrum (em PDF)](#93-livros-sobre-scrum-em-pdf)
+  - [10. Demais Disciplinas:](#10-demais-disciplinas)
+  - [11. Lista de ferramentas:](#11-lista-de-ferramentas)
+  - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
+  - [13. Cursos gratuítos:](#13-cursos-gratuítos)
+  - [14. Como estudar](#14-como-estudar)
+  - [15. Videos recomendados](#15-videos-recomendados)
+  - [16. Eventos](#16-eventos)
 
 
 
@@ -357,7 +357,7 @@ Código para inserir as imagens da licença:
 
 
 ---
-## 6. Links para download de ferramentas para diagramação com UML:
+## 7. Links para download de ferramentas para diagramação com UML:
 
 [Papyrus](https://eclipse.dev/papyrus/download.html)
 
@@ -379,7 +379,7 @@ Github Desktop <<-- Recomendo !
 
 
 ---
-## 7. Artigos:
+## 8. Artigos:
 
 1. [Definição de requisitos de software baseada numa arquitetura de modelagem de negócios](https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/)
 2. [A aplicação da Linguagem de Modelagem Unificada (UML) para o suporte ao projeto de sistemas computacionais dentro de um modelo de referência](https://www.scielo.br/j/gp/a/RRQQ7mKTFztQXK9Sz7BKtWQ/)
@@ -389,7 +389,7 @@ Github Desktop <<-- Recomendo !
 
 
 ---
-## 8. Referências:
+## 9. Referências:
 
 * PRESSMAN, Roger S.. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED, 2011. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41<br>
 * SOMMERVILLE, Ian. Engenharia de Software. 9° Ed. São Paulo: Pearson, 2011.<br>
@@ -398,13 +398,13 @@ Github Desktop <<-- Recomendo !
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012. https://integrada.minhabiblioteca.com.br/books/9788536519418. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 
 
-### 8.1. Livro sobre .Net Maui
+### 9.1. Livro sobre .Net Maui
 
 Versão em PDF: [Enterprise Application Patterns Using .NET MAUI (PDF)](https://dotnet.microsoft.com/pt-br/download/e-book/maui/pdf)
 
 Versão em html: [Enterprise Application Patterns Using .NET MAUI](https://learn.microsoft.com/pt-br/dotnet/architecture/maui/)
 
-### 8.2. Tutorial sobre .Net Maui
+### 9.2. Tutorial sobre .Net Maui
 
 Parte 1: [Criar seu primeiro aplicativo](https://learn.microsoft.com/pt-br/dotnet/maui/get-started/first-app?view=net-maui-9.0&tabs=vswin&pivots=devices-android)
 
@@ -412,7 +412,7 @@ Parte 2: [Criar um aplicativo .NET MAUI](https://learn.microsoft.com/pt-br/dotne
 
 Parte 3: [Atualizar seu aplicativo com conceitos de MVVM](https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-mvvm/?view=net-maui-9.0)
 
-### 8.3. Livros sobre Scrum (em PDF)
+### 9.3. Livros sobre Scrum (em PDF)
 
 https://www.infoq.com/scrum/minibooks/
 
@@ -421,7 +421,7 @@ https://www.infoq.com/lean/minibooks/
 https://www.infoq.com/minibooks/emag-business-design-technology/
 
 
-## 9. Demais Disciplinas:
+## 10. Demais Disciplinas:
 
 1. Engenharia de Software https://github.com/monteiro74/aulas_2024_2/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
 2. Gestão de projeto de software https://github.com/monteiro74/aulas_2024_2/blob/main/Gerencia_de_software/plano_de_aula_gps.md
@@ -429,7 +429,7 @@ https://www.infoq.com/minibooks/emag-business-design-technology/
 
 
 ---
-## 10. Lista de ferramentas:
+## 11. Lista de ferramentas:
 
 Ferramentas diversas para uso no desenvolvimento de sistemas:
 
@@ -437,14 +437,14 @@ Ferramentas diversas para uso no desenvolvimento de sistemas:
 
 
 ---
-## 11. Curiosidade... onde adquirir livros baratos? 
+## 12. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-## 12. Cursos gratuítos:
+## 13. Cursos gratuítos:
 
 * [Receita para Levantar Requisitos de Software](https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/)
 
@@ -454,14 +454,14 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 
 ---
-## 13. Como estudar
+## 14. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
 
 
 ---
-## 14. Videos recomendados
+## 15. Videos recomendados
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
@@ -476,7 +476,7 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 6. Vídeo recomendado para quem tem que fazer análise de requisitos ou entrvistas de forma remota [Video Gestão de times e reuniões virtuais produtivas: cases, técnicas e estratégias](https://www.youtube.com/watch?v=1xgM9ux39Ww).
 
 ---
-## 15. Eventos
+## 16. Eventos
 
 https://materiais.agrihub.org.br/sementes-pecuaria?utm_campaign=sementes_pecuaria_e-mail_03_-
 
