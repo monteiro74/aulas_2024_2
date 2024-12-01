@@ -152,7 +152,7 @@ PF: __/__/2024 <br>
 |1|Alex     | https://unemat-team-alexsilva.atlassian.net/wiki/home	|  |
 |2|Carlos   |   |  |
 |3|Ewerton  | 	|  |
-|4|Felipe   | https://chris-ti.atlassian.net/wiki/home	|  |
+|4|Felipe   | https://chris-ti.atlassian.net/wiki/home	| https://chris-ti.atlassian.net/jira/software/projects/ADT |
 |5|Gabriel  |	  |  |
 |6|Gustavo  | 	|  |
 |7|Janaina  | https://janaina-lima.atlassian.net/wiki/home  | https://aulagps.atlassian.net/jira/software/projects/PDDS/boards/1 |
