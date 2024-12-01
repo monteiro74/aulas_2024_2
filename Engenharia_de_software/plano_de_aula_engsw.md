@@ -20,16 +20,17 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Unidade de avaliação:](#41-unidade-de-avaliação)
-    - [4.2. Trabalhos (projeto do sistema da petshop)](#42-trabalhos-projeto-do-sistema-da-petshop)
-    - [4.3. Projeto da petshop no Sourceforge](#43-projeto-da-petshop-no-sourceforge)
-    - [4.4. Prompts utilizados](#44-prompts-utilizados)
-    - [4.5. Desenvolvimento da licença](#45-desenvolvimento-da-licença)
-    - [4.6. Exemplo de diagram Warnier Orr](#46-exemplo-de-diagram-warnier-orr)
-    - [4.7. Comparação Warnier-Orr x Jackson](#47-comparação-warnier-orr-x-jackson)
-    - [4.8. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.](#48-engenharia-de-software-e-sua-relação-com-a-multidisciplinaridade-interdisciplinaridade-e-transdisciplinaridade)
-  - [5. Exercício](#5-exercício)
-    - [5.1. Início de documentação:](#51-início-de-documentação)
-    - [5.2. Exemplos de documentações](#52-exemplos-de-documentações)
+    - [4.2. Trabalhos (projeto do sistema da petshop) realizados pelos alunos:](#42-trabalhos-projeto-do-sistema-da-petshop-realizados-pelos-alunos)
+    - [4.3. Projeto da petshop no Sourceforge, repositório dos alunos:](#43-projeto-da-petshop-no-sourceforge-repositório-dos-alunos)
+  - [5. Conteúdo complementar](#5-conteúdo-complementar)
+    - [5.1. Exemplo de diagram Warnier Orr](#51-exemplo-de-diagram-warnier-orr)
+    - [5.2. Comparação Warnier-Orr x Jackson](#52-comparação-warnier-orr-x-jackson)
+    - [5.3. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.](#53-engenharia-de-software-e-sua-relação-com-a-multidisciplinaridade-interdisciplinaridade-e-transdisciplinaridade)
+    - [5.4. Exemplos de documentações](#54-exemplos-de-documentações)
+  - [6. Exercício/trabalho](#6-exercíciotrabalho)
+    - [6.1. Início de documentação:](#61-início-de-documentação)
+    - [6.2. Prompts utilizados no trabalho do projeto petshop](#62-prompts-utilizados-no-trabalho-do-projeto-petshop)
+    - [6.3. Desenvolvimento da licença](#63-desenvolvimento-da-licença)
   - [6. Links para download de ferramentas para diagramação com UML:](#6-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [7. Artigos:](#7-artigos)
   - [8. Referências:](#8-referências)
@@ -132,7 +133,7 @@ Avaliação 3: 03/12/2024 <br>
 
 
 
-### 4.2. Trabalhos (projeto do sistema da petshop)
+### 4.2. Trabalhos (projeto do sistema da petshop) realizados pelos alunos:
 
 
 
@@ -171,7 +172,7 @@ Avaliação 3: 03/12/2024 <br>
 
 
 
-### 4.3. Projeto da petshop no Sourceforge
+### 4.3. Projeto da petshop no Sourceforge, repositório dos alunos:
 
 
 
@@ -209,45 +210,9 @@ Avaliação 3: 03/12/2024 <br>
 
 
 
+## 5. Conteúdo complementar
 
-
-### 4.4. Prompts utilizados
-
-| | Etapa do processo | Prompts |
-|-|-------|--------|
-|1|Diagrama ER| Crie um diagrama entidade relacionamento usando Markdown e Mermaid para as regras de negócio a seguir:|
-|2|Diagrama de classe| Crie um diagrama de classes usando Markdown e Mermaid para as regras de negócio a seguir:|
-|3|Desenvimento do BD |Crie um script SQL com comandos CREATE para MySQL para gerar as tabelas para as regras de negócio a seguir:|
-|4|Popular Banco|Crei um scrip SQL para MySQL usando comandos INSERT com dados fictícios para as tabelas acima:|
-|5| Diagrama do caso de uso| Leia novamente a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça diagrama de “casos de uso” para a descrição acima usando PlantUML e markdown. |
-|6 | Diagrama de componente | Contexto:  <cole aqui o seu item 2! > Faça: Um diagrama de componente usando PlantUML. |
-|7 | Diagrama de implantação | Contexto: <cole aqui o seu item 2! > Faça: Um diagrama de implantação usando PlantUML. |
-|8 | Diagrama de navegação de telas | Contexto: <cole aqui o seu item 2! > Faça: Um diagrama de navegação de tela usando MERMAID e MARKDOWN |
-|9 | Diagrama de pilha tecnológica | Contexto: Considere os diagramas de componentes, implantação e navegação realizados anteriormente. Faça: Um diagrama usando MERMAID e MARKDOWN que represente e pilha tecnológica do software proposto. |
-|10| Histórias de usuário | Leia a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça em markdown as “histórias de usuário” para as regras de negócio acima:|
-|11| Diagramas C4 | Contexto: para a descrição a seguir: ...... Item 2 !  Colar aqu! Faça os seguintes diagramas C4 em Markdown com Mermeid: 1. Diagrama de contexto 2. Diagrama de container 3. Diagrama de componente 4. Diagrama de código|
-| 12 | Requisitos funcionais | Contexto:  para a descrição a seguir: ... Item 2 !  Colar aqui !! Faça uma tabela mostrando os requisitos funcionais e não funcionais, esta tabela deverá estar em Markdown. |
-
-
-Diagrama de casos de uso: Use https://app.diagrams.net/ para gerar o diagrama.
-
-
-
-
-### 4.5. Desenvolvimento da licença
-
-Passo a passo para desenvolver a licença para o repositório:
-https://chooser-beta.creativecommons.org/
-
-Código para inserir as imagens da licença: 
-
-```html
-<img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" height="20px"  width="20px"/> 
-```
-
-
-
-### 4.6. Exemplo de diagram Warnier Orr
+### 5.1. Exemplo de diagram Warnier Orr
 
 ```mermaid
 
@@ -273,7 +238,7 @@ flowchart TD
 
 ```
 
-### 4.7. Comparação Warnier-Orr x Jackson
+### 5.2. Comparação Warnier-Orr x Jackson
 
 
 | Característica                    | **Warnier-Orr Methodology**                         | **Jackson Methodology**                              |
@@ -290,7 +255,7 @@ flowchart TD
 | **Complexidade de Modelagem**      | Pode ser mais difícil devido à complexidade na decomposição | Foco na simplicidade e clareza no início do desenvolvimento |
 | **Abordagem Visual**               | Utiliza diagramas como a Decomposição Funcional e DFD | Usa diagramas como fluxos de dados e diagramas de controle |
 
-### 4.8. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.
+### 5.3. Engenharia de software e sua relação com a multidisciplinaridade, interdisciplinaridade e transdisciplinaridade.
 
 
 
@@ -302,36 +267,32 @@ flowchart TD
 | **Exemplo**                     | Projetos onde diferentes áreas trabalham separadamente.            | Projetos que envolvem colaboração ativa entre as disciplinas.     | Projetos que envolvem a colaboração não apenas de acadêmicos, mas também das comunidades e experiências práticas. |
 
 
+---
+### 5.4. Exemplos de documentações
+
+Documentações geradas no Doxygen e no StarUML e disponibilizadas em repositórios no github como sites online:
+
+Projeto 1:
+Página no github: https://github.com/monteiro74/documentacao_doxygen
+
+Site: https://monteiro74.github.io/documentacao_doxygen/
 
 
+Site: https://monteiro74.github.io/documentacao_uml/
 
 
+Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 
+Exemplo de diagramas com PlantUML: https://real-world-plantuml.com/?type=component
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Exemplo de diagramas com C4: https://github.com/plantuml-stdlib/C4-PlantUML
 
 
 ---
-## 5. Exercício
+## 6. Exercício/trabalho
 
-### 5.1. Início de documentação:
+### 6.1. Início de documentação:
 
 Parte inicial do exercício.
 
@@ -356,26 +317,44 @@ Parte inicial do exercício.
 
 Maiores detalhes além do 18, serão adicionados em sala de aula.
 
----
-### 5.2. Exemplos de documentações
+### 6.2. Prompts utilizados no trabalho do projeto petshop
 
-Documentações geradas no Doxygen e no StarUML e disponibilizadas em repositórios no github como sites online:
+| | Etapa do processo | Prompts |
+|-|-------|--------|
+|1|Diagrama ER| Crie um diagrama entidade relacionamento usando Markdown e Mermaid para as regras de negócio a seguir:|
+|2|Diagrama de classe| Crie um diagrama de classes usando Markdown e Mermaid para as regras de negócio a seguir:|
+|3|Desenvimento do BD |Crie um script SQL com comandos CREATE para MySQL para gerar as tabelas para as regras de negócio a seguir:|
+|4|Popular Banco|Crei um scrip SQL para MySQL usando comandos INSERT com dados fictícios para as tabelas acima:|
+|5| Diagrama do caso de uso| Leia novamente a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça diagrama de “casos de uso” para a descrição acima usando PlantUML e markdown. |
+|6 | Diagrama de componente | Contexto:  <cole aqui o seu item 2! > Faça: Um diagrama de componente usando PlantUML. |
+|7 | Diagrama de implantação | Contexto: <cole aqui o seu item 2! > Faça: Um diagrama de implantação usando PlantUML. |
+|8 | Diagrama de navegação de telas | Contexto: <cole aqui o seu item 2! > Faça: Um diagrama de navegação de tela usando MERMAID e MARKDOWN |
+|9 | Diagrama de pilha tecnológica | Contexto: Considere os diagramas de componentes, implantação e navegação realizados anteriormente. Faça: Um diagrama usando MERMAID e MARKDOWN que represente e pilha tecnológica do software proposto. |
+|10| Histórias de usuário | Leia a descrição das regras de negócio abaixo: .... colar aqui a descrição das regras de negócio do seu sistema... Faça em markdown as “histórias de usuário” para as regras de negócio acima:|
+|11| Diagramas C4 | Contexto: para a descrição a seguir: ...... Item 2 !  Colar aqu! Faça os seguintes diagramas C4 em Markdown com Mermeid: 1. Diagrama de contexto 2. Diagrama de container 3. Diagrama de componente 4. Diagrama de código|
+| 12 | Requisitos funcionais | Contexto:  para a descrição a seguir: ... Item 2 !  Colar aqui !! Faça uma tabela mostrando os requisitos funcionais e não funcionais, esta tabela deverá estar em Markdown. |
 
-Projeto 1:
-Página no github: https://github.com/monteiro74/documentacao_doxygen
 
-Site: https://monteiro74.github.io/documentacao_doxygen/
+Diagrama de casos de uso: Use https://app.diagrams.net/ para gerar o diagrama.
 
 
-Site: https://monteiro74.github.io/documentacao_uml/
+### 6.3. Desenvolvimento da licença
+
+Exemplo de licença para ser usado no proojeto da petshop.
+
+Passo a passo para desenvolver a licença para o repositório:
+https://chooser-beta.creativecommons.org/
+
+Código para inserir as imagens da licença: 
+
+```html
+<img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" height="20px"  width="20px"/> 
+```
 
 
-Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 
-Exemplo de diagramas com PlantUML: https://real-world-plantuml.com/?type=component
 
-Exemplo de diagramas com C4: https://github.com/plantuml-stdlib/C4-PlantUML
 
 ---
 ## 6. Links para download de ferramentas para diagramação com UML:
@@ -452,6 +431,7 @@ https://www.infoq.com/minibooks/emag-business-design-technology/
 ---
 ## 10. Lista de ferramentas:
 
+Ferramentas diversas para uso no desenvolvimento de sistemas:
 
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
