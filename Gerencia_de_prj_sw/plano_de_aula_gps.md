@@ -58,9 +58,11 @@ Site da disciplina: https://sites.google.com/unemat.br/professoremiliano/inicio
 
 ### 1.5. Procedimentos de avaliação de aprendizagem: 
 
-Prova presencial escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não). Provas de 2ª chamada devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é discursiva, escrita (tipo canetão).
+**Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não). 
 
-A carga horária EAD será realizada via leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala), este material poderá estar na sua avaliação  (e disponibilizado no site do professor e na página da disciplina no github).
+**Provas de 2ª chamada** devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é **discursiva, escrita (tipo canetão)**.
+
+A **carga horária EAD será realizada via leitura de artigos** postados pelo professor (ou videos correlatos aos assuntos abordados em sala), este material poderá estar na sua avaliação  (e disponibilizado no site do professor e na página da disciplina no github).
 
 A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá o conteúdo das aulas 6 a 9, a 3ª avaliação terá o conteúdo das aulas 11 a 13 e os artigos selecionados. Cada uma das três avaliações vale 0 à 10,0.A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final.  O exame final será aplicado após a avaliação 3.
 
