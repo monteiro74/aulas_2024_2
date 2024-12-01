@@ -33,6 +33,7 @@
   - [6. Links para download de ferramentas para diagramação com UML:](#6-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [7. Artigos:](#7-artigos)
   - [8. Referências:](#8-referências)
+    - [8.1. Livro sobre .Net Maui](#81-livro-sobre-net-maui)
   - [9. Demais Disciplinas:](#9-demais-disciplinas)
   - [10. Lista de ferramentas:](#10-lista-de-ferramentas)
   - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
@@ -383,6 +384,14 @@ Github Desktop <<-- Recomendo !
 * PAULA FILHO, Wilson de Pádua. Engenharia de Software: fundamentos, métodos e padrões. Rio de Janeiro: LTC, 2019. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788521636724/epubcfi/6/2%5B%3Bvnd.vst.idref%3Dcover%5D!/4/2/2%4050:90 <br>
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012. https://integrada.minhabiblioteca.com.br/books/9788536519418. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 
+
+### 8.1. Livro sobre .Net Maui
+
+Versão em PDF:
+[Enterprise Application Patterns Using .NET MAUI (PDF)](https://dotnet.microsoft.com/pt-br/download/e-book/maui/pdf)
+
+Versão em html:
+[Enterprise Application Patterns Using .NET MAUI](https://learn.microsoft.com/pt-br/dotnet/architecture/maui/)
 
 ## 9. Demais Disciplinas:
 
