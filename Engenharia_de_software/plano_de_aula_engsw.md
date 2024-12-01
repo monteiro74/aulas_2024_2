@@ -58,7 +58,11 @@ Sala O8 - Fase 4, Terça feira.
 
 ### 1.3. Ementa: 
 
-Processos de software. Métodos tradicionais de análise de sistemas. Métodos ágeis de análise e desenvolvimento de software. Introdução a UML. Projeto de Software.
+* Processos de software. 
+* Métodos tradicionais de análise de sistemas. 
+* Métodos ágeis de análise e desenvolvimento de software. 
+* Introdução a UML. 
+* Projeto de Software.
 
 ### 1.4. Metodologia:
 
