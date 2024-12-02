@@ -149,7 +149,7 @@ PF: __/__/2024 <br>
 
 |#| Aluno   | Projeto no confluence | Projeto no Jira |
 | --        | ----- | ----------- |--- |
-|1|Alex     | https://unemat-team-alexsilva.atlassian.net/wiki/home	|  |
+|1|Alex     | https://unemat-team-alexsilva.atlassian.net/wiki/spaces/GDP/pages/33354/Template+Plano+de+projeto|  https://unemat-team-alexsilva.atlassian.net/wiki/home	| 
 |2|Carlos   |   |  |
 |3|Ewerton  | 	|  |
 |4|Felipe   | https://chris-ti.atlassian.net/wiki/home	| https://chris-ti.atlassian.net/jira/software/projects/ADT |
