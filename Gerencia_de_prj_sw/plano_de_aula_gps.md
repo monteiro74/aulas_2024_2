@@ -160,7 +160,7 @@ PF: __/__/2024 <br>
 |9|Julio    |   |  |
 |10|Larissa |   |  |
 |11|Leonardi| https://unemat-team-weuonqdc.atlassian.net/wiki/home  | https://unemat-team-db2ldwzk.atlassian.net/jira/core/projects/EQ/board |
-|12|Roberto |   |  |
+|12|Roberto | https://robertodossantosfilho.atlassian.net/wiki/home  |  |
 |13|Wilhan  |	  |  |
 
 
