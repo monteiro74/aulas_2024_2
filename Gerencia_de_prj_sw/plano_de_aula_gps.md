@@ -1,11 +1,48 @@
-# ATUALIZAÇÃO:
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg)
+# ATENÇÃO ALUNOS DE PF
 
 
+Detalhes sobre a PF:
+
+
+A. Conteúdo:
+
+ 1. SQL Server
+
+ 2. Modelo ER e SQL Join
+
+ 3. Blockchain
+
+ 4. Bancos NoSQL
+
+ 5. Teoria de BD em sala
+
+B. Material disponível em:
+
+https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_mpbd.md
+
+e
+
+https://sites.google.com/unemat.br/professoremiliano/mpbd
+
+C. Tipo: Prova escrita (canetão) sem consulta.
+
+D. Data: 12/dezembro (quinta feira).
+
+E. Sala: O2 (à confirmar)
+
+F: Horário: 19hs.
+
+Caso ocorra alguma alteração será comunicada via sigaa e página da disciplina no github.
+
+
+
+
+
+
+---
 # Plano de ensino de Gerência de Projeto de Software
 
-- [ATUALIZAÇÃO:](#atualização)
+- [ATENÇÃO ALUNOS DE PF](#atenção-alunos-de-pf)
 - [Plano de ensino de Gerência de Projeto de Software](#plano-de-ensino-de-gerência-de-projeto-de-software)
   - [1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-312---gerência-de-projetos-de-software-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
