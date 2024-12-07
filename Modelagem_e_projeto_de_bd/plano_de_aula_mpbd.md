@@ -1,8 +1,43 @@
-# ATUALIZAÇÃO:
-
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg](https://raw.githubusercontent.com/monteiro74/aulas_2024_2/refs/heads/main/figuras/novembro.jpg)
+# ATENÇÃO ALUNOS DE PF
 
 
+Detalhes sobre a PF:
+
+
+A. Conteúdo:
+
+ 1. SQL Server
+
+ 2. Modelo ER e SQL Join
+
+ 3. Blockchain
+
+ 4. Bancos NoSQL
+
+ 5. Teoria de BD em sala
+
+B. Material disponível em:
+
+https://github.com/monteiro74/aulas_2024_2/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_mpbd.md
+
+e
+
+https://sites.google.com/unemat.br/professoremiliano/mpbd
+
+C. Tipo: Prova escrita (canetão) sem consulta.
+
+D. Data: 12/dezembro (quinta feira).
+
+E. Sala: O2 (à confirmar)
+
+F: Horário: 19hs.
+
+Caso ocorra alguma alteração será comunicada via sigaa e página da disciplina no github.
+
+
+
+
+---
 # Plano de ensino de: Modelagem e Projeto de Banco de Dados
 
 
